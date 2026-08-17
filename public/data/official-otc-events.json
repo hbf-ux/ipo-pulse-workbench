@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-08-17T13:57:10.335Z",
+  "fetchedAt": "2026-08-17T14:58:26.183Z",
   "items": [
+    {
+      "id": "finra-332933",
+      "cik": "",
+      "ticker": "WRHLS",
+      "title": "MASTERWORKS VAULT 1 LLC CO INT SER 486",
+      "published": "2026-08-17T10:36:46.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Addition · Ticker WRHLS → —",
+      "detail": "Addition",
+      "marketAction": {
+        "action": "Addition",
+        "oldSymbol": "WRHLS",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-332932",
+      "cik": "",
+      "ticker": "AEMRF",
+      "title": "AGNICO EAGLE MINES LTD Contingent Value Rights 06/16/2036",
+      "published": "2026-08-17T10:20:13.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Addition · Ticker AEMRF → —",
+      "detail": "Addition",
+      "marketAction": {
+        "action": "Addition",
+        "oldSymbol": "AEMRF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-332931",
       "cik": "",
@@ -63,6 +105,21 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000143774926028120",
+      "cik": "1842939",
+      "ticker": "XAGEW",
+      "title": "Longevity Health Holdings, Inc.",
+      "published": "2026-08-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1842939/000143774926028120/0001437749-26-028120-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-17 AccNo: 0001437749-26-028120 Size: 160 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000147793226005111",
@@ -196,6 +253,21 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-17 AccNo: 0001493152-26-038576 Size: 5 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226038667",
+      "cik": "1888151",
+      "ticker": "FMTOF",
+      "title": "Femto Technologies Inc.",
+      "published": "2026-08-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1888151/000149315226038667/0001493152-26-038667-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-17 AccNo: 0001493152-26-038667 Size: 3 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -515,62 +587,62 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000149315226038636",
-      "cik": "1042418",
-      "ticker": "INTI",
-      "title": "Inhibitor Therapeutics, Inc.",
+      "id": "sec-000191870426023855",
+      "cik": "1045520",
+      "ticker": "CNDIF",
+      "title": "CANADIAN IMPERIAL BANK OF COMMERCE /CAN/",
       "published": "2026-08-17T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1042418/000149315226038636/0001493152-26-038636-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-17 AccNo: 0001493152-26-038636 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000114036126033285",
-      "cik": "947263",
-      "ticker": "TDBCP",
-      "title": "TORONTO DOMINION BANK",
-      "published": "2026-08-17T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/947263/000114036126033285/0001140361-26-033285-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/1045520/000191870426023855/0001918704-26-023855-index.htm",
       "source": "SEC EDGAR",
       "form": "424B2",
       "category": "Registration & financing",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-17 AccNo: 0001140361-26-033285 Size: 319 KB",
+      "companyIntro": "Filed: 2026-08-17 AccNo: 0001918704-26-023855 Size: 528 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
     {
-      "id": "sec-000119312526353301",
-      "cik": "92108",
-      "ticker": "SOCGP",
-      "title": "SOUTHERN CALIFORNIA GAS CO",
+      "id": "sec-000119312526353474",
+      "cik": "886982",
+      "ticker": "GSCE",
+      "title": "GOLDMAN SACHS GROUP INC",
       "published": "2026-08-17T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/92108/000119312526353301/0001193125-26-353301-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526353474/0001193125-26-353474-index.htm",
       "source": "SEC EDGAR",
-      "form": "424B5",
+      "form": "424B2",
       "category": "Registration & financing",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-17 AccNo: 0001193125-26-353301 Size: 488 KB",
+      "companyIntro": "Filed: 2026-08-17 AccNo: 0001193125-26-353474 Size: 228 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
     {
-      "id": "sec-000110465926097582",
-      "cik": "18654",
-      "ticker": "AILIP",
-      "title": "Ameren Illinois Co",
+      "id": "sec-000095010326012458",
+      "cik": "886982",
+      "ticker": "GSCE",
+      "title": "GOLDMAN SACHS GROUP INC",
       "published": "2026-08-17T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/18654/000110465926097582/0001104659-26-097582-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/886982/000095010326012458/0000950103-26-012458-index.htm",
       "source": "SEC EDGAR",
-      "form": "424B3",
+      "form": "424B2",
       "category": "Registration & financing",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-17 AccNo: 0001104659-26-097582 Size: 709 KB",
+      "companyIntro": "Filed: 2026-08-17 AccNo: 0000950103-26-012458 Size: 341 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000092189526002203",
+      "cik": "1799191",
+      "ticker": "DFPH",
+      "title": "Oncology Institute, Inc.",
+      "published": "2026-08-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1799191/000092189526002203/0000921895-26-002203-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-17 AccNo: 0000921895-26-002203 Size: 7 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1415,21 +1487,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000119312526352473",
-      "cik": "1690012",
-      "ticker": "ICRP",
-      "title": "InPoint Commercial Real Estate Income, Inc.",
-      "published": "2026-08-14T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1690012/000119312526352473/0001193125-26-352473-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEFA14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-14 AccNo: 0001193125-26-352473 Size: 20 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000149315226038280",
       "cik": "1854463",
       "ticker": "WINVW",
@@ -1858,21 +1915,6 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-13 AccNo: 0001940243-26-000019 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226037743",
-      "cik": "1022505",
-      "ticker": "SDCH",
-      "title": "SideChannel, Inc.",
-      "published": "2026-08-13T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1022505/000149315226037743/0001493152-26-037743-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-13 AccNo: 0001493152-26-037743 Size: 1 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3012,10 +3054,10 @@
     }
   ],
   "coverage": {
-    "total": 163,
-    "registration": 7,
+    "total": 165,
+    "registration": 4,
     "financial": 31,
-    "material": 30
+    "material": 32
   },
   "sourceStatus": [
     {
