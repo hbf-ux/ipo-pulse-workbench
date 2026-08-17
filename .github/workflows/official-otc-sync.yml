@@ -1,0 +1,35 @@
+name: Official OTC event snapshot
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: official-otc-event-snapshot
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build official SEC and FINRA snapshot
+        run: node scripts/sync-official-otc.mjs
+      - name: Commit updated snapshot when changed
+        run: |
+          if git diff --quiet -- public/data/official-otc-events.json; then
+            exit 0
+          fi
+          git config user.name "OTC Filing Watch Sync"
+          git config user.email "support@otcfilingwatch.com"
+          git add public/data/official-otc-events.json
+          git commit -m "chore: refresh official OTC event snapshot"
+          git push
