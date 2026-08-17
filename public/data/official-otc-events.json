@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T21:01:14.011Z",
+  "fetchedAt": "2026-08-17T21:59:12.039Z",
   "items": [
     {
       "id": "finra-332959",
@@ -212,6 +212,51 @@
       }
     },
     {
+      "id": "sec-000119312526354308",
+      "cik": "1111741",
+      "ticker": "DYNR",
+      "title": "DYNARESOURCE, INC.",
+      "published": "2026-08-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1111741/000119312526354308/0001193125-26-354308-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-17 AccNo: 0001193125-26-354308 Size: 227 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926097948",
+      "cik": "750004",
+      "ticker": "LNWO",
+      "title": "Light & Wonder, Inc.",
+      "published": "2026-08-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/750004/000110465926097948/0001104659-26-097948-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-17 AccNo: 0001104659-26-097948 Size: 200 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000106299326004455",
+      "cik": "1456189",
+      "ticker": "LEAT",
+      "title": "Leatt Corp",
+      "published": "2026-08-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1456189/000106299326004455/0001062993-26-004455-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-17 AccNo: 0001062993-26-004455 Size: 1 MB Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "Item 5.07",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000149315226038779",
       "cik": "1849221",
       "ticker": "PMNT",
@@ -329,51 +374,6 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-17 AccNo: 0001683168-26-006525 Size: 8 MB Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 9.01: Financial Statements and Exhibits",
       "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526353763",
-      "cik": "1846084",
-      "ticker": "JETBF",
-      "title": "Global Crossing Airlines Group Inc.",
-      "published": "2026-08-17T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1846084/000119312526353763/0001193125-26-353763-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Management or board change",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-17 AccNo: 0001193125-26-353763 Size: 199 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 5.02",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000162828026057287",
-      "cik": "1327978",
-      "ticker": "ZARE",
-      "title": "Ares Real Estate Income Trust Inc.",
-      "published": "2026-08-17T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1327978/000162828026057287/0001628280-26-057287-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-17 AccNo: 0001628280-26-057287 Size: 276 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000106299326004452",
-      "cik": "1893899",
-      "ticker": "WAMFF",
-      "title": "Alaska Silver Corp.",
-      "published": "2026-08-17T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1893899/000106299326004452/0001062993-26-004452-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-17 AccNo: 0001062993-26-004452 Size: 440 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 1.01",
       "chinaConnection": ""
     },
     {
@@ -913,51 +913,6 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-17 AccNo: 0001493152-26-038636 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000168316826006536",
-      "cik": "1070050",
-      "ticker": "APCXW",
-      "title": "AppTech Payments Corp.",
-      "published": "2026-08-17T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1070050/000168316826006536/0001683168-26-006536-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-17 AccNo: 0001683168-26-006536 Size: 9 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426023937",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
-      "published": "2026-08-17T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426023937/0001918704-26-023937-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-17 AccNo: 0001918704-26-023937 Size: 603 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426023935",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
-      "published": "2026-08-17T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426023935/0001918704-26-023935-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-17 AccNo: 0001918704-26-023935 Size: 1 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1622,21 +1577,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000121390026090240",
-      "cik": "1889983",
-      "ticker": "KVAWF",
-      "title": "Keen Vision Acquisition Corp.",
-      "published": "2026-08-14T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1889983/000121390026090240/0001213900-26-090240-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-14 AccNo: 0001213900-26-090240 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000121390026090236",
       "cik": "1801417",
       "ticker": "BYNOW",
@@ -1714,7 +1654,7 @@
     {
       "id": "sec-000149315226038280",
       "cik": "1854463",
-      "ticker": "WINVR",
+      "ticker": "WINVW",
       "title": "WinVest Acquisition Corp.",
       "published": "2026-08-14T00:00:00Z",
       "link": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226038280/0001493152-26-038280-index.htm",
@@ -3294,9 +3234,9 @@
     }
   ],
   "coverage": {
-    "total": 179,
-    "registration": 8,
-    "financial": 32,
+    "total": 175,
+    "registration": 6,
+    "financial": 31,
     "material": 36
   },
   "sourceStatus": [
