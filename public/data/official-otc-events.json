@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T21:59:12.039Z",
+  "fetchedAt": "2026-08-17T22:56:25.586Z",
   "items": [
     {
       "id": "finra-332959",
@@ -913,6 +913,21 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-17 AccNo: 0001493152-26-038636 Size: 3 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000107042326000044",
+      "cik": "1070423",
+      "ticker": "PAAPU",
+      "title": "PLAINS ALL AMERICAN PIPELINE LP",
+      "published": "2026-08-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1070423/000107042326000044/0001070423-26-000044-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-17 AccNo: 0001070423-26-000044 Size: 11 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3234,7 +3249,7 @@
     }
   ],
   "coverage": {
-    "total": 175,
+    "total": 176,
     "registration": 6,
     "financial": 31,
     "material": 36
