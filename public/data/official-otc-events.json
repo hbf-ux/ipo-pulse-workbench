@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T08:04:19.535Z",
+  "fetchedAt": "2026-08-18T09:55:02.850Z",
   "items": [
     {
       "id": "finra-332934",
@@ -1694,21 +1694,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000121390026090240",
-      "cik": "1889983",
-      "ticker": "KVAWF",
-      "title": "Keen Vision Acquisition Corp.",
-      "published": "2026-08-14T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1889983/000121390026090240/0001213900-26-090240-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-14 AccNo: 0001213900-26-090240 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000121390026090236",
       "cik": "1801417",
       "ticker": "BYNOW",
@@ -1786,7 +1771,7 @@
     {
       "id": "sec-000149315226038280",
       "cik": "1854463",
-      "ticker": "WINVR",
+      "ticker": "WINVW",
       "title": "WinVest Acquisition Corp.",
       "published": "2026-08-14T00:00:00Z",
       "link": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226038280/0001493152-26-038280-index.htm",
@@ -2766,9 +2751,9 @@
     }
   ],
   "coverage": {
-    "total": 153,
+    "total": 152,
     "registration": 5,
-    "financial": 28,
+    "financial": 27,
     "material": 36
   },
   "sourceStatus": [
