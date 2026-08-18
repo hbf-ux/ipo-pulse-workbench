@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-08-18T05:03:40.076Z",
+  "fetchedAt": "2026-08-18T06:03:27.081Z",
   "items": [
+    {
+      "id": "finra-332934",
+      "cik": "",
+      "ticker": "NVTQF",
+      "title": "PATTERSON METALS CORP COM (Canada)",
+      "published": "2026-08-18T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker NVTQD → NVTQF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "NVTQD",
+        "newSymbol": "NVTQF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-332790",
+      "cik": "",
+      "ticker": "PCRCF",
+      "title": "26 METALS INC COM (Canada)",
+      "published": "2026-08-18T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker PCRCF → PCRCF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "PCRCF",
+        "newSymbol": "PCRCF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-332959",
       "cik": "",
@@ -1742,6 +1784,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000149315226038280",
+      "cik": "1854463",
+      "ticker": "WINVR",
+      "title": "WinVest Acquisition Corp.",
+      "published": "2026-08-14T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226038280/0001493152-26-038280-index.htm",
+      "source": "SEC EDGAR",
+      "form": "PRE 14A",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-14 AccNo: 0001493152-26-038280 Size: 631 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "finra-332080",
       "cik": "",
       "ticker": "JMPLD",
@@ -2709,7 +2766,7 @@
     }
   ],
   "coverage": {
-    "total": 150,
+    "total": 153,
     "registration": 5,
     "financial": 28,
     "material": 36
