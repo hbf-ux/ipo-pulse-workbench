@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T03:10:50.378Z",
+  "fetchedAt": "2026-08-18T05:03:40.076Z",
   "items": [
     {
       "id": "finra-332959",
@@ -1742,21 +1742,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000149315226038280",
-      "cik": "1854463",
-      "ticker": "WINVR",
-      "title": "WinVest Acquisition Corp.",
-      "published": "2026-08-14T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226038280/0001493152-26-038280-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-14 AccNo: 0001493152-26-038280 Size: 631 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-332080",
       "cik": "",
       "ticker": "JMPLD",
@@ -2724,7 +2709,7 @@
     }
   ],
   "coverage": {
-    "total": 151,
+    "total": 150,
     "registration": 5,
     "financial": 28,
     "material": 36
