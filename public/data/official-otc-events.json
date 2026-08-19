@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T23:01:35.175Z",
+  "fetchedAt": "2026-08-19T23:57:12.711Z",
   "items": [
     {
       "id": "finra-333083",
@@ -1925,6 +1925,36 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000162828026057529",
+      "cik": "835403",
+      "ticker": "DGEAF",
+      "title": "DIAGEO PLC",
+      "published": "2026-08-18T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/835403/000162828026057529/0001628280-26-057529-index.htm",
+      "source": "SEC EDGAR",
+      "form": "20-F",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-18 AccNo: 0001628280-26-057529 Size: 184 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526354647",
+      "cik": "811809",
+      "ticker": "BHPLF",
+      "title": "BHP Group Ltd",
+      "published": "2026-08-18T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/0001193125-26-354647-index.htm",
+      "source": "SEC EDGAR",
+      "form": "20-F",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-18 AccNo: 0001193125-26-354647 Size: 230 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000001584726000032",
       "cik": "15847",
       "ticker": "BUKS",
@@ -3288,9 +3318,9 @@
     }
   ],
   "coverage": {
-    "total": 183,
+    "total": 185,
     "registration": 3,
-    "financial": 51,
+    "financial": 53,
     "material": 30
   },
   "sourceStatus": [
