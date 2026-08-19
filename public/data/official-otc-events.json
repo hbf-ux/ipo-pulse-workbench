@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-08-19T05:04:46.353Z",
+  "fetchedAt": "2026-08-19T07:26:04.154Z",
   "items": [
+    {
+      "id": "finra-332980",
+      "cik": "",
+      "ticker": "GARR",
+      "title": "GARRISON FILM PRODUCTIONS INC Common Stock",
+      "published": "2026-08-19T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/Symbol Change · Ticker EMDF → GARR",
+      "detail": "Name/Symbol Change",
+      "marketAction": {
+        "action": "Name/Symbol Change",
+        "oldSymbol": "EMDF",
+        "newSymbol": "GARR",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-332982",
+      "cik": "",
+      "ticker": "MVMDF",
+      "title": "MORE LIFE COMPANY CORP COM (Canada)",
+      "published": "2026-08-19T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker MVMDF → MVMDF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "MVMDF",
+        "newSymbol": "MVMDF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-332995",
       "cik": "",
@@ -2472,7 +2514,7 @@
     }
   ],
   "coverage": {
-    "total": 135,
+    "total": 137,
     "registration": 3,
     "financial": 14,
     "material": 43
