@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T23:26:32.640Z",
+  "fetchedAt": "2026-08-20T23:51:22.646Z",
   "items": [
     {
       "id": "finra-333174",
@@ -892,6 +892,21 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0000950103-26-012672 Size: 37 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226039461",
+      "cik": "1730773",
+      "ticker": "BSFC",
+      "title": "Blue Star Foods Corp.",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1730773/000149315226039461/0001493152-26-039461-index.htm",
+      "source": "SEC EDGAR",
+      "form": "1-A-W",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039461 Size: 14 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3417,8 +3432,8 @@
     }
   ],
   "coverage": {
-    "total": 188,
-    "registration": 2,
+    "total": 189,
+    "registration": 3,
     "financial": 55,
     "material": 29
   },
