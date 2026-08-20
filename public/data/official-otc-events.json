@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T10:48:44.682Z",
+  "fetchedAt": "2026-08-20T11:26:53.923Z",
   "items": [
     {
       "id": "finra-333094",
@@ -1607,51 +1607,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000119312526356141",
-      "cik": "2120882",
-      "ticker": "HXSCL",
-      "title": "SK hynix Inc.",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2120882/000119312526356141/0001193125-26-356141-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001193125-26-356141 Size: 23 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526356139",
-      "cik": "2120882",
-      "ticker": "HXSCL",
-      "title": "SK hynix Inc.",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2120882/000119312526356139/0001193125-26-356139-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001193125-26-356139 Size: 20 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526356133",
-      "cik": "2120882",
-      "ticker": "HXSCL",
-      "title": "SK hynix Inc.",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2120882/000119312526356133/0001193125-26-356133-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001193125-26-356133 Size: 99 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-332980",
       "cik": "",
       "ticker": "GARR",
@@ -3129,10 +3084,10 @@
     }
   ],
   "coverage": {
-    "total": 176,
+    "total": 173,
     "registration": 2,
     "financial": 55,
-    "material": 32
+    "material": 29
   },
   "sourceStatus": [
     {
