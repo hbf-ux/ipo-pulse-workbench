@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T11:26:53.923Z",
+  "fetchedAt": "2026-08-20T11:54:44.923Z",
   "items": [
     {
       "id": "finra-333094",
@@ -21,6 +21,21 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000149315226039364",
+      "cik": "2068385",
+      "ticker": "SHAZW",
+      "title": "SharonAI Holdings Inc.",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/2068385/000149315226039364/0001493152-26-039364-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039364 Size: 239 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000156470826000184",
@@ -79,6 +94,21 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0001731122-26-001105 Size: 4 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926098991",
+      "cik": "1736541",
+      "ticker": "NIOIF",
+      "title": "NIO Inc.",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1736541/000110465926098991/0001104659-26-098991-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001104659-26-098991 Size: 24 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -233,6 +263,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000104617926000543",
+      "cik": "1046179",
+      "ticker": "TSMWF",
+      "title": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000543/0001046179-26-000543-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001046179-26-000543 Size: 9 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000119312526357726",
       "cik": "769218",
       "ticker": "AEGOF",
@@ -304,21 +349,6 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039331 Size: 5 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026091861",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000121390026091861/0001213900-26-091861-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001213900-26-091861 Size: 88 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1588,21 +1618,6 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-19 AccNo: 0001628280-26-057862 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000165495426007739",
-      "cik": "1900304",
-      "ticker": "HLNCF",
-      "title": "Haleon plc",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1900304/000165495426007739/0001654954-26-007739-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001654954-26-007739 Size: 271 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3084,10 +3099,10 @@
     }
   ],
   "coverage": {
-    "total": 173,
-    "registration": 2,
+    "total": 174,
+    "registration": 1,
     "financial": 55,
-    "material": 29
+    "material": 30
   },
   "sourceStatus": [
     {
