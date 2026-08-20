@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-08-20T07:29:29.309Z",
+  "fetchedAt": "2026-08-20T08:08:00.419Z",
   "items": [
+    {
+      "id": "finra-333094",
+      "cik": "",
+      "ticker": "QNBC",
+      "title": "QNB CORP COM",
+      "published": "2026-08-20T01:46:17.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Market Center Change Listed on NASDAQ · Ticker QNBC → —",
+      "detail": "Market Center Change Listed on NASDAQ",
+      "marketAction": {
+        "action": "Market Center Change Listed on NASDAQ",
+        "oldSymbol": "QNBC",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333083",
       "cik": "",
@@ -2973,7 +2994,7 @@
     }
   ],
   "coverage": {
-    "total": 166,
+    "total": 167,
     "registration": 1,
     "financial": 53,
     "material": 30
