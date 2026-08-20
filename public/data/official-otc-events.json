@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T11:54:44.923Z",
+  "fetchedAt": "2026-08-20T12:51:18.567Z",
   "items": [
     {
       "id": "finra-333094",
@@ -21,6 +21,21 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000121390026091905",
+      "cik": "1859807",
+      "ticker": "NVACW",
+      "title": "Profusa, Inc.",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026091905/0001213900-26-091905-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001213900-26-091905 Size: 216 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "Item 2.02",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000149315226039364",
@@ -94,6 +109,36 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0001731122-26-001105 Size: 4 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000127956926000814",
+      "cik": "1045520",
+      "ticker": "CNDIF",
+      "title": "CANADIAN IMPERIAL BANK OF COMMERCE /CAN/",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1045520/000127956926000814/0001279569-26-000814-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001279569-26-000814 Size: 21 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026091896",
+      "cik": "1949257",
+      "ticker": "RDPTF",
+      "title": "Radiopharm Theranostics Ltd",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1949257/000121390026091896/0001213900-26-091896-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001213900-26-091896 Size: 30 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -659,51 +704,6 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-19 AccNo: 0001213900-26-091749 Size: 672 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 9.01: Financial Statements and Exhibits",
       "eventCue": "Item 1.01",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000110842626000050",
-      "cik": "81023",
-      "ticker": "PNMXO",
-      "title": "PUBLIC SERVICE CO OF NEW MEXICO",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/81023/000110842626000050/0001108426-26-000050-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001108426-26-000050 Size: 2 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 1.01",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000168316826006600",
-      "cik": "1910975",
-      "ticker": "RPDL",
-      "title": "Rapid Line Inc.",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1910975/000168316826006600/0001683168-26-006600-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001683168-26-006600 Size: 188 KB Item 8.01: Other Events",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026091703",
-      "cik": "1726711",
-      "ticker": "ADTX",
-      "title": "Aditxt, Inc.",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1726711/000121390026091703/0001213900-26-091703-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001213900-26-091703 Size: 194 KB Item 8.01: Other Events",
-      "eventCue": "",
       "chinaConnection": ""
     },
     {
@@ -1427,21 +1427,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000114036126033719",
-      "cik": "315958",
-      "ticker": "CRMZ",
-      "title": "CREDITRISKMONITOR COM INC",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/315958/000114036126033719/0001140361-26-033719-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001140361-26-033719 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000094787126000820",
       "cik": "932787",
       "ticker": "STMEF",
@@ -1588,36 +1573,6 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-19 AccNo: 0001654954-26-007746 Size: 40 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000117494726000814",
-      "cik": "1002242",
-      "ticker": "EIPAF",
-      "title": "ENI SPA",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000814/0001174947-26-000814-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001174947-26-000814 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000162828026057862",
-      "cik": "1023512",
-      "ticker": "DRDGF",
-      "title": "DRDGOLD LTD",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1023512/000162828026057862/0001628280-26-057862-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001628280-26-057862 Size: 4 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3099,10 +3054,10 @@
     }
   ],
   "coverage": {
-    "total": 174,
+    "total": 171,
     "registration": 1,
-    "financial": 55,
-    "material": 30
+    "financial": 54,
+    "material": 28
   },
   "sourceStatus": [
     {
