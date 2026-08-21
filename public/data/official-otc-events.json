@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-08-21T21:25:27.619Z",
+  "fetchedAt": "2026-08-21T21:49:58.958Z",
   "items": [
+    {
+      "id": "finra-333270",
+      "cik": "",
+      "ticker": "RSHMF",
+      "title": "RUSH RARE METALS CORP COM (Canada)",
+      "published": "2026-08-21T17:29:56.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker RSHMF → —",
+      "detail": "Acquisition/Merger/Amalgamation",
+      "marketAction": {
+        "action": "Acquisition/Merger/Amalgamation",
+        "oldSymbol": "RSHMF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333269",
       "cik": "",
@@ -275,6 +296,21 @@
       }
     },
     {
+      "id": "sec-000107997326001169",
+      "cik": "1799191",
+      "ticker": "DFPH",
+      "title": "Starling Oncology, Inc.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1799191/000107997326001169/0001079973-26-001169-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001079973-26-001169 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "Item 1.01",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000168316826006657",
       "cik": "1652958",
       "ticker": "EDGM",
@@ -377,36 +413,6 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039667 Size: 343 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
       "eventCue": "Item 5.02",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526361075",
-      "cik": "1720265",
-      "ticker": "ZCSH",
-      "title": "Grayscale Zcash Trust (ZEC)",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1720265/000119312526361075/0001193125-26-361075-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001193125-26-361075 Size: 156 KB Item 8.01: Other Events",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000162828026058414",
-      "cik": "1159152",
-      "ticker": "JHIUF",
-      "title": "James Hardie Industries plc",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1159152/000162828026058414/0001628280-26-058414-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001628280-26-058414 Size: 1 MB Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 5.07",
       "chinaConnection": ""
     },
     {
@@ -725,6 +731,36 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000182912626009196",
+      "cik": "1463000",
+      "ticker": "GRUSF",
+      "title": "Grown Rogue International Inc.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1463000/000182912626009196/0001829126-26-009196-index.htm",
+      "source": "SEC EDGAR",
+      "form": "PRE 14A",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001829126-26-009196 Size: 798 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526361331",
+      "cik": "886982",
+      "ticker": "GSCE",
+      "title": "GOLDMAN SACHS GROUP INC",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361331/0001193125-26-361331-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001193125-26-361331 Size: 838 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000191870426024512",
       "cik": "70858",
       "ticker": "BACRP",
@@ -811,66 +847,6 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001918704-26-024508 Size: 465 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426024505",
-      "cik": "312070",
-      "ticker": "JJETF",
-      "title": "BARCLAYS BANK PLC",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/312070/000191870426024505/0001918704-26-024505-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001918704-26-024505 Size: 299 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526361303",
-      "cik": "886982",
-      "ticker": "GSCE",
-      "title": "GOLDMAN SACHS GROUP INC",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361303/0001193125-26-361303-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001193125-26-361303 Size: 448 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426024504",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024504/0001918704-26-024504-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001918704-26-024504 Size: 682 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426024501",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024501/0001918704-26-024501-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001918704-26-024501 Size: 694 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2354,36 +2330,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000147793226005158",
-      "cik": "846377",
-      "ticker": "TGNT",
-      "title": "Totaligent, Inc.",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/846377/000147793226005158/0001477932-26-005158-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001477932-26-005158 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000143774926028491",
-      "cik": "1089815",
-      "ticker": "EHSI",
-      "title": "Elite Health Systems Inc.",
-      "published": "2026-08-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1089815/000143774926028491/0001437749-26-028491-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-19 AccNo: 0001437749-26-028491 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000114036126033719",
       "cik": "315958",
       "ticker": "CRMZ",
@@ -3450,10 +3396,10 @@
     }
   ],
   "coverage": {
-    "total": 191,
-    "registration": 12,
-    "financial": 52,
-    "material": 30
+    "total": 187,
+    "registration": 9,
+    "financial": 50,
+    "material": 29
   },
   "sourceStatus": [
     {
