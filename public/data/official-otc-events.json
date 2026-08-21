@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T23:51:22.646Z",
+  "fetchedAt": "2026-08-21T01:20:24.700Z",
   "items": [
     {
       "id": "finra-333174",
@@ -896,21 +896,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000149315226039461",
-      "cik": "1730773",
-      "ticker": "BSFC",
-      "title": "Blue Star Foods Corp.",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1730773/000149315226039461/0001493152-26-039461-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A-W",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039461 Size: 14 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000134740826000001",
       "cik": "1347408",
       "ticker": "SGBAF",
@@ -926,32 +911,47 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000179757826000014",
-      "cik": "98222",
-      "ticker": "TDGMW",
-      "title": "TIDEWATER INC",
+      "id": "sec-000110465926099321",
+      "cik": "2057463",
+      "ticker": "GLIBB",
+      "title": "Liberty Capital Corp/NV",
       "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/98222/000179757826000014/0001797578-26-000014-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/2057463/000110465926099321/0001104659-26-099321-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001797578-26-000014 Size: 5 KB",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001104659-26-099321 Size: 18 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
     {
-      "id": "sec-000209704226000005",
-      "cik": "1076378",
-      "ticker": "CXMSF",
-      "title": "CEMEX SAB DE CV",
+      "id": "sec-000110465926099319",
+      "cik": "1611983",
+      "ticker": "LBRDB",
+      "title": "Liberty Broadband Corp",
       "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1076378/000209704226000005/0002097042-26-000005-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/1611983/000110465926099319/0001104659-26-099319-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0002097042-26-000005 Size: 5 KB",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001104659-26-099319 Size: 41 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226039537",
+      "cik": "1022899",
+      "ticker": "PTIX",
+      "title": "Protagenic Therapeutics, Inc.\\new",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1022899/000149315226039537/0001493152-26-039537-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039537 Size: 4 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2309,21 +2309,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000001584726000032",
-      "cik": "15847",
-      "ticker": "BUKS",
-      "title": "BUTLER NATIONAL CORP",
-      "published": "2026-08-18T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/15847/000001584726000032/0000015847-26-000032-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-18 AccNo: 0000015847-26-000032 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000121390026091323",
       "cik": "1859807",
       "ticker": "NVACW",
@@ -3093,347 +3078,11 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "finra-332805",
-      "cik": "",
-      "ticker": "SESCW",
-      "title": "SES AI CORP WT EXP 12/10/2026",
-      "published": "2026-08-13T17:09:53.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Market Center Change Delisted from NYSE · Ticker SESCW → —",
-      "detail": "Market Center Change Delisted from NYSE",
-      "marketAction": {
-        "action": "Market Center Change Delisted from NYSE",
-        "oldSymbol": "SESCW",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332795",
-      "cik": "",
-      "ticker": "GPINF",
-      "title": "GOOD PURP INVTS INC Common Shares",
-      "published": "2026-08-13T14:23:05.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker GPINF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "GPINF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332794",
-      "cik": "",
-      "ticker": "IDTID",
-      "title": "IDENTITII LTD SHS NEW (Australia)",
-      "published": "2026-08-13T14:09:44.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker IDTIF → IDTID · Reverse split 1:200",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "IDTIF",
-        "newSymbol": "IDTID",
-        "reverseSplitRate": "1:200",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332789",
-      "cik": "",
-      "ticker": "PBXHF",
-      "title": "PROBIOTIX HEALTH LTD Ordinary Shares",
-      "published": "2026-08-13T11:50:21.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reinstatement · Ticker PBXHF → —",
-      "detail": "Reinstatement",
-      "marketAction": {
-        "action": "Reinstatement",
-        "oldSymbol": "PBXHF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332788",
-      "cik": "",
-      "ticker": "RSABS",
-      "title": "RSE ARCHIVE LLC MEMBERSHIP INT SER BORED APE YACHT CLUB 7359",
-      "published": "2026-08-13T11:49:14.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker RSABS → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "RSABS",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332787",
-      "cik": "",
-      "ticker": "NHCMF",
-      "title": "Nhc Comm Ordinary Shares",
-      "published": "2026-08-13T11:48:52.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker NHCMF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "NHCMF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332786",
-      "cik": "",
-      "ticker": "KUSA",
-      "title": "Kashin, Inc. Common Stock",
-      "published": "2026-08-13T11:48:20.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker KUSA → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "KUSA",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332784",
-      "cik": "",
-      "ticker": "PSTEY",
-      "title": "POSTE ITALIANE S P A American Depositary Shares - Unsponsored",
-      "published": "2026-08-13T11:40:28.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker PSTEY → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "PSTEY",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332782",
-      "cik": "",
-      "ticker": "USREF",
-      "title": "Tactical Resources Corp. Common Stock",
-      "published": "2026-08-13T11:34:57.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker USREF → —",
-      "detail": "Acquisition/Merger/Amalgamation",
-      "marketAction": {
-        "action": "Acquisition/Merger/Amalgamation",
-        "oldSymbol": "USREF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332775",
-      "cik": "",
-      "ticker": "WEIGF",
-      "title": "WEIR PLC ORD GBP0.125 (United Kingdom)",
-      "published": "2026-08-13T09:21:32.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name Change · Ticker WEIGF → WEIGF",
-      "detail": "Name Change",
-      "marketAction": {
-        "action": "Name Change",
-        "oldSymbol": "WEIGF",
-        "newSymbol": "WEIGF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332772",
-      "cik": "",
-      "ticker": "PLMWF",
-      "title": "PLUM ACQUISITION CORP III Warrant (Cayman Islands)",
-      "published": "2026-08-13T08:42:20.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker PLMWF → —",
-      "detail": "Acquisition/Merger/Amalgamation",
-      "marketAction": {
-        "action": "Acquisition/Merger/Amalgamation",
-        "oldSymbol": "PLMWF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332770",
-      "cik": "",
-      "ticker": "PLMJF",
-      "title": "PLUM ACQUISITION CORP III Ordinary Shares (Cayman Islands)",
-      "published": "2026-08-13T08:36:47.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker PLMJF → —",
-      "detail": "Acquisition/Merger/Amalgamation",
-      "marketAction": {
-        "action": "Acquisition/Merger/Amalgamation",
-        "oldSymbol": "PLMJF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332769",
-      "cik": "",
-      "ticker": "PLMUF",
-      "title": "PLUM ACQUISITION CORP III Unit (Cayman Islands)",
-      "published": "2026-08-13T08:34:37.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Unit Separation · Ticker PLMUF → —",
-      "detail": "Unit Separation",
-      "marketAction": {
-        "action": "Unit Separation",
-        "oldSymbol": "PLMUF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332038",
-      "cik": "",
-      "ticker": "ECOC",
-      "title": "Ecominas Corp. Common Stock",
-      "published": "2026-08-13T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker ILXPD → ECOC",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "ILXPD",
-        "newSymbol": "ECOC",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332731",
-      "cik": "",
-      "ticker": "APMRF",
-      "title": "AMPER SA MADRID SHS (Spain)",
-      "published": "2026-08-13T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker APMRD → APMRF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "APMRD",
-        "newSymbol": "APMRF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-332732",
-      "cik": "",
-      "ticker": "MEXGF",
-      "title": "PLATAURO METALS CORP Common Shares",
-      "published": "2026-08-13T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker MEXGD → MEXGF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "MEXGD",
-        "newSymbol": "MEXGF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
     }
   ],
   "coverage": {
-    "total": 189,
-    "registration": 3,
+    "total": 172,
+    "registration": 1,
     "financial": 55,
     "material": 29
   },
