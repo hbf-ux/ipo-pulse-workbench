@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-08-21T05:48:44.918Z",
+  "fetchedAt": "2026-08-21T06:48:38.966Z",
   "items": [
+    {
+      "id": "finra-333171",
+      "cik": "",
+      "ticker": "CBWTF",
+      "title": "Auxly Cannabis Group Inc. Ordinary Shares",
+      "published": "2026-08-21T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker CBWTD → CBWTF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "CBWTD",
+        "newSymbol": "CBWTF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333174",
       "cik": "",
@@ -3051,7 +3072,7 @@
     }
   ],
   "coverage": {
-    "total": 170,
+    "total": 171,
     "registration": 2,
     "financial": 53,
     "material": 29
