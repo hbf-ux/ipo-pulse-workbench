@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T12:04:21.041Z",
+  "fetchedAt": "2026-08-21T13:11:16.759Z",
   "items": [
     {
       "id": "finra-333193",
@@ -21,6 +21,21 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000143774926028677",
+      "cik": "1657642",
+      "ticker": "SLBK",
+      "title": "Skyline Bankshares, Inc.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1657642/000143774926028677/0001437749-26-028677-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001437749-26-028677 Size: 148 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000156470826000185",
@@ -79,6 +94,21 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001712184-26-000144 Size: 194 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000165495426007781",
+      "cik": "845982",
+      "ticker": "SNNUF",
+      "title": "SMITH & NEPHEW PLC",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/845982/000165495426007781/0001654954-26-007781-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001654954-26-007781 Size: 106 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -184,6 +214,36 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039539 Size: 3 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000191870426024401",
+      "cik": "70858",
+      "ticker": "BACRP",
+      "title": "BANK OF AMERICA CORP /DE/",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024401/0001918704-26-024401-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001918704-26-024401 Size: 1 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000114036126033967",
+      "cik": "947263",
+      "ticker": "TDBCP",
+      "title": "TORONTO DOMINION BANK",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/947263/000114036126033967/0001140361-26-033967-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001140361-26-033967 Size: 209 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -725,66 +785,6 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0001662972-26-000128 Size: 137 KB Item 3.02: Unregistered Sales of Equity Securities",
       "eventCue": "Item 3.02",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000198029526000044",
-      "cik": "1980295",
-      "ticker": "IMAA",
-      "title": "IMA Tech",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1980295/000198029526000044/0001980295-26-000044-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Management or board change",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001980295-26-000044 Size: 186 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 5.02",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526359228",
-      "cik": "750558",
-      "ticker": "QNBC",
-      "title": "QNB CORP.",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/750558/000119312526359228/0001193125-26-359228-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001193125-26-359228 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 1.01",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000175015526000119",
-      "cik": "1750155",
-      "ticker": "CWBHF",
-      "title": "Charlotte's Web Holdings, Inc.",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1750155/000175015526000119/0001750155-26-000119-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001750155-26-000119 Size: 140 KB Item 1.01: Entry into a Material Definitive Agreement",
-      "eventCue": "Item 1.01",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000110465926099237",
-      "cik": "1164727",
-      "ticker": "NEMCL",
-      "title": "NEWMONT Corp /DE/",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1164727/000110465926099237/0001104659-26-099237-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Management or board change",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001104659-26-099237 Size: 191 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-      "eventCue": "Item 5.02",
       "chinaConnection": ""
     },
     {
@@ -3124,9 +3124,9 @@
   ],
   "coverage": {
     "total": 174,
-    "registration": 3,
+    "registration": 5,
     "financial": 53,
-    "material": 31
+    "material": 29
   },
   "sourceStatus": [
     {
