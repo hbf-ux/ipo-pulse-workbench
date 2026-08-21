@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-08-21T20:26:45.173Z",
+  "fetchedAt": "2026-08-21T20:51:48.469Z",
   "items": [
+    {
+      "id": "finra-333269",
+      "cik": "",
+      "ticker": "NCLX",
+      "title": "NORTHANN CORP Common Stock",
+      "published": "2026-08-21T16:48:14.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Market Center Change Delisted from NYSE · Ticker NCLX → —",
+      "detail": "Market Center Change Delisted from NYSE",
+      "marketAction": {
+        "action": "Market Center Change Delisted from NYSE",
+        "oldSymbol": "NCLX",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333268",
       "cik": "",
@@ -254,6 +275,21 @@
       }
     },
     {
+      "id": "sec-000149315226039692",
+      "cik": "720762",
+      "ticker": "NIMUD",
+      "title": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/720762/000149315226039692/0001493152-26-039692-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039692 Size: 271 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "Item 1.01",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000119312526361126",
       "cik": "92108",
       "ticker": "SOCGP",
@@ -341,21 +377,6 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001628280-26-058414 Size: 1 MB Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 9.01: Financial Statements and Exhibits",
       "eventCue": "Item 5.07",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526360116",
-      "cik": "898171",
-      "ticker": "UWHR",
-      "title": "UWHARRIE CAPITAL CORP",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/898171/000119312526360116/0001193125-26-360116-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001193125-26-360116 Size: 863 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 2.02",
       "chinaConnection": ""
     },
     {
@@ -644,32 +665,17 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000191870426024494",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
+      "id": "sec-000122520826007275",
+      "cik": "1805526",
+      "ticker": "DFUKF",
+      "title": "DeFi Development Corp.",
       "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024494/0001918704-26-024494-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001918704-26-024494 Size: 554 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000086311026000080",
-      "cik": "863110",
-      "ticker": "ARTNB",
-      "title": "ARTESIAN RESOURCES CORP",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/863110/000086311026000080/0000863110-26-000080-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007275/0001225208-26-007275-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0000863110-26-000080 Size: 4 KB",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001225208-26-007275 Size: 6 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1225,36 +1231,6 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0001104659-26-099175 Size: 30 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000165495426007774",
-      "cik": "1089113",
-      "ticker": "HBCYF",
-      "title": "HSBC HOLDINGS PLC",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426007774/0001654954-26-007774-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001654954-26-007774 Size: 29 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000175392626001566",
-      "cik": "1680637",
-      "ticker": "NRRWF",
-      "title": "Nuran Wireless Inc.",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001566/0001753926-26-001566-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001753926-26-001566 Size: 30 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3309,10 +3285,10 @@
     }
   ],
   "coverage": {
-    "total": 182,
-    "registration": 3,
+    "total": 180,
+    "registration": 2,
     "financial": 52,
-    "material": 29
+    "material": 27
   },
   "sourceStatus": [
     {
