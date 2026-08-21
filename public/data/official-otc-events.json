@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T01:20:24.700Z",
+  "fetchedAt": "2026-08-21T02:45:05.408Z",
   "items": [
     {
       "id": "finra-333174",
@@ -892,6 +892,21 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0000950103-26-012672 Size: 37 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226039461",
+      "cik": "1730773",
+      "ticker": "BSFC",
+      "title": "Blue Star Foods Corp.",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1730773/000149315226039461/0001493152-26-039461-index.htm",
+      "source": "SEC EDGAR",
+      "form": "1-A-W",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039461 Size: 14 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2279,51 +2294,6 @@
       }
     },
     {
-      "id": "sec-000162828026057529",
-      "cik": "835403",
-      "ticker": "DGEAF",
-      "title": "DIAGEO PLC",
-      "published": "2026-08-18T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/835403/000162828026057529/0001628280-26-057529-index.htm",
-      "source": "SEC EDGAR",
-      "form": "20-F",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-18 AccNo: 0001628280-26-057529 Size: 184 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526354647",
-      "cik": "811809",
-      "ticker": "BHPLF",
-      "title": "BHP Group Ltd",
-      "published": "2026-08-18T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/0001193125-26-354647-index.htm",
-      "source": "SEC EDGAR",
-      "form": "20-F",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-18 AccNo: 0001193125-26-354647 Size: 230 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026091323",
-      "cik": "1859807",
-      "ticker": "NVACW",
-      "title": "Profusa, Inc.",
-      "published": "2026-08-18T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026091323/0001213900-26-091323-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-18 AccNo: 0001213900-26-091323 Size: 436 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-332934",
       "cik": "",
       "ticker": "NVTQF",
@@ -3081,9 +3051,9 @@
     }
   ],
   "coverage": {
-    "total": 172,
-    "registration": 1,
-    "financial": 55,
+    "total": 170,
+    "registration": 2,
+    "financial": 53,
     "material": 29
   },
   "sourceStatus": [
