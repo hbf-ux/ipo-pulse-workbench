@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T11:42:49.935Z",
+  "fetchedAt": "2026-08-21T12:04:21.041Z",
   "items": [
     {
       "id": "finra-333193",
@@ -79,6 +79,21 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001712184-26-000144 Size: 194 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000162828026058327",
+      "cik": "1023514",
+      "ticker": "HGMCF",
+      "title": "HARMONY GOLD MINING CO LTD",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1023514/000162828026058327/0001628280-26-058327-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001628280-26-058327 Size: 35 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -964,21 +979,6 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0001213900-26-091896 Size: 30 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000110465926098991",
-      "cik": "1736541",
-      "ticker": "NIOIF",
-      "title": "NIO Inc.",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1736541/000110465926098991/0001104659-26-098991-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001104659-26-098991 Size: 24 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3038,21 +3038,6 @@
       }
     },
     {
-      "id": "sec-000149315226038280",
-      "cik": "1854463",
-      "ticker": "WINVR",
-      "title": "WinVest Acquisition Corp.",
-      "published": "2026-08-14T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226038280/0001493152-26-038280-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-14 AccNo: 0001493152-26-038280 Size: 631 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-332080",
       "cik": "",
       "ticker": "JMPLD",
@@ -3138,7 +3123,7 @@
     }
   ],
   "coverage": {
-    "total": 175,
+    "total": 174,
     "registration": 3,
     "financial": 53,
     "material": 31
