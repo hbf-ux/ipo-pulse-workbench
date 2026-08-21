@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-08-21T07:42:54.814Z",
+  "fetchedAt": "2026-08-21T08:20:41.681Z",
   "items": [
+    {
+      "id": "finra-333193",
+      "cik": "",
+      "ticker": "AGLWQ",
+      "title": "AgileThought, Inc. Warrant",
+      "published": "2026-08-21T02:01:27.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Matured/Expired · Ticker AGLWQ → —",
+      "detail": "Matured/Expired",
+      "marketAction": {
+        "action": "Matured/Expired",
+        "oldSymbol": "AGLWQ",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333171",
       "cik": "",
@@ -3072,7 +3093,7 @@
     }
   ],
   "coverage": {
-    "total": 171,
+    "total": 172,
     "registration": 2,
     "financial": 53,
     "material": 29
