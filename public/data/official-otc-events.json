@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T22:52:13.380Z",
+  "fetchedAt": "2026-08-21T23:25:05.510Z",
   "items": [
     {
       "id": "finra-333270",
@@ -716,21 +716,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000143774926028724",
-      "cik": "1401835",
-      "ticker": "SRGZ",
-      "title": "Star Gold Corp.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1401835/000143774926028724/0001437749-26-028724-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A/A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001437749-26-028724 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000182912626009196",
       "cik": "1463000",
       "ticker": "GRUSF",
@@ -757,36 +742,6 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039744 Size: 7 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000114036126034052",
-      "cik": "1611983",
-      "ticker": "LBRDB",
-      "title": "Liberty Broadband Corp",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1611983/000114036126034052/0001140361-26-034052-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001140361-26-034052 Size: 9 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000114036126034051",
-      "cik": "1611983",
-      "ticker": "LBRDB",
-      "title": "Liberty Broadband Corp",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1611983/000114036126034051/0001140361-26-034051-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001140361-26-034051 Size: 6 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3336,8 +3291,8 @@
     }
   ],
   "coverage": {
-    "total": 183,
-    "registration": 2,
+    "total": 180,
+    "registration": 1,
     "financial": 50,
     "material": 29
   },
