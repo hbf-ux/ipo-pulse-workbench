@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T23:25:05.510Z",
+  "fetchedAt": "2026-08-21T23:49:16.670Z",
   "items": [
     {
       "id": "finra-333270",
@@ -716,6 +716,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000143774926028724",
+      "cik": "1401835",
+      "ticker": "SRGZ",
+      "title": "Star Gold Corp.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1401835/000143774926028724/0001437749-26-028724-index.htm",
+      "source": "SEC EDGAR",
+      "form": "1-A/A",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001437749-26-028724 Size: 1 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000182912626009196",
       "cik": "1463000",
       "ticker": "GRUSF",
@@ -727,21 +742,6 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001829126-26-009196 Size: 798 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226039744",
-      "cik": "1946573",
-      "ticker": "NAKAW",
-      "title": "Nakamoto Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1946573/000149315226039744/0001493152-26-039744-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039744 Size: 7 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3292,7 +3292,7 @@
   ],
   "coverage": {
     "total": 180,
-    "registration": 1,
+    "registration": 2,
     "financial": 50,
     "material": 29
   },
