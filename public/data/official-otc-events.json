@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T19:26:42.870Z",
+  "fetchedAt": "2026-08-21T19:49:06.835Z",
   "items": [
     {
       "id": "finra-333260",
@@ -231,6 +231,96 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000119312526360116",
+      "cik": "898171",
+      "ticker": "UWHR",
+      "title": "UWHARRIE CAPITAL CORP",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/898171/000119312526360116/0001193125-26-360116-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001193125-26-360116 Size: 863 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "Item 2.02",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000143774926028677",
+      "cik": "1657642",
+      "ticker": "SLBK",
+      "title": "Skyline Bankshares, Inc.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1657642/000143774926028677/0001437749-26-028677-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001437749-26-028677 Size: 148 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000156470826000185",
+      "cik": "1564708",
+      "ticker": "NWSLL",
+      "title": "NEWS CORP",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000185/0001564708-26-000185-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001564708-26-000185 Size: 396 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226039530",
+      "cik": "1054102",
+      "ticker": "IDXG",
+      "title": "INTERPACE BIOSCIENCES, INC.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1054102/000149315226039530/0001493152-26-039530-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039530 Size: 230 KB Item 5.07: Submission of Matters to a Vote of Security Holders",
+      "eventCue": "Item 5.07",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000114036126033932",
+      "cik": "1611983",
+      "ticker": "LBRDB",
+      "title": "Liberty Broadband Corp",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1611983/000114036126033932/0001140361-26-033932-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Management or board change",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001140361-26-033932 Size: 298 KB Item 1.02: Termination of a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 3.03: Material Modifications to Rights of Security Holders Item 5.01: Changes in Control of Registrant Item 5.02: Departure o",
+      "eventCue": "Item 2.01",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000171218426000144",
+      "cik": "1712184",
+      "ticker": "LILAB",
+      "title": "Liberty Latin America Ltd.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000144/0001712184-26-000144-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001712184-26-000144 Size: 194 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000149315226039643",
@@ -473,6 +563,96 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000119312526361024",
+      "cik": "886982",
+      "ticker": "GSCE",
+      "title": "GOLDMAN SACHS GROUP INC",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361024/0001193125-26-361024-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001193125-26-361024 Size: 420 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000191870426024481",
+      "cik": "70858",
+      "ticker": "BACRP",
+      "title": "BANK OF AMERICA CORP /DE/",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024481/0001918704-26-024481-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001918704-26-024481 Size: 576 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526361012",
+      "cik": "886982",
+      "ticker": "GSCE",
+      "title": "GOLDMAN SACHS GROUP INC",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526361012/0001193125-26-361012-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001193125-26-361012 Size: 490 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000095010326012766",
+      "cik": "312070",
+      "ticker": "JJETF",
+      "title": "BARCLAYS BANK PLC",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/312070/000095010326012766/0000950103-26-012766-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0000950103-26-012766 Size: 481 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000095010326012765",
+      "cik": "312070",
+      "ticker": "JJETF",
+      "title": "BARCLAYS BANK PLC",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/312070/000095010326012765/0000950103-26-012765-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0000950103-26-012765 Size: 180 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000183988226041077",
+      "cik": "72971",
+      "ticker": "WFCNP",
+      "title": "WELLS FARGO & COMPANY/MN",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041077/0001839882-26-041077-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001839882-26-041077 Size: 275 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000119312526360995",
       "cik": "886982",
       "ticker": "GSCE",
@@ -634,21 +814,6 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001096906-26-001276 Size: 10 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526360842",
-      "cik": "886982",
-      "ticker": "GSCE",
-      "title": "GOLDMAN SACHS GROUP INC",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526360842/0001193125-26-360842-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001193125-26-360842 Size: 365 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1071,6 +1236,36 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000171218426000141",
+      "cik": "1712184",
+      "ticker": "LILAB",
+      "title": "Liberty Latin America Ltd.",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000141/0001712184-26-000141-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001712184-26-000141 Size: 194 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000171218426000139",
+      "cik": "1712184",
+      "ticker": "LILAB",
+      "title": "Liberty Latin America Ltd.",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000139/0001712184-26-000139-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001712184-26-000139 Size: 194 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000109690626001266",
@@ -3318,10 +3513,10 @@
     }
   ],
   "coverage": {
-    "total": 183,
-    "registration": 12,
+    "total": 196,
+    "registration": 17,
     "financial": 54,
-    "material": 20
+    "material": 28
   },
   "sourceStatus": [
     {
