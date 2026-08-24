@@ -1,6 +1,111 @@
 {
-  "fetchedAt": "2026-08-24T09:25:11.723Z",
+  "fetchedAt": "2026-08-24T10:10:59.865Z",
   "items": [
+    {
+      "id": "sec-000106299326004561",
+      "cik": "1498148",
+      "ticker": "AITX",
+      "title": "Artificial Intelligence Technology Solutions Inc.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326004561/0001062993-26-004561-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001062993-26-004561 Size: 340 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926099803",
+      "cik": "1895249",
+      "ticker": "CNTM",
+      "title": "ConnectM Technology Solutions, Inc.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1895249/000110465926099803/0001104659-26-099803-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099803 Size: 21 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926099827",
+      "cik": "1791706",
+      "ticker": "LAAOF",
+      "title": "Li Auto Inc.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926099827/0001104659-26-099827-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099827 Size: 2 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526361715",
+      "cik": "1577552",
+      "ticker": "BBAAY",
+      "title": "Alibaba Group Holding Ltd",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361715/0001193125-26-361715-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001193125-26-361715 Size: 502 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000117184326005710",
+      "cik": "769218",
+      "ticker": "AEGOF",
+      "title": "AEGON LTD.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/769218/000117184326005710/0001171843-26-005710-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001171843-26-005710 Size: 27 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526361711",
+      "cik": "1577552",
+      "ticker": "BBAAY",
+      "title": "Alibaba Group Holding Ltd",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361711/0001193125-26-361711-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001193125-26-361711 Size: 6 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000191870426024513",
+      "cik": "70858",
+      "ticker": "BACRP",
+      "title": "BANK OF AMERICA CORP /DE/",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024513/0001918704-26-024513-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001918704-26-024513 Size: 1 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
     {
       "id": "finra-333263",
       "cik": "",
@@ -1349,21 +1454,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000110465926099175",
-      "cik": "1123452",
-      "ticker": "ASRMF",
-      "title": "SOUTHEAST AIRPORT GROUP",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1123452/000110465926099175/0001104659-26-099175-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001104659-26-099175 Size: 30 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000149315226039461",
       "cik": "1730773",
       "ticker": "BSFC",
@@ -2241,10 +2331,10 @@
     }
   ],
   "coverage": {
-    "total": 118,
-    "registration": 2,
-    "financial": 7,
-    "material": 29
+    "total": 124,
+    "registration": 3,
+    "financial": 8,
+    "material": 32
   },
   "sourceStatus": [
     {
