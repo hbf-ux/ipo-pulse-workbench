@@ -1,6 +1,21 @@
 {
-  "fetchedAt": "2026-08-24T11:57:18.435Z",
+  "fetchedAt": "2026-08-24T13:03:32.098Z",
   "items": [
+    {
+      "id": "sec-000168316826006679",
+      "cik": "1160420",
+      "ticker": "ADIA",
+      "title": "Adia Nutrition, Inc.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1160420/000168316826006679/0001683168-26-006679-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001683168-26-006679 Size: 9 MB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "Item 1.01",
+      "chinaConnection": ""
+    },
     {
       "id": "sec-000156470826000186",
       "cik": "1564708",
@@ -43,6 +58,36 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099803 Size: 21 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926099993",
+      "cik": "842180",
+      "ticker": "BBVXF",
+      "title": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/842180/000110465926099993/0001104659-26-099993-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099993 Size: 51 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000175392626001597",
+      "cik": "1490078",
+      "ticker": "FRSPF",
+      "title": "First Phosphate Corp.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1490078/000175392626001597/0001753926-26-001597-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001753926-26-001597 Size: 27 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -223,6 +268,66 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-24 AccNo: 0001171843-26-005710 Size: 27 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000191870426024515",
+      "cik": "70858",
+      "ticker": "BACRP",
+      "title": "BANK OF AMERICA CORP /DE/",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024515/0001918704-26-024515-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001918704-26-024515 Size: 597 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526361902",
+      "cik": "1577552",
+      "ticker": "BBAAY",
+      "title": "Alibaba Group Holding Ltd",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361902/0001193125-26-361902-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001193125-26-361902 Size: 6 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526361711",
+      "cik": "1577552",
+      "ticker": "BBAAY",
+      "title": "Alibaba Group Holding Ltd",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361711/0001193125-26-361711-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001193125-26-361711 Size: 6 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000191870426024513",
+      "cik": "70858",
+      "ticker": "BACRP",
+      "title": "BANK OF AMERICA CORP /DE/",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024513/0001918704-26-024513-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001918704-26-024513 Size: 1 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -644,21 +749,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000119312526361126",
-      "cik": "92108",
-      "ticker": "SOCGP",
-      "title": "SOUTHERN CALIFORNIA GAS CO",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/92108/000119312526361126/0001193125-26-361126-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001193125-26-361126 Size: 414 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000168316826006661",
       "cik": "1009919",
       "ticker": "IVHI",
@@ -985,6 +1075,21 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001829126-26-009196 Size: 798 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121465926010752",
+      "cik": "1593001",
+      "ticker": "NGTF",
+      "title": "NightFood Holdings, Inc.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1593001/000121465926010752/0001214659-26-010752-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001214659-26-010752 Size: 7 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1450,21 +1555,6 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039334 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000117184326005691",
-      "cik": "1406234",
-      "ticker": "BRIPF",
-      "title": "Brookfield Infrastructure Partners L.P.",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1406234/000117184326005691/0001171843-26-005691-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001171843-26-005691 Size: 18 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2346,10 +2436,10 @@
     }
   ],
   "coverage": {
-    "total": 125,
-    "registration": 2,
+    "total": 131,
+    "registration": 4,
     "financial": 8,
-    "material": 36
+    "material": 37
   },
   "sourceStatus": [
     {
