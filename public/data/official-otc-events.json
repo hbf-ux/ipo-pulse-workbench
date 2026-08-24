@@ -1,6 +1,69 @@
 {
-  "fetchedAt": "2026-08-24T05:38:48.718Z",
+  "fetchedAt": "2026-08-24T06:24:24.520Z",
   "items": [
+    {
+      "id": "finra-333263",
+      "cik": "",
+      "ticker": "GSHRF",
+      "title": "GOLD X2 MINING INC Common Shares",
+      "published": "2026-08-24T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker GSHRD → GSHRF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "GSHRD",
+        "newSymbol": "GSHRF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333262",
+      "cik": "",
+      "ticker": "CLLEF",
+      "title": "Challenger Gold Limited Ordinary Shares",
+      "published": "2026-08-24T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker CLLED → CLLEF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "CLLED",
+        "newSymbol": "CLLEF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-328186",
+      "cik": "",
+      "ticker": "SERPY",
+      "title": "TOP END ENERGY LTD American Depositary Receipts - Sponsored",
+      "published": "2026-08-24T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "ADR/GDR Program Terminated · Ticker SERPY → —",
+      "detail": "ADR/GDR Program Terminated",
+      "marketAction": {
+        "action": "ADR/GDR Program Terminated",
+        "oldSymbol": "SERPY",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333270",
       "cik": "",
@@ -2178,7 +2241,7 @@
     }
   ],
   "coverage": {
-    "total": 115,
+    "total": 118,
     "registration": 2,
     "financial": 7,
     "material": 29
