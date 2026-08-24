@@ -1,6 +1,126 @@
 {
-  "fetchedAt": "2026-08-24T13:03:32.098Z",
+  "fetchedAt": "2026-08-24T14:02:49.926Z",
   "items": [
+    {
+      "id": "finra-333307",
+      "cik": "",
+      "ticker": "NAJSF",
+      "title": "NORTH ATLANTIC SMALLER COMPANIES INVESTMENT TRUST PLC Ordinary Shares",
+      "published": "2026-08-24T09:34:10.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Inactive Security · Ticker NAJSF → —",
+      "detail": "Inactive Security",
+      "marketAction": {
+        "action": "Inactive Security",
+        "oldSymbol": "NAJSF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333306",
+      "cik": "",
+      "ticker": "SYAIF",
+      "title": "SYNTHEIA CORP Common Shares (Canada)",
+      "published": "2026-08-24T09:33:46.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Inactive Security · Ticker SYAIF → —",
+      "detail": "Inactive Security",
+      "marketAction": {
+        "action": "Inactive Security",
+        "oldSymbol": "SYAIF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333305",
+      "cik": "",
+      "ticker": "SPLOF",
+      "title": "SPOTLIO AS SHS (Norway)",
+      "published": "2026-08-24T09:33:30.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Inactive Security · Ticker SPLOF → —",
+      "detail": "Inactive Security",
+      "marketAction": {
+        "action": "Inactive Security",
+        "oldSymbol": "SPLOF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333304",
+      "cik": "",
+      "ticker": "BLGNF",
+      "title": "BALTA GROUP N V Ordinary Shares (Belgium)",
+      "published": "2026-08-24T09:33:15.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Inactive Security · Ticker BLGNF → —",
+      "detail": "Inactive Security",
+      "marketAction": {
+        "action": "Inactive Security",
+        "oldSymbol": "BLGNF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333303",
+      "cik": "",
+      "ticker": "DCFBS",
+      "title": "DCFC Holdings LLC Membership Units CL B",
+      "published": "2026-08-24T09:32:57.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Inactive Security · Ticker DCFBS → —",
+      "detail": "Inactive Security",
+      "marketAction": {
+        "action": "Inactive Security",
+        "oldSymbol": "DCFBS",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "sec-000110465926100048",
+      "cik": "1895249",
+      "ticker": "CNTM",
+      "title": "ConnectM Technology Solutions, Inc.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1895249/000110465926100048/0001104659-26-100048-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-100048 Size: 239 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
     {
       "id": "sec-000168316826006679",
       "cik": "1160420",
@@ -58,6 +178,36 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099803 Size: 21 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000147793226005238",
+      "cik": "1464165",
+      "ticker": "BETRF",
+      "title": "BetterLife Pharma Inc.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1464165/000147793226005238/0001477932-26-005238-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001477932-26-005238 Size: 46 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000134509926000076",
+      "cik": "1345099",
+      "ticker": "MEOBF",
+      "title": "MESOBLAST LTD",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000076/0001345099-26-000076-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001345099-26-000076 Size: 382 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -272,6 +422,36 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000114036126034105",
+      "cik": "947263",
+      "ticker": "TDBCP",
+      "title": "TORONTO DOMINION BANK",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/947263/000114036126034105/0001140361-26-034105-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B2",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001140361-26-034105 Size: 207 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000162828026058528",
+      "cik": "1159152",
+      "ticker": "JHIUF",
+      "title": "James Hardie Industries plc",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1159152/000162828026058528/0001628280-26-058528-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001628280-26-058528 Size: 7 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000191870426024515",
       "cik": "70858",
       "ticker": "BACRP",
@@ -283,51 +463,6 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-24 AccNo: 0001918704-26-024515 Size: 597 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526361902",
-      "cik": "1577552",
-      "ticker": "BBAAY",
-      "title": "Alibaba Group Holding Ltd",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361902/0001193125-26-361902-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001193125-26-361902 Size: 6 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526361711",
-      "cik": "1577552",
-      "ticker": "BBAAY",
-      "title": "Alibaba Group Holding Ltd",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361711/0001193125-26-361711-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001193125-26-361711 Size: 6 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426024513",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024513/0001918704-26-024513-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001918704-26-024513 Size: 1 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -734,21 +869,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000149315226039692",
-      "cik": "720762",
-      "ticker": "NIMUD",
-      "title": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/720762/000149315226039692/0001493152-26-039692-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039692 Size: 271 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 1.01",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000168316826006661",
       "cik": "1009919",
       "ticker": "IVHI",
@@ -1034,21 +1154,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000149315226039539",
-      "cik": "1941189",
-      "ticker": "TANAF",
-      "title": "Tian'an Technology Group Ltd",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1941189/000149315226039539/0001493152-26-039539-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039539 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000143774926028724",
       "cik": "1401835",
       "ticker": "SRGZ",
@@ -1075,21 +1180,6 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001829126-26-009196 Size: 798 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121465926010752",
-      "cik": "1593001",
-      "ticker": "NGTF",
-      "title": "NightFood Holdings, Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1593001/000121465926010752/0001214659-26-010752-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001214659-26-010752 Size: 7 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2436,10 +2526,10 @@
     }
   ],
   "coverage": {
-    "total": 131,
+    "total": 135,
     "registration": 4,
     "financial": 8,
-    "material": 37
+    "material": 38
   },
   "sourceStatus": [
     {
