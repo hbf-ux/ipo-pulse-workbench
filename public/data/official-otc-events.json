@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T21:56:49.868Z",
+  "fetchedAt": "2026-08-24T22:32:30.113Z",
   "items": [
     {
       "id": "finra-333332",
@@ -410,6 +410,66 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000149315226039921",
+      "cik": "1166708",
+      "ticker": "BWMG",
+      "title": "Brownie's Marine Group, Inc",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1166708/000149315226039921/0001493152-26-039921-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q/A",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001493152-26-039921 Size: 7 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226039909",
+      "cik": "727346",
+      "ticker": "GBCS",
+      "title": "SELECTIS HEALTH, INC.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/727346/000149315226039909/0001493152-26-039909-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001493152-26-039909 Size: 5 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000168316826006686",
+      "cik": "1933359",
+      "ticker": "NTCS",
+      "title": "Natics Corp.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1933359/000168316826006686/0001683168-26-006686-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001683168-26-006686 Size: 2 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926099803",
+      "cik": "1895249",
+      "ticker": "CNTM",
+      "title": "ConnectM Technology Solutions, Inc.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1895249/000110465926099803/0001104659-26-099803-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099803 Size: 21 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000165495426007828",
       "cik": "217410",
       "ticker": "UNLYF",
@@ -770,66 +830,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000143774926028856",
-      "cik": "2072421",
-      "ticker": "SNNF",
-      "title": "Seneca Bancorp, Inc.",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2072421/000143774926028856/0001437749-26-028856-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001437749-26-028856 Size: 8 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000143774926028853",
-      "cik": "2072421",
-      "ticker": "SNNF",
-      "title": "Seneca Bancorp, Inc.",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2072421/000143774926028853/0001437749-26-028853-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001437749-26-028853 Size: 10 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000143774926028850",
-      "cik": "2072421",
-      "ticker": "SNNF",
-      "title": "Seneca Bancorp, Inc.",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2072421/000143774926028850/0001437749-26-028850-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001437749-26-028850 Size: 6 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000118518526003695",
-      "cik": "802257",
-      "ticker": "MITI",
-      "title": "Mitesco, Inc.",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/802257/000118518526003695/0001185185-26-003695-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001185185-26-003695 Size: 12 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-333263",
       "cik": "",
       "ticker": "GSHRF",
@@ -1185,6 +1185,51 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000168316826006661",
+      "cik": "1009919",
+      "ticker": "IVHI",
+      "title": "Invech Holdings, Inc.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826006661/0001683168-26-006661-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q/A",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001683168-26-006661 Size: 2 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226039643",
+      "cik": "1873722",
+      "ticker": "BBLR",
+      "title": "Bubblr Inc.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1873722/000149315226039643/0001493152-26-039643-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039643 Size: 6 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000168316826006644",
+      "cik": "1611046",
+      "ticker": "MDLK",
+      "title": "ModuLink Inc.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1611046/000168316826006644/0001683168-26-006644-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q/A",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001683168-26-006644 Size: 5 MB",
+      "eventCue": "",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000119983526000302",
@@ -1665,6 +1710,51 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000109690626001266",
+      "cik": "1811999",
+      "ticker": "FMHS",
+      "title": "FARMHOUSE, INC. /NV",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1811999/000109690626001266/0001096906-26-001266-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001096906-26-001266 Size: 3 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119983526000298",
+      "cik": "1106213",
+      "ticker": "SFRX",
+      "title": "SEAFARER EXPLORATION CORP",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1106213/000119983526000298/0001199835-26-000298-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q/A",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001199835-26-000298 Size: 6 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226039334",
+      "cik": "1593549",
+      "ticker": "LIVG",
+      "title": "Livento Group, Inc.",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1593549/000149315226039334/0001493152-26-039334-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039334 Size: 3 MB",
+      "eventCue": "",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000149315226039461",
@@ -2544,9 +2634,9 @@
     }
   ],
   "coverage": {
-    "total": 135,
+    "total": 141,
     "registration": 4,
-    "financial": 1,
+    "financial": 11,
     "material": 39
   },
   "sourceStatus": [
