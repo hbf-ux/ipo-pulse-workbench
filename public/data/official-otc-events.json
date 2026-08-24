@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T10:10:59.865Z",
+  "fetchedAt": "2026-08-24T10:54:40.258Z",
   "items": [
     {
       "id": "sec-000106299326004561",
@@ -28,6 +28,81 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099803 Size: 21 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526361758",
+      "cik": "1810997",
+      "ticker": "XPNGF",
+      "title": "XPENG INC.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1810997/000119312526361758/0001193125-26-361758-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001193125-26-361758 Size: 168 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926099873",
+      "cik": "1577552",
+      "ticker": "BBAAY",
+      "title": "Alibaba Group Holding Ltd",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099873/0001104659-26-099873-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099873 Size: 40 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000165495426007798",
+      "cik": "1131399",
+      "ticker": "GLAXF",
+      "title": "GSK plc",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426007798/0001654954-26-007798-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001654954-26-007798 Size: 57 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926099864",
+      "cik": "1677250",
+      "ticker": "ZTOEF",
+      "title": "ZTO Express (Cayman) Inc.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1677250/000110465926099864/0001104659-26-099864-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099864 Size: 5 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926099840",
+      "cik": "1835724",
+      "ticker": "ZHIHF",
+      "title": "Zhihu Inc.",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1835724/000110465926099840/0001104659-26-099840-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099840 Size: 6 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -551,36 +626,6 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-21 AccNo: 0001819438-26-000077 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
       "eventCue": "Item 1.01",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026092597",
-      "cik": "1859807",
-      "ticker": "NVACW",
-      "title": "Profusa, Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026092597/0001213900-26-092597-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001213900-26-092597 Size: 713 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 3.02: Unregistered Sales of Equity Securities Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 1.01",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226039667",
-      "cik": "2033264",
-      "ticker": "VDTA",
-      "title": "Vertical Data Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226039667/0001493152-26-039667-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Management or board change",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039667 Size: 343 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 5.02",
       "chinaConnection": ""
     },
     {
@@ -1435,21 +1480,6 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0000950157-26-000938 Size: 36 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000110465926099220",
-      "cik": "1577552",
-      "ticker": "BBAAY",
-      "title": "Alibaba Group Holding Ltd",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/0001104659-26-099220-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001104659-26-099220 Size: 481 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2331,10 +2361,10 @@
     }
   ],
   "coverage": {
-    "total": 124,
+    "total": 126,
     "registration": 3,
     "financial": 8,
-    "material": 32
+    "material": 34
   },
   "sourceStatus": [
     {
