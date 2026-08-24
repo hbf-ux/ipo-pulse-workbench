@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T11:29:39.010Z",
+  "fetchedAt": "2026-08-24T11:57:18.435Z",
   "items": [
     {
       "id": "sec-000156470826000186",
@@ -43,6 +43,51 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099803 Size: 21 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000165495426007806",
+      "cik": "1038683",
+      "ticker": "RYAOF",
+      "title": "RYANAIR HOLDINGS PLC",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1038683/000165495426007806/0001654954-26-007806-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001654954-26-007806 Size: 30 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000165495426007804",
+      "cik": "1160106",
+      "ticker": "LLOBF",
+      "title": "Lloyds Banking Group plc",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1160106/000165495426007804/0001654954-26-007804-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001654954-26-007804 Size: 46 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000165495426007802",
+      "cik": "1116578",
+      "ticker": "PUKPF",
+      "title": "PRUDENTIAL PLC",
+      "published": "2026-08-24T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1116578/000165495426007802/0001654954-26-007802-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-24 AccNo: 0001654954-26-007802 Size: 41 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -178,36 +223,6 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-24 AccNo: 0001171843-26-005710 Size: 27 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526361711",
-      "cik": "1577552",
-      "ticker": "BBAAY",
-      "title": "Alibaba Group Holding Ltd",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526361711/0001193125-26-361711-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001193125-26-361711 Size: 6 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426024513",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024513/0001918704-26-024513-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001918704-26-024513 Size: 1 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -974,21 +989,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000121465926010752",
-      "cik": "1593001",
-      "ticker": "NGTF",
-      "title": "NightFood Holdings, Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1593001/000121465926010752/0001214659-26-010752-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001214659-26-010752 Size: 7 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-333171",
       "cik": "",
       "ticker": "CBWTF",
@@ -1465,21 +1465,6 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-20 AccNo: 0001171843-26-005691 Size: 18 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000117184326005689",
-      "cik": "1431852",
-      "ticker": "OSDVF",
-      "title": "Osisko Gold Group Inc.",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1431852/000117184326005689/0001171843-26-005689-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001171843-26-005689 Size: 23 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2361,10 +2346,10 @@
     }
   ],
   "coverage": {
-    "total": 126,
-    "registration": 3,
+    "total": 125,
+    "registration": 2,
     "financial": 8,
-    "material": 34
+    "material": 36
   },
   "sourceStatus": [
     {
