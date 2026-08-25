@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T11:57:24.226Z",
+  "fetchedAt": "2026-08-25T13:00:32.076Z",
   "items": [
     {
       "id": "finra-333359",
@@ -42,6 +42,51 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000157587226000609",
+      "cik": "1543637",
+      "ticker": "NUMD",
+      "title": "Nu-Med Plus, Inc.",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1543637/000157587226000609/0001575872-26-000609-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001575872-26-000609 Size: 3 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.02: Unregistered Sales of Equity Securities Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "Item 1.01",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000147793226005256",
+      "cik": "1877461",
+      "ticker": "CBDW",
+      "title": "1606 CORP.",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1877461/000147793226005256/0001477932-26-005256-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001477932-26-005256 Size: 158 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000147793226005255",
+      "cik": "1938338",
+      "ticker": "GLTK",
+      "title": "GlobalTech Corp",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1938338/000147793226005255/0001477932-26-005255-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001477932-26-005255 Size: 792 KB Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000121390026093220",
@@ -116,6 +161,36 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-25 AccNo: 0001193125-26-363877 Size: 221 KB Item 5.07: Submission of Matters to a Vote of Security Holders Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
       "eventCue": "Item 5.07",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026093272",
+      "cik": "2013186",
+      "ticker": "TNMWF",
+      "title": "TNL Mediagene",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/2013186/000121390026093272/0001213900-26-093272-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001213900-26-093272 Size: 32 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926100550",
+      "cik": "1815846",
+      "ticker": "MSOGF",
+      "title": "MINISO Group Holding Ltd",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1815846/000110465926100550/0001104659-26-100550-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001104659-26-100550 Size: 710 KB",
+      "eventCue": "",
       "chinaConnection": ""
     },
     {
@@ -235,6 +310,66 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-25 AccNo: 0001345099-26-000078 Size: 1 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000168316826006707",
+      "cik": "1109262",
+      "ticker": "BSCL",
+      "title": "BILI Social International, Inc.",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1109262/000168316826006707/0001683168-26-006707-index.htm",
+      "source": "SEC EDGAR",
+      "form": "DEFA14C",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001683168-26-006707 Size: 20 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000168316826006705",
+      "cik": "1109262",
+      "ticker": "BSCL",
+      "title": "BILI Social International, Inc.",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1109262/000168316826006705/0001683168-26-006705-index.htm",
+      "source": "SEC EDGAR",
+      "form": "DEF 14C",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001683168-26-006705 Size: 67 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000176979326000011",
+      "cik": "1830033",
+      "ticker": "PCTBP",
+      "title": "PureCycle Technologies, Inc.",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1830033/000176979326000011/0001769793-26-000011-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001769793-26-000011 Size: 16 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926100551",
+      "cik": "842180",
+      "ticker": "BBVXF",
+      "title": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/842180/000110465926100551/0001104659-26-100551-index.htm",
+      "source": "SEC EDGAR",
+      "form": "424B5",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001104659-26-100551 Size: 2 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -800,51 +935,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000162828026058540",
-      "cik": "717826",
-      "ticker": "ERIXF",
-      "title": "ERICSSON LM TELEPHONE CO",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/717826/000162828026058540/0001628280-26-058540-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001628280-26-058540 Size: 64 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000147793226005238",
-      "cik": "1464165",
-      "ticker": "BETRF",
-      "title": "BetterLife Pharma Inc.",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1464165/000147793226005238/0001477932-26-005238-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001477932-26-005238 Size: 46 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000134509926000076",
-      "cik": "1345099",
-      "ticker": "MEOBF",
-      "title": "MESOBLAST LTD",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000076/0001345099-26-000076-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001345099-26-000076 Size: 382 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000149315226039857",
       "cik": "1812360",
       "ticker": "FOXOW",
@@ -856,36 +946,6 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-24 AccNo: 0001493152-26-039857 Size: 215 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000103542226000007",
-      "cik": "1035422",
-      "ticker": "CTTH",
-      "title": "CTT PHARMACEUTICAL HOLDINGS, INC.",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1035422/000103542226000007/0001035422-26-000007-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001035422-26-000007 Size: 5 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000110465926100453",
-      "cik": "1867102",
-      "ticker": "EVTWF",
-      "title": "Vertical Aerospace Ltd.",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1867102/000110465926100453/0001104659-26-100453-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-100453 Size: 5 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1757,6 +1817,21 @@
       }
     },
     {
+      "id": "sec-000149315226039461",
+      "cik": "1730773",
+      "ticker": "BSFC",
+      "title": "Blue Star Foods Corp.",
+      "published": "2026-08-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1730773/000149315226039461/0001493152-26-039461-index.htm",
+      "source": "SEC EDGAR",
+      "form": "1-A-W",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039461 Size: 14 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "finra-333083",
       "cik": "",
       "ticker": "LBRDB",
@@ -2388,10 +2463,10 @@
     }
   ],
   "coverage": {
-    "total": 127,
-    "registration": 4,
+    "total": 132,
+    "registration": 8,
     "financial": 8,
-    "material": 28
+    "material": 30
   },
   "sourceStatus": [
     {
