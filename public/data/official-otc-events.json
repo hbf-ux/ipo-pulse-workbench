@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T11:28:27.220Z",
+  "fetchedAt": "2026-08-25T11:57:24.226Z",
   "items": [
     {
       "id": "finra-333359",
@@ -740,21 +740,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000110465926100243",
-      "cik": "2809",
-      "ticker": "AEMRF",
-      "title": "AGNICO EAGLE MINES LTD",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2809/000110465926100243/0001104659-26-100243-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-100243 Size: 104 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000165495426007816",
       "cik": "1089113",
       "ticker": "HBCYF",
@@ -856,36 +841,6 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-24 AccNo: 0001345099-26-000076 Size: 382 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000110465926099993",
-      "cik": "842180",
-      "ticker": "BBVXF",
-      "title": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/842180/000110465926099993/0001104659-26-099993-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001104659-26-099993 Size: 51 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000175392626001597",
-      "cik": "1490078",
-      "ticker": "FRSPF",
-      "title": "First Phosphate Corp.",
-      "published": "2026-08-24T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1490078/000175392626001597/0001753926-26-001597-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-24 AccNo: 0001753926-26-001597 Size: 27 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2433,10 +2388,10 @@
     }
   ],
   "coverage": {
-    "total": 130,
+    "total": 127,
     "registration": 4,
     "financial": 8,
-    "material": 31
+    "material": 28
   },
   "sourceStatus": [
     {
