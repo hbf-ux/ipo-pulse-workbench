@@ -1,6 +1,69 @@
 {
-  "fetchedAt": "2026-08-25T05:58:03.933Z",
+  "fetchedAt": "2026-08-25T07:00:31.140Z",
   "items": [
+    {
+      "id": "finra-333334",
+      "cik": "",
+      "ticker": "BBKCD",
+      "title": "SURGE DIGITAL INC Ordinary Shares",
+      "published": "2026-08-25T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker BBKCF → BBKCD · Reverse split 1:7",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "BBKCF",
+        "newSymbol": "BBKCD",
+        "reverseSplitRate": "1:7",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333243",
+      "cik": "",
+      "ticker": "OTGLY",
+      "title": "CD Projekt Red S.A. American Depositary Receipts - Unsponsored",
+      "published": "2026-08-25T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name Change · Ticker OTGLY → OTGLY",
+      "detail": "Name Change",
+      "marketAction": {
+        "action": "Name Change",
+        "oldSymbol": "OTGLY",
+        "newSymbol": "OTGLY",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333329",
+      "cik": "",
+      "ticker": "PDIYD",
+      "title": "PREDICTIVE DISCOVERY LTD ORD SHS NEW (Australia)",
+      "published": "2026-08-25T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker PDIYF → PDIYD · Reverse split 1:5",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "PDIYF",
+        "newSymbol": "PDIYD",
+        "reverseSplitRate": "1:5",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333332",
       "cik": "",
@@ -2373,7 +2436,7 @@
     }
   ],
   "coverage": {
-    "total": 128,
+    "total": 131,
     "registration": 3,
     "financial": 8,
     "material": 39
