@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-08-25T07:58:48.976Z",
+  "fetchedAt": "2026-08-25T08:52:58.525Z",
   "items": [
+    {
+      "id": "finra-333359",
+      "cik": "",
+      "ticker": "CZOWF",
+      "title": "CAZOO GROUP LTD WT 08/26/2026",
+      "published": "2026-08-25T02:01:24.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Matured/Expired · Ticker CZOWF → —",
+      "detail": "Matured/Expired",
+      "marketAction": {
+        "action": "Matured/Expired",
+        "oldSymbol": "CZOWF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333358",
+      "cik": "",
+      "ticker": "ZCSH",
+      "title": "GRAYSCALE ZCASH TR ZEC Common Stock",
+      "published": "2026-08-25T01:45:47.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Market Center Change Listed on ARCA · Ticker ZCSH → —",
+      "detail": "Market Center Change Listed on ARCA",
+      "marketAction": {
+        "action": "Market Center Change Listed on ARCA",
+        "oldSymbol": "ZCSH",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333334",
       "cik": "",
@@ -2436,7 +2478,7 @@
     }
   ],
   "coverage": {
-    "total": 131,
+    "total": 133,
     "registration": 3,
     "financial": 8,
     "material": 39
