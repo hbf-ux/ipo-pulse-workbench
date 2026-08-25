@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T21:55:32.123Z",
+  "fetchedAt": "2026-08-25T22:29:25.121Z",
   "items": [
     {
       "id": "finra-333432",
@@ -878,6 +878,36 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000114036126034350",
+      "cik": "1129137",
+      "ticker": "AMXOF",
+      "title": "AMERICA MOVIL SAB DE CV/",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1129137/000114036126034350/0001140361-26-034350-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001140361-26-034350 Size: 28 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000157587226000615",
+      "cik": "1543637",
+      "ticker": "NUMD",
+      "title": "Nu-Med Plus, Inc.",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1543637/000157587226000615/0001575872-26-000615-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001575872-26-000615 Size: 13 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000149315226040111",
       "cik": "1946573",
       "ticker": "NAKAW",
@@ -904,81 +934,6 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-25 AccNo: 0001493152-26-040109 Size: 13 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426024793",
-      "cik": "312070",
-      "ticker": "JJETF",
-      "title": "BARCLAYS BANK PLC",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/312070/000191870426024793/0001918704-26-024793-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001918704-26-024793 Size: 324 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526365388",
-      "cik": "886982",
-      "ticker": "GSCE",
-      "title": "GOLDMAN SACHS GROUP INC",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526365388/0001193125-26-365388-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001193125-26-365388 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426024791",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426024791/0001918704-26-024791-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001918704-26-024791 Size: 676 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526365384",
-      "cik": "886982",
-      "ticker": "GSCE",
-      "title": "GOLDMAN SACHS GROUP INC",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526365384/0001193125-26-365384-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001193125-26-365384 Size: 878 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000183988226041446",
-      "cik": "72971",
-      "ticker": "WFCNP",
-      "title": "WELLS FARGO & COMPANY/MN",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/72971/000183988226041446/0001839882-26-041446-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001839882-26-041446 Size: 992 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2772,8 +2727,8 @@
     }
   ],
   "coverage": {
-    "total": 147,
-    "registration": 8,
+    "total": 144,
+    "registration": 3,
     "financial": 10,
     "material": 32
   },
