@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T01:45:50.408Z",
+  "fetchedAt": "2026-08-25T02:59:32.666Z",
   "items": [
     {
       "id": "finra-333332",
@@ -1262,6 +1262,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000119983526000302",
+      "cik": "1703625",
+      "ticker": "BLIS",
+      "title": "NAPC Defense, Inc.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1703625/000119983526000302/0001199835-26-000302-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K/A",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001199835-26-000302 Size: 6 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000175392626001585",
       "cik": "1490078",
       "ticker": "FRSPF",
@@ -1725,66 +1740,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000109690626001266",
-      "cik": "1811999",
-      "ticker": "FMHS",
-      "title": "FARMHOUSE, INC. /NV",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1811999/000109690626001266/0001096906-26-001266-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001096906-26-001266 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119983526000298",
-      "cik": "1106213",
-      "ticker": "SFRX",
-      "title": "SEAFARER EXPLORATION CORP",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1106213/000119983526000298/0001199835-26-000298-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001199835-26-000298 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226039334",
-      "cik": "1593549",
-      "ticker": "LIVG",
-      "title": "Livento Group, Inc.",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1593549/000149315226039334/0001493152-26-039334-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039334 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226039461",
-      "cik": "1730773",
-      "ticker": "BSFC",
-      "title": "Blue Star Foods Corp.",
-      "published": "2026-08-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1730773/000149315226039461/0001493152-26-039461-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A-W",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-20 AccNo: 0001493152-26-039461 Size: 14 KB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-333083",
@@ -2418,9 +2373,9 @@
     }
   ],
   "coverage": {
-    "total": 131,
-    "registration": 4,
-    "financial": 10,
+    "total": 128,
+    "registration": 3,
+    "financial": 8,
     "material": 39
   },
   "sourceStatus": [
