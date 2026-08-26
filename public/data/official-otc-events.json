@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T01:52:01.495Z",
+  "fetchedAt": "2026-08-26T03:05:47.584Z",
   "items": [
     {
       "id": "finra-333432",
@@ -1586,96 +1586,6 @@
       }
     },
     {
-      "id": "sec-000168316826006661",
-      "cik": "1009919",
-      "ticker": "IVHI",
-      "title": "Invech Holdings, Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1009919/000168316826006661/0001683168-26-006661-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001683168-26-006661 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226039643",
-      "cik": "1873722",
-      "ticker": "BBLR",
-      "title": "Bubblr Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1873722/000149315226039643/0001493152-26-039643-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001493152-26-039643 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000168316826006644",
-      "cik": "1611046",
-      "ticker": "MDLK",
-      "title": "ModuLink Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1611046/000168316826006644/0001683168-26-006644-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001683168-26-006644 Size: 5 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119983526000302",
-      "cik": "1703625",
-      "ticker": "BLIS",
-      "title": "NAPC Defense, Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1703625/000119983526000302/0001199835-26-000302-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001199835-26-000302 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000143774926028724",
-      "cik": "1401835",
-      "ticker": "SRGZ",
-      "title": "Star Gold Corp.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1401835/000143774926028724/0001437749-26-028724-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A/A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001437749-26-028724 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000182912626009196",
-      "cik": "1463000",
-      "ticker": "GRUSF",
-      "title": "Grown Rogue International Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1463000/000182912626009196/0001829126-26-009196-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001829126-26-009196 Size: 798 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-333171",
       "cik": "",
       "ticker": "CBWTF",
@@ -2433,9 +2343,9 @@
     }
   ],
   "coverage": {
-    "total": 130,
-    "registration": 3,
-    "financial": 10,
+    "total": 124,
+    "registration": 2,
+    "financial": 6,
     "material": 32
   },
   "sourceStatus": [
