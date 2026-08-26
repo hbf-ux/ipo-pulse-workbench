@@ -1,6 +1,69 @@
 {
-  "fetchedAt": "2026-08-26T05:38:06.609Z",
+  "fetchedAt": "2026-08-26T06:18:06.610Z",
   "items": [
+    {
+      "id": "finra-332955",
+      "cik": "",
+      "ticker": "WEGRY",
+      "title": "WEIR PLC SPONSORED ADR (United Kingdom)",
+      "published": "2026-08-26T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name Change · Ticker WEGRY → WEGRY",
+      "detail": "Name Change",
+      "marketAction": {
+        "action": "Name Change",
+        "oldSymbol": "WEGRY",
+        "newSymbol": "WEGRY",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333321",
+      "cik": "",
+      "ticker": "QBBHY",
+      "title": "QUBE HLDGS LTD ADR - Unsponsored (Australia)",
+      "published": "2026-08-26T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "ADR/GDR Program Terminated · Ticker QBBHY → —",
+      "detail": "ADR/GDR Program Terminated",
+      "marketAction": {
+        "action": "ADR/GDR Program Terminated",
+        "oldSymbol": "QBBHY",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333423",
+      "cik": "",
+      "ticker": "MDRNF",
+      "title": "MODERN PLANT BASED FOODS INC COM NEW (Canada)",
+      "published": "2026-08-26T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker MDRND → MDRNF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "MDRND",
+        "newSymbol": "MDRNF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333432",
       "cik": "",
@@ -2343,7 +2406,7 @@
     }
   ],
   "coverage": {
-    "total": 124,
+    "total": 127,
     "registration": 2,
     "financial": 6,
     "material": 32
