@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-08-26T11:48:40.881Z",
+  "fetchedAt": "2026-08-26T12:53:24.553Z",
   "items": [
+    {
+      "id": "finra-333458",
+      "cik": "",
+      "ticker": "CVWLF",
+      "title": "CLEARVIEW WEALTH LTD SHS (Australia)",
+      "published": "2026-08-26T08:49:49.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "CUSIP Suspended · Ticker CVWLF → —",
+      "detail": "CUSIP Suspended",
+      "marketAction": {
+        "action": "CUSIP Suspended",
+        "oldSymbol": "CVWLF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333457",
+      "cik": "",
+      "ticker": "GLTKD",
+      "title": "GLOBALTECH CORP COM",
+      "published": "2026-08-26T08:40:15.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker GLTK → GLTKD · Reverse split 1:3",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "GLTK",
+        "newSymbol": "GLTKD",
+        "reverseSplitRate": "1:3",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "sec-000165355826000134",
       "cik": "1653558",
@@ -104,6 +146,51 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-26 AccNo: 0001062993-26-004627 Size: 245 KB Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
       "eventCue": "Item 3.02",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526365962",
+      "cik": "769218",
+      "ticker": "AEGOF",
+      "title": "AEGON LTD.",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/769218/000119312526365962/0001193125-26-365962-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001193125-26-365962 Size: 90 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026093730",
+      "cik": "1949257",
+      "ticker": "RDPTF",
+      "title": "Radiopharm Theranostics Ltd",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1949257/000121390026093730/0001213900-26-093730-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001213900-26-093730 Size: 43 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926101065",
+      "cik": "1791706",
+      "ticker": "LAAOF",
+      "title": "Li Auto Inc.",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1791706/000110465926101065/0001104659-26-101065-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001104659-26-101065 Size: 520 KB",
+      "eventCue": "",
       "chinaConnection": ""
     },
     {
@@ -257,6 +344,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000119312526365982",
+      "cik": "763901",
+      "ticker": "BPOPO",
+      "title": "POPULAR, INC.",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/763901/000119312526365982/0001193125-26-365982-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001193125-26-365982 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000149315226040164",
       "cik": "1759546",
       "ticker": "NRDE",
@@ -313,36 +415,6 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-26 AccNo: 0001193125-26-365665 Size: 570 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000095010326012890",
-      "cik": "312070",
-      "ticker": "JJETF",
-      "title": "BARCLAYS BANK PLC",
-      "published": "2026-08-26T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/312070/000095010326012890/0000950103-26-012890-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-26 AccNo: 0000950103-26-012890 Size: 328 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000095010326012889",
-      "cik": "312070",
-      "ticker": "JJETF",
-      "title": "BARCLAYS BANK PLC",
-      "published": "2026-08-26T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/312070/000095010326012889/0000950103-26-012889-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-26 AccNo: 0000950103-26-012889 Size: 309 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1091,36 +1163,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000121390026093272",
-      "cik": "2013186",
-      "ticker": "TNMWF",
-      "title": "TNL Mediagene",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2013186/000121390026093272/0001213900-26-093272-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001213900-26-093272 Size: 32 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000110465926100550",
-      "cik": "1815846",
-      "ticker": "MSOGF",
-      "title": "MINISO Group Holding Ltd",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1815846/000110465926100550/0001104659-26-100550-index.htm",
-      "source": "SEC EDGAR",
-      "form": "6-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001104659-26-100550 Size: 710 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000149315226040081",
       "cik": "1854463",
       "ticker": "WINVR",
@@ -1147,51 +1189,6 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-25 AccNo: 0001628873-26-000083 Size: 649 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026093665",
-      "cik": "1439124",
-      "ticker": "AXICY",
-      "title": "AXIA Energia S.A.",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1439124/000121390026093665/0001213900-26-093665-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001213900-26-093665 Size: 7 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026093661",
-      "cik": "1439124",
-      "ticker": "AXICY",
-      "title": "AXIA Energia S.A.",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1439124/000121390026093661/0001213900-26-093661-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001213900-26-093661 Size: 23 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526365617",
-      "cik": "811809",
-      "ticker": "BHPLF",
-      "title": "BHP Group Ltd",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/811809/000119312526365617/0001193125-26-365617-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001193125-26-365617 Size: 9 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2601,10 +2598,10 @@
     }
   ],
   "coverage": {
-    "total": 140,
-    "registration": 6,
+    "total": 139,
+    "registration": 4,
     "financial": 6,
-    "material": 40
+    "material": 41
   },
   "sourceStatus": [
     {
