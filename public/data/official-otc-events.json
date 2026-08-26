@@ -1,6 +1,21 @@
 {
-  "fetchedAt": "2026-08-26T10:42:15.848Z",
+  "fetchedAt": "2026-08-26T11:13:51.315Z",
   "items": [
+    {
+      "id": "sec-000095014226002427",
+      "cik": "72573",
+      "ticker": "MOVAA",
+      "title": "MOVADO GROUP INC",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/72573/000095014226002427/0000950142-26-002427-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0000950142-26-002427 Size: 455 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "Item 2.02",
+      "chinaConnection": ""
+    },
     {
       "id": "sec-000165130826000025",
       "cik": "1651308",
@@ -74,6 +89,21 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-26 AccNo: 0001062993-26-004627 Size: 245 KB Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
       "eventCue": "Item 3.02",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926101041",
+      "cik": "1995306",
+      "ticker": "SPHIF",
+      "title": "SUPER HI INTERNATIONAL HOLDING LTD.",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1995306/000110465926101041/0001104659-26-101041-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001104659-26-101041 Size: 849 KB",
+      "eventCue": "",
       "chinaConnection": ""
     },
     {
@@ -713,51 +743,6 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-25 AccNo: 0001213900-26-093540 Size: 198 KB Item 5.07: Submission of Matters to a Vote of Security Holders",
       "eventCue": "Item 5.07",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226040051",
-      "cik": "1407583",
-      "ticker": "BHLL",
-      "title": "Bunker Hill Mining Corp.",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1407583/000149315226040051/0001493152-26-040051-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001493152-26-040051 Size: 332 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "Item 1.01",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000143774926028916",
-      "cik": "72444",
-      "ticker": "VXRT",
-      "title": "Vaxart, Inc.",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/72444/000143774926028916/0001437749-26-028916-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001437749-26-028916 Size: 148 KB Item 8.01: Other Events",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026093520",
-      "cik": "1938571",
-      "ticker": "APTN",
-      "title": "ADAPTIN BIO, INC.",
-      "published": "2026-08-25T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1938571/000121390026093520/0001213900-26-093520-index.htm",
-      "source": "SEC EDGAR",
-      "form": "8-K",
-      "category": "Material disclosure",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-25 AccNo: 0001213900-26-093520 Size: 209 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "eventCue": "",
       "chinaConnection": ""
     },
     {
@@ -2556,10 +2541,10 @@
     }
   ],
   "coverage": {
-    "total": 137,
+    "total": 136,
     "registration": 6,
     "financial": 6,
-    "material": 38
+    "material": 37
   },
   "sourceStatus": [
     {
