@@ -1,6 +1,21 @@
 {
-  "fetchedAt": "2026-08-26T11:13:51.315Z",
+  "fetchedAt": "2026-08-26T11:48:40.881Z",
   "items": [
+    {
+      "id": "sec-000165355826000134",
+      "cik": "1653558",
+      "ticker": "PRTHU",
+      "title": "Priority Technology Holdings, Inc.",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1653558/000165355826000134/0001653558-26-000134-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001653558-26-000134 Size: 23 MB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "Item 1.01",
+      "chinaConnection": ""
+    },
     {
       "id": "sec-000095014226002427",
       "cik": "72573",
@@ -89,6 +104,36 @@
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-26 AccNo: 0001062993-26-004627 Size: 245 KB Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
       "eventCue": "Item 3.02",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526365894",
+      "cik": "1577552",
+      "ticker": "BBAAY",
+      "title": "Alibaba Group Holding Ltd",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1577552/000119312526365894/0001193125-26-365894-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001193125-26-365894 Size: 229 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000162828026058981",
+      "cik": "1172724",
+      "ticker": "GFIOF",
+      "title": "GOLD FIELDS LTD",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1172724/000162828026058981/0001628280-26-058981-index.htm",
+      "source": "SEC EDGAR",
+      "form": "6-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001628280-26-058981 Size: 12 MB",
+      "eventCue": "",
       "chinaConnection": ""
     },
     {
@@ -208,6 +253,21 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-26 AccNo: 0001193125-26-365512 Size: 122 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226040164",
+      "cik": "1759546",
+      "ticker": "NRDE",
+      "title": "Stark Novus Financial Inc.",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1759546/000149315226040164/0001493152-26-040164-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001493152-26-040164 Size: 14 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2541,10 +2601,10 @@
     }
   ],
   "coverage": {
-    "total": 136,
+    "total": 140,
     "registration": 6,
     "financial": 6,
-    "material": 37
+    "material": 40
   },
   "sourceStatus": [
     {
