@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-08-27T00:14:58.057Z",
+  "fetchedAt": "2026-08-27T09:58:11.098Z",
   "items": [
+    {
+      "id": "finra-332971",
+      "cik": "",
+      "ticker": "HTSUY",
+      "title": "Hisamitsu Pharmaceutical Co Inc American Depositary Receipts - Unsponsored (Japan)",
+      "published": "2026-08-27T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "ADR/GDR Program Terminated · Ticker HTSUY → —",
+      "detail": "ADR/GDR Program Terminated",
+      "marketAction": {
+        "action": "ADR/GDR Program Terminated",
+        "oldSymbol": "HTSUY",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333232",
+      "cik": "",
+      "ticker": "DCCPY",
+      "title": "DCC ENERGY PLC ADR - Unsponsored (Ireland)",
+      "published": "2026-08-27T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name Change · Ticker DCCPY → DCCPY",
+      "detail": "Name Change",
+      "marketAction": {
+        "action": "Name Change",
+        "oldSymbol": "DCCPY",
+        "newSymbol": "DCCPY",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333506",
       "cik": "",
@@ -385,6 +427,66 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-26 AccNo: 0001837671-26-000066 Size: 12 MB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526368289",
+      "cik": "1372612",
+      "ticker": "BXCAP",
+      "title": "BOX INC",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1372612/000119312526368289/0001193125-26-368289-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001193125-26-368289 Size: 19 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226040220",
+      "cik": "1865111",
+      "ticker": "ALSWF",
+      "title": "Alpha Star Acquisition Corp",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1865111/000149315226040220/0001493152-26-040220-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001493152-26-040220 Size: 3 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000109690626001309",
+      "cik": "1352952",
+      "ticker": "CNFN",
+      "title": "CFN Enterprises Inc.",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1352952/000109690626001309/0001096906-26-001309-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001096906-26-001309 Size: 4 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526366101",
+      "cik": "72573",
+      "ticker": "MOVAA",
+      "title": "MOVADO GROUP INC",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/72573/000119312526366101/0001193125-26-366101-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001193125-26-366101 Size: 16 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -775,6 +877,51 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-26 AccNo: 0001493152-26-040226 Size: 6 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926101782",
+      "cik": "932470",
+      "ticker": "TCMFF",
+      "title": "TELECOM ARGENTINA SA",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/932470/000110465926101782/0001104659-26-101782-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001104659-26-101782 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026094090",
+      "cik": "1439124",
+      "ticker": "AXICY",
+      "title": "AXIA Energia S.A.",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1439124/000121390026094090/0001213900-26-094090-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0001213900-26-094090 Size: 36 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000095015726000957",
+      "cik": "750004",
+      "ticker": "LNWO",
+      "title": "Light & Wonder, Inc.",
+      "published": "2026-08-26T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/750004/000095015726000957/0000950157-26-000957-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-26 AccNo: 0000950157-26-000957 Size: 9 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1266,6 +1413,36 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000168316826006716",
+      "cik": "1854183",
+      "ticker": "ORIB",
+      "title": "Orion Bliss Corp.",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1854183/000168316826006716/0001683168-26-006716-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001683168-26-006716 Size: 1 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226040007",
+      "cik": "2056016",
+      "ticker": "RDSC",
+      "title": "Radiant Strategies Corp",
+      "published": "2026-08-25T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/2056016/000149315226040007/0001493152-26-040007-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-25 AccNo: 0001493152-26-040007 Size: 3 MB",
+      "eventCue": "",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000117184326005737",
@@ -1916,21 +2093,6 @@
       }
     },
     {
-      "id": "sec-000182912626009196",
-      "cik": "1463000",
-      "ticker": "GRUSF",
-      "title": "Grown Rogue International Inc.",
-      "published": "2026-08-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1463000/000182912626009196/0001829126-26-009196-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-21 AccNo: 0001829126-26-009196 Size: 798 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-333171",
       "cik": "",
       "ticker": "CBWTF",
@@ -2352,9 +2514,9 @@
     }
   ],
   "coverage": {
-    "total": 125,
+    "total": 135,
     "registration": 7,
-    "financial": 0,
+    "financial": 6,
     "material": 32
   },
   "sourceStatus": [
