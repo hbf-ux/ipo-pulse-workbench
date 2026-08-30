@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T00:35:47.975Z",
+  "fetchedAt": "2026-08-30T05:51:33.192Z",
   "items": [
     {
       "id": "finra-333677",
@@ -800,36 +800,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000121390026095155",
-      "cik": "1282980",
-      "ticker": "DROR",
-      "title": "Dror Ortho-Design, Inc.",
-      "published": "2026-08-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1282980/000121390026095155/0001213900-26-095155-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-28 AccNo: 0001213900-26-095155 Size: 806 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226040476",
-      "cik": "1515139",
-      "ticker": "WAST",
-      "title": "WASTE ENERGY CORP.",
-      "published": "2026-08-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1515139/000149315226040476/0001493152-26-040476-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-28 AccNo: 0001493152-26-040476 Size: 71 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000143774926029236",
       "cik": "1091596",
       "ticker": "AURX",
@@ -1195,6 +1165,21 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-08-27 AccNo: 0001104659-26-102518 Size: 6 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000147793226005286",
+      "cik": "2029303",
+      "ticker": "THTG",
+      "title": "Tech Tonic Group Corp.",
+      "published": "2026-08-27T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/2029303/000147793226005286/0001477932-26-005286-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-27 AccNo: 0001477932-26-005286 Size: 1 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2202,9 +2187,9 @@
     }
   ],
   "coverage": {
-    "total": 119,
+    "total": 118,
     "registration": 2,
-    "financial": 4,
+    "financial": 5,
     "material": 38
   },
   "sourceStatus": [
