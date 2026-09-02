@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T00:15:03.757Z",
+  "fetchedAt": "2026-09-02T04:43:59.566Z",
   "items": [
     {
       "id": "finra-333817",
@@ -1034,6 +1034,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000121390026096382",
+      "cik": "1439124",
+      "ticker": "AXICY",
+      "title": "AXIA Energia S.A.",
+      "published": "2026-09-01T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1439124/000121390026096382/0001213900-26-096382-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-01 AccNo: 0001213900-26-096382 Size: 36 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "finra-333732",
       "cik": "",
       "ticker": "SCPFF",
@@ -1623,96 +1638,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000175392626001659",
-      "cik": "357294",
-      "ticker": "HOVVB",
-      "title": "HOVNANIAN ENTERPRISES INC",
-      "published": "2026-08-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/357294/000175392626001659/0001753926-26-001659-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-28 AccNo: 0001753926-26-001659 Size: 13 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000143774926029135",
-      "cik": "1131343",
-      "ticker": "PRNAF",
-      "title": "ALTERITY THERAPEUTICS LTD",
-      "published": "2026-08-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926029135/0001437749-26-029135-index.htm",
-      "source": "SEC EDGAR",
-      "form": "20-F",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-28 AccNo: 0001437749-26-029135 Size: 14 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000107997326001198",
-      "cik": "1492448",
-      "ticker": "MAJI",
-      "title": "Nextel Medical Corp.",
-      "published": "2026-08-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1492448/000107997326001198/0001079973-26-001198-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A POS",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-28 AccNo: 0001079973-26-001198 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026095087",
-      "cik": "1859807",
-      "ticker": "NVACW",
-      "title": "Profusa, Inc.",
-      "published": "2026-08-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026095087/0001213900-26-095087-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-28 AccNo: 0001213900-26-095087 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026095155",
-      "cik": "1282980",
-      "ticker": "DROR",
-      "title": "Dror Ortho-Design, Inc.",
-      "published": "2026-08-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1282980/000121390026095155/0001213900-26-095155-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-28 AccNo: 0001213900-26-095155 Size: 806 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226040476",
-      "cik": "1515139",
-      "ticker": "WAST",
-      "title": "WASTE ENERGY CORP.",
-      "published": "2026-08-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1515139/000149315226040476/0001493152-26-040476-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-28 AccNo: 0001493152-26-040476 Size: 71 KB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-328694",
@@ -2367,9 +2292,9 @@
     }
   ],
   "coverage": {
-    "total": 130,
-    "registration": 2,
-    "financial": 6,
+    "total": 125,
+    "registration": 0,
+    "financial": 4,
     "material": 51
   },
   "sourceStatus": [
