@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-03T00:42:06.480Z",
+  "fetchedAt": "2026-09-03T05:08:57.538Z",
   "items": [
     {
       "id": "finra-333935",
@@ -719,6 +719,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000110465926104854",
+      "cik": "2057463",
+      "ticker": "GLIBB",
+      "title": "Liberty Capital Corp/NV",
+      "published": "2026-09-02T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/2057463/000110465926104854/0001104659-26-104854-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-02 AccNo: 0001104659-26-104854 Size: 18 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "finra-333819",
       "cik": "",
       "ticker": "SECYF",
@@ -1322,51 +1337,6 @@
       }
     },
     {
-      "id": "sec-000143774926029307",
-      "cik": "1088413",
-      "ticker": "GLGI",
-      "title": "GREYSTONE LOGISTICS, INC.",
-      "published": "2026-08-31T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1088413/000143774926029307/0001437749-26-029307-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-31 AccNo: 0001437749-26-029307 Size: 14 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149371226000010",
-      "cik": "1493712",
-      "ticker": "STME",
-      "title": "Stimcell Energetics Inc.",
-      "published": "2026-08-31T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1493712/000149371226000010/0001493712-26-000010-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-31 AccNo: 0001493712-26-000010 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000117568026000014",
-      "cik": "1175680",
-      "ticker": "CYDY",
-      "title": "CytoDyn Inc.",
-      "published": "2026-08-31T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1175680/000117568026000014/0001175680-26-000014-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-08-31 AccNo: 0001175680-26-000014 Size: 13 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-333635",
       "cik": "",
       "ticker": "HLGVD",
@@ -1935,9 +1905,9 @@
     }
   ],
   "coverage": {
-    "total": 104,
+    "total": 102,
     "registration": 2,
-    "financial": 5,
+    "financial": 2,
     "material": 35
   },
   "sourceStatus": [
