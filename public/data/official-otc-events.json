@@ -1,6 +1,69 @@
 {
-  "fetchedAt": "2026-09-03T05:08:57.538Z",
+  "fetchedAt": "2026-09-03T09:51:28.544Z",
   "items": [
+    {
+      "id": "finra-333855",
+      "cik": "",
+      "ticker": "RLGDF",
+      "title": "RED LAKE GOLD INC COM NO PAR (Canada)",
+      "published": "2026-09-03T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker RLGDD → RLGDF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "RLGDD",
+        "newSymbol": "RLGDF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333854",
+      "cik": "",
+      "ticker": "EXXBF",
+      "title": "AITENDERS TECHNOLOGIES INC COM (Canada)",
+      "published": "2026-09-03T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker EXXBD → EXXBF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "EXXBD",
+        "newSymbol": "EXXBF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333937",
+      "cik": "",
+      "ticker": "FCLIF",
+      "title": "FCL-X FIRE & SAFETY INC. COM",
+      "published": "2026-09-03T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker FCLIF → FCLIF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "FCLIF",
+        "newSymbol": "FCLIF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333935",
       "cik": "",
@@ -1905,7 +1968,7 @@
     }
   ],
   "coverage": {
-    "total": 102,
+    "total": 105,
     "registration": 2,
     "financial": 2,
     "material": 35
