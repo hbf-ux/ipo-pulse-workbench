@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T00:50:03.106Z",
+  "fetchedAt": "2026-09-04T05:35:45.477Z",
   "items": [
     {
       "id": "finra-333977",
@@ -773,47 +773,17 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000155485526001955",
-      "cik": "1865631",
-      "ticker": "NXNVW",
-      "title": "NEXTNAV INC.",
+      "id": "sec-000139506426000335",
+      "cik": "1395064",
+      "ticker": "TKPHF",
+      "title": "TAKEDA PHARMACEUTICAL CO LTD",
       "published": "2026-09-03T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1865631/000155485526001955/0001554855-26-001955-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000335/0001395064-26-000335-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-03 AccNo: 0001554855-26-001955 Size: 5 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000123260226000007",
-      "cik": "98222",
-      "ticker": "TDGMW",
-      "title": "TIDEWATER INC",
-      "published": "2026-09-03T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/98222/000123260226000007/0001232602-26-000007-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-03 AccNo: 0001232602-26-000007 Size: 5 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000179757826000016",
-      "cik": "98222",
-      "ticker": "TDGMW",
-      "title": "TIDEWATER INC",
-      "published": "2026-09-03T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/98222/000179757826000016/0001797578-26-000016-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-03 AccNo: 0001797578-26-000016 Size: 5 KB",
+      "companyIntro": "Filed: 2026-09-03 AccNo: 0001395064-26-000335 Size: 5 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1054,21 +1024,6 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-09-02 AccNo: 0001683168-26-006879 Size: 36 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226041118",
-      "cik": "2033264",
-      "ticker": "VDTA",
-      "title": "Vertical Data Inc.",
-      "published": "2026-09-02T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226041118/0001493152-26-041118-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-02 AccNo: 0001493152-26-041118 Size: 1 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1344,21 +1299,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000110465926104048",
-      "cik": "314590",
-      "ticker": "SASOF",
-      "title": "SASOL LTD",
-      "published": "2026-09-01T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/314590/000110465926104048/0001104659-26-104048-index.htm",
-      "source": "SEC EDGAR",
-      "form": "20-F",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-01 AccNo: 0001104659-26-104048 Size: 78 MB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-333732",
@@ -2034,9 +1974,9 @@
     }
   ],
   "coverage": {
-    "total": 109,
-    "registration": 2,
-    "financial": 5,
+    "total": 105,
+    "registration": 1,
+    "financial": 4,
     "material": 32
   },
   "sourceStatus": [
