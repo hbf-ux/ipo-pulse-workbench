@@ -1,6 +1,90 @@
 {
-  "fetchedAt": "2026-09-04T05:35:45.477Z",
+  "fetchedAt": "2026-09-04T09:56:40.599Z",
   "items": [
+    {
+      "id": "finra-333925",
+      "cik": "",
+      "ticker": "CPTLD",
+      "title": "CAPITAL B ORD NEW (France)",
+      "published": "2026-09-04T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker CPTLF → CPTLD · Reverse split 1:10",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "CPTLF",
+        "newSymbol": "CPTLD",
+        "reverseSplitRate": "1:10",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333932",
+      "cik": "",
+      "ticker": "WEJTY",
+      "title": "WebBeds Group Limited American Depositary Receipts - Unsponsored",
+      "published": "2026-09-04T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name Change · Ticker WEJTY → WEJTY",
+      "detail": "Name Change",
+      "marketAction": {
+        "action": "Name Change",
+        "oldSymbol": "WEJTY",
+        "newSymbol": "WEJTY",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333987",
+      "cik": "",
+      "ticker": "AETUF",
+      "title": "Arc Resources Ltd. Ordinary Shares (Canada)",
+      "published": "2026-09-04T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker AETUF → —",
+      "detail": "Acquisition/Merger/Amalgamation",
+      "marketAction": {
+        "action": "Acquisition/Merger/Amalgamation",
+        "oldSymbol": "AETUF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-333991",
+      "cik": "",
+      "ticker": "SRCAF",
+      "title": "ARC MINERAL ROYALTIES LTD Common Stock",
+      "published": "2026-09-04T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker SRCAF → SRCAF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "SRCAF",
+        "newSymbol": "SRCAF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-333977",
       "cik": "",
@@ -1974,7 +2058,7 @@
     }
   ],
   "coverage": {
-    "total": 105,
+    "total": 109,
     "registration": 1,
     "financial": 4,
     "material": 32
