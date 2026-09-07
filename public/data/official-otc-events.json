@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T05:45:44.574Z",
+  "fetchedAt": "2026-09-07T11:48:35.817Z",
   "items": [
     {
       "id": "finra-334163",
@@ -1238,21 +1238,6 @@
       }
     },
     {
-      "id": "sec-000121390026097154",
-      "cik": "1424657",
-      "ticker": "CUEN",
-      "title": "Cuentas Inc.",
-      "published": "2026-09-03T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1424657/000121390026097154/0001213900-26-097154-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-03 AccNo: 0001213900-26-097154 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000119312526381869",
       "cik": "1732406",
       "ticker": "LTCN",
@@ -2175,9 +2160,9 @@
     }
   ],
   "coverage": {
-    "total": 118,
+    "total": 117,
     "registration": 6,
-    "financial": 5,
+    "financial": 4,
     "material": 38
   },
   "sourceStatus": [
