@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T20:43:29.966Z",
+  "fetchedAt": "2026-09-07T23:01:01.437Z",
   "items": [
     {
       "id": "finra-334163",
@@ -814,6 +814,81 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-09-04 AccNo: 0001437749-26-029651 Size: 1 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226041589",
+      "cik": "930245",
+      "ticker": "AASP",
+      "title": "Agassi Sports Entertainment Corp.",
+      "published": "2026-09-04T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/930245/000149315226041589/0001493152-26-041589-index.htm",
+      "source": "SEC EDGAR",
+      "form": "D",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-04 AccNo: 0001493152-26-041589 Size: 9 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226041586",
+      "cik": "930245",
+      "ticker": "AASP",
+      "title": "Agassi Sports Entertainment Corp.",
+      "published": "2026-09-04T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/930245/000149315226041586/0001493152-26-041586-index.htm",
+      "source": "SEC EDGAR",
+      "form": "D",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-04 AccNo: 0001493152-26-041586 Size: 7 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926105536",
+      "cik": "1901336",
+      "ticker": "ALCWF",
+      "title": "Alchemy Investments Acquisition Corp 1",
+      "published": "2026-09-04T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1901336/000110465926105536/0001104659-26-105536-index.htm",
+      "source": "SEC EDGAR",
+      "form": "DEFA14A",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-04 AccNo: 0001104659-26-105536 Size: 19 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000175353926000134",
+      "cik": "1753539",
+      "ticker": "BKSYW",
+      "title": "BlackSky Technology Inc.",
+      "published": "2026-09-04T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000134/0001753539-26-000134-index.htm",
+      "source": "SEC EDGAR",
+      "form": "DEFA14A",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-04 AccNo: 0001753539-26-000134 Size: 76 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000182912626009775",
+      "cik": "1463000",
+      "ticker": "GRUSF",
+      "title": "Grown Rogue International Inc.",
+      "published": "2026-09-04T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1463000/000182912626009775/0001829126-26-009775-index.htm",
+      "source": "SEC EDGAR",
+      "form": "DEF 14A",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-04 AccNo: 0001829126-26-009775 Size: 797 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2097,11 +2172,26 @@
         "reverseSplitRate": "1:15",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000143774926028724",
+      "cik": "1401835",
+      "ticker": "SRGZ",
+      "title": "Star Gold Corp.",
+      "published": "2026-08-21T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1401835/000143774926028724/0001437749-26-028724-index.htm",
+      "source": "SEC EDGAR",
+      "form": "1-A/A",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-08-21 AccNo: 0001437749-26-028724 Size: 1 MB",
+      "eventCue": "",
+      "chinaConnection": ""
     }
   ],
   "coverage": {
-    "total": 113,
-    "registration": 1,
+    "total": 119,
+    "registration": 7,
     "financial": 5,
     "material": 38
   },
