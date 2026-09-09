@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T21:50:11.563Z",
+  "fetchedAt": "2026-09-09T23:51:53.583Z",
   "items": [
     {
       "id": "finra-334374",
@@ -730,66 +730,6 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-09-09 AccNo: 0001213900-26-098221 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526386639",
-      "cik": "886982",
-      "ticker": "GSCE",
-      "title": "GOLDMAN SACHS GROUP INC",
-      "published": "2026-09-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/886982/000119312526386639/0001193125-26-386639-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-09 AccNo: 0001193125-26-386639 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426027028",
-      "cik": "312070",
-      "ticker": "JJETF",
-      "title": "BARCLAYS BANK PLC",
-      "published": "2026-09-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/312070/000191870426027028/0001918704-26-027028-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-09 AccNo: 0001918704-26-027028 Size: 617 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426027027",
-      "cik": "312070",
-      "ticker": "JJETF",
-      "title": "BARCLAYS BANK PLC",
-      "published": "2026-09-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/312070/000191870426027027/0001918704-26-027027-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-09 AccNo: 0001918704-26-027027 Size: 618 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426027026",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
-      "published": "2026-09-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426027026/0001918704-26-027026-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-09 AccNo: 0001918704-26-027026 Size: 1 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2193,8 +2133,8 @@
     }
   ],
   "coverage": {
-    "total": 116,
-    "registration": 6,
+    "total": 112,
+    "registration": 2,
     "financial": 4,
     "material": 30
   },
