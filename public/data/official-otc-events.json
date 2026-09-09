@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-09-09T01:33:26.390Z",
+  "fetchedAt": "2026-09-09T06:42:34.813Z",
   "items": [
+    {
+      "id": "finra-334264",
+      "cik": "",
+      "ticker": "GURFF",
+      "title": "GLOBAL URANIUM CORP COM (Canada)",
+      "published": "2026-09-09T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker GURFD → GURFF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "GURFD",
+        "newSymbol": "GURFF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-334307",
       "cik": "",
@@ -1283,21 +1304,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000143774926029651",
-      "cik": "1401835",
-      "ticker": "SRGZ",
-      "title": "Star Gold Corp.",
-      "published": "2026-09-04T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1401835/000143774926029651/0001437749-26-029651-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A/A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-04 AccNo: 0001437749-26-029651 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000182912626009775",
       "cik": "1463000",
       "ticker": "GRUSF",
@@ -1643,51 +1649,6 @@
       }
     },
     {
-      "id": "sec-000121390026097154",
-      "cik": "1424657",
-      "ticker": "CUEN",
-      "title": "Cuentas Inc.",
-      "published": "2026-09-03T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1424657/000121390026097154/0001213900-26-097154-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-03 AccNo: 0001213900-26-097154 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526381869",
-      "cik": "1732406",
-      "ticker": "LTCN",
-      "title": "Grayscale Litecoin Trust (LTC)",
-      "published": "2026-09-03T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1732406/000119312526381869/0001193125-26-381869-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-03 AccNo: 0001193125-26-381869 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526381856",
-      "cik": "1732409",
-      "ticker": "BCHG",
-      "title": "Grayscale Bitcoin Cash Trust (BCH)",
-      "published": "2026-09-03T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1732409/000119312526381856/0001193125-26-381856-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-03 AccNo: 0001193125-26-381856 Size: 8 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-333855",
       "cik": "",
       "ticker": "RLGDF",
@@ -1920,9 +1881,9 @@
     }
   ],
   "coverage": {
-    "total": 103,
-    "registration": 2,
-    "financial": 6,
+    "total": 100,
+    "registration": 1,
+    "financial": 3,
     "material": 31
   },
   "sourceStatus": [
