@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T23:34:36.008Z",
+  "fetchedAt": "2026-09-09T01:33:26.390Z",
   "items": [
     {
       "id": "finra-334307",
@@ -965,47 +965,17 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000212788826000004",
-      "cik": "1131343",
-      "ticker": "PRNAF",
-      "title": "ALTERITY THERAPEUTICS LTD",
+      "id": "sec-000110465926106021",
+      "cik": "2057463",
+      "ticker": "GLIBB",
+      "title": "Liberty Capital Corp/NV",
       "published": "2026-09-08T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1131343/000212788826000004/0002127888-26-000004-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/2057463/000110465926106021/0001104659-26-106021-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-08 AccNo: 0002127888-26-000004 Size: 7 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000213020526000002",
-      "cik": "1131343",
-      "ticker": "PRNAF",
-      "title": "ALTERITY THERAPEUTICS LTD",
-      "published": "2026-09-08T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1131343/000213020526000002/0002130205-26-000002-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-08 AccNo: 0002130205-26-000002 Size: 5 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000200101126000137",
-      "cik": "886163",
-      "ticker": "LGNZZ",
-      "title": "LIGAND PHARMACEUTICALS INC",
-      "published": "2026-09-08T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/886163/000200101126000137/0002001011-26-000137-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-08 AccNo: 0002001011-26-000137 Size: 13 KB",
+      "companyIntro": "Filed: 2026-09-08 AccNo: 0001104659-26-106021 Size: 18 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1281,6 +1251,36 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
+    },
+    {
+      "id": "sec-000135015626000010",
+      "cik": "1350156",
+      "ticker": "PAXH",
+      "title": "PREAXIA HEALTH CARE PAYMENT SYSTEMS INC.",
+      "published": "2026-09-04T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1350156/000135015626000010/0001350156-26-000010-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-04 AccNo: 0001350156-26-000010 Size: 4 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000149315226041491",
+      "cik": "1932213",
+      "ticker": "BCCG",
+      "title": "Blue Chip Capital Group Inc.",
+      "published": "2026-09-04T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1932213/000149315226041491/0001493152-26-041491-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-04 AccNo: 0001493152-26-041491 Size: 4 MB",
+      "eventCue": "",
+      "chinaConnection": ""
     },
     {
       "id": "sec-000143774926029651",
@@ -1658,6 +1658,36 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000119312526381869",
+      "cik": "1732406",
+      "ticker": "LTCN",
+      "title": "Grayscale Litecoin Trust (LTC)",
+      "published": "2026-09-03T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1732406/000119312526381869/0001193125-26-381869-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-03 AccNo: 0001193125-26-381869 Size: 6 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526381856",
+      "cik": "1732409",
+      "ticker": "BCHG",
+      "title": "Grayscale Bitcoin Cash Trust (BCH)",
+      "published": "2026-09-03T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1732409/000119312526381856/0001193125-26-381856-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-03 AccNo: 0001193125-26-381856 Size: 8 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "finra-333855",
       "cik": "",
       "ticker": "RLGDF",
@@ -1887,348 +1917,12 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "finra-333817",
-      "cik": "",
-      "ticker": "DPSTF",
-      "title": "DHL AG Ordinary Shares",
-      "published": "2026-09-01T16:30:17.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name Change · Ticker DPSTF → DPSTF",
-      "detail": "Name Change",
-      "marketAction": {
-        "action": "Name Change",
-        "oldSymbol": "DPSTF",
-        "newSymbol": "DPSTF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333816",
-      "cik": "",
-      "ticker": "ZTEKF",
-      "title": "ZENTEK LTD Common Shares",
-      "published": "2026-09-01T16:11:04.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Market Center Change Delisted from NASDAQ · Ticker ZTEKF → —",
-      "detail": "Market Center Change Delisted from NASDAQ",
-      "marketAction": {
-        "action": "Market Center Change Delisted from NASDAQ",
-        "oldSymbol": "ZTEKF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333813",
-      "cik": "",
-      "ticker": "PCIIF",
-      "title": "PLASCRED CIRCULAR INNOVATIONS INC COM (Canada)",
-      "published": "2026-09-01T15:11:24.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker MGPRF → PCIIF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "MGPRF",
-        "newSymbol": "PCIIF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333804",
-      "cik": "",
-      "ticker": "KXIAY",
-      "title": "KIOXIA HLDGS CORP ADR - Unsponsored (Japan)",
-      "published": "2026-09-01T12:09:16.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Forward Split · Ticker KXIAY → KXIAY · Forward split 3:1",
-      "detail": "Forward Split",
-      "marketAction": {
-        "action": "Forward Split",
-        "oldSymbol": "KXIAY",
-        "newSymbol": "KXIAY",
-        "reverseSplitRate": "",
-        "forwardSplitRate": "3:1"
-      }
-    },
-    {
-      "id": "finra-333803",
-      "cik": "",
-      "ticker": "DWAHY",
-      "title": "Daiwa House Ind Ltd American Depositary Shares",
-      "published": "2026-09-01T12:04:17.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Forward Split · Ticker DWAHY → DWAHY · Forward split 2:1",
-      "detail": "Forward Split",
-      "marketAction": {
-        "action": "Forward Split",
-        "oldSymbol": "DWAHY",
-        "newSymbol": "DWAHY",
-        "reverseSplitRate": "",
-        "forwardSplitRate": "2:1"
-      }
-    },
-    {
-      "id": "finra-333802",
-      "cik": "",
-      "ticker": "ASMMF",
-      "title": "Australian Strategic Materials Ltd. Ordinary Shares (Australia)",
-      "published": "2026-09-01T11:58:22.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker ASMMF → —",
-      "detail": "Acquisition/Merger/Amalgamation",
-      "marketAction": {
-        "action": "Acquisition/Merger/Amalgamation",
-        "oldSymbol": "ASMMF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333801",
-      "cik": "",
-      "ticker": "BFROF",
-      "title": "BULLFROG GOLD CORP COM (Canada)",
-      "published": "2026-09-01T11:47:18.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker AGRTF → BFROF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "AGRTF",
-        "newSymbol": "BFROF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333796",
-      "cik": "",
-      "ticker": "VRHID",
-      "title": "Veri Medtech Holdings Inc. Common Stock",
-      "published": "2026-09-01T10:52:11.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker VRHI → VRHID · Reverse split 1:2.5",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "VRHI",
-        "newSymbol": "VRHID",
-        "reverseSplitRate": "1:2.5",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333795",
-      "cik": "",
-      "ticker": "HLGVD",
-      "title": "Kantra Copper Limited Ordinary Shares",
-      "published": "2026-09-01T10:15:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/CUSIP Change · Ticker HLGVD → HLGVD",
-      "detail": "Name/CUSIP Change",
-      "marketAction": {
-        "action": "Name/CUSIP Change",
-        "oldSymbol": "HLGVD",
-        "newSymbol": "HLGVD",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333794",
-      "cik": "",
-      "ticker": "CHXIY",
-      "title": "CHUANGXIN INDUSTRIES HOLDINGS LTD ADR - Unsponsored (Cayman Islands)",
-      "published": "2026-09-01T09:53:06.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker CHXIY → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "CHXIY",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333793",
-      "cik": "",
-      "ticker": "ILFHF",
-      "title": "INTER LIFE HOLDINGS CO LTD TOKYO COM STK (Japan)",
-      "published": "2026-09-01T09:43:57.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker ILFHF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "ILFHF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333791",
-      "cik": "",
-      "ticker": "BHMNF",
-      "title": "BROKEN HILL MINES LTD ORDINARY FULLY PAID (Australia)",
-      "published": "2026-09-01T09:38:40.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker BHMNF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "BHMNF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333732",
-      "cik": "",
-      "ticker": "SCPFF",
-      "title": "SCALARE PARTNERS HLDGS LTD ORDINARY FULLY PAID (Australia)",
-      "published": "2026-09-01T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker SCPFD → SCPFF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "SCPFD",
-        "newSymbol": "SCPFF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333760",
-      "cik": "",
-      "ticker": "ICABY",
-      "title": "CTF Media and Entertainment Limited American Depositary Receipts - Sponsored",
-      "published": "2026-09-01T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name Change · Ticker ICABY → ICABY",
-      "detail": "Name Change",
-      "marketAction": {
-        "action": "Name Change",
-        "oldSymbol": "ICABY",
-        "newSymbol": "ICABY",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333766",
-      "cik": "",
-      "ticker": "QCXGF",
-      "title": "QCX Gold Corp. Common Shares",
-      "published": "2026-09-01T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker QCXGF → —",
-      "detail": "Acquisition/Merger/Amalgamation",
-      "marketAction": {
-        "action": "Acquisition/Merger/Amalgamation",
-        "oldSymbol": "QCXGF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333768",
-      "cik": "",
-      "ticker": "BURUD",
-      "title": "Nuburu, Inc. Common Stock",
-      "published": "2026-09-01T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker BURU → BURUD · Reverse split 1:40",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "BURU",
-        "newSymbol": "BURUD",
-        "reverseSplitRate": "1:40",
-        "forwardSplitRate": ""
-      }
     }
   ],
   "coverage": {
-    "total": 117,
+    "total": 103,
     "registration": 2,
-    "financial": 2,
+    "financial": 6,
     "material": 31
   },
   "sourceStatus": [
