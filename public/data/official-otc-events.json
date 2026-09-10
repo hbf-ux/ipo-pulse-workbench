@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T23:51:53.583Z",
+  "fetchedAt": "2026-09-10T03:30:45.998Z",
   "items": [
     {
       "id": "finra-334374",
@@ -730,6 +730,21 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-09-09 AccNo: 0001213900-26-098221 Size: 1 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000107997326001237",
+      "cik": "888981",
+      "ticker": "NNUP",
+      "title": "NOCOPI TECHNOLOGIES INC/MD/",
+      "published": "2026-09-09T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/888981/000107997326001237/0001079973-26-001237-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-09 AccNo: 0001079973-26-001237 Size: 4 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1526,66 +1541,6 @@
       }
     },
     {
-      "id": "sec-000135015626000010",
-      "cik": "1350156",
-      "ticker": "PAXH",
-      "title": "PREAXIA HEALTH CARE PAYMENT SYSTEMS INC.",
-      "published": "2026-09-04T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1350156/000135015626000010/0001350156-26-000010-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-04 AccNo: 0001350156-26-000010 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226041491",
-      "cik": "1932213",
-      "ticker": "BCCG",
-      "title": "Blue Chip Capital Group Inc.",
-      "published": "2026-09-04T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1932213/000149315226041491/0001493152-26-041491-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-04 AccNo: 0001493152-26-041491 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000182912626009775",
-      "cik": "1463000",
-      "ticker": "GRUSF",
-      "title": "Grown Rogue International Inc.",
-      "published": "2026-09-04T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1463000/000182912626009775/0001829126-26-009775-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-04 AccNo: 0001829126-26-009775 Size: 797 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000168316826006972",
-      "cik": "1843714",
-      "ticker": "ZPTAW",
-      "title": "Zapata Quantum, Inc.",
-      "published": "2026-09-04T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1843714/000168316826006972/0001683168-26-006972-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-04 AccNo: 0001683168-26-006972 Size: 377 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-333925",
       "cik": "",
       "ticker": "CPTLD",
@@ -1962,180 +1917,12 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "finra-333935",
-      "cik": "",
-      "ticker": "NFONF",
-      "title": "NFON AG AKTIEN O N",
-      "published": "2026-09-02T16:16:08.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reinstatement · Ticker NFONF → —",
-      "detail": "Reinstatement",
-      "marketAction": {
-        "action": "Reinstatement",
-        "oldSymbol": "NFONF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333929",
-      "cik": "",
-      "ticker": "CTLOF",
-      "title": "Critical One Energy Inc. Common Stock",
-      "published": "2026-09-02T15:14:23.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker MMTLF → CTLOF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "MMTLF",
-        "newSymbol": "CTLOF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333928",
-      "cik": "",
-      "ticker": "SEIWF",
-      "title": "SEIWA HLDGS CO LTD COM STK",
-      "published": "2026-09-02T15:11:55.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker SEIWF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "SEIWF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333924",
-      "cik": "",
-      "ticker": "GPCG",
-      "title": "Golden Park Cloud Group, Inc. Common Stock",
-      "published": "2026-09-02T14:15:53.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/Symbol Change · Ticker AMIN → GPCG",
-      "detail": "Name/Symbol Change",
-      "marketAction": {
-        "action": "Name/Symbol Change",
-        "oldSymbol": "AMIN",
-        "newSymbol": "GPCG",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333923",
-      "cik": "",
-      "ticker": "CNTIF",
-      "title": "CENTAURI MINERALS INC COM",
-      "published": "2026-09-02T14:12:47.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker CNTIF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "CNTIF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333823",
-      "cik": "",
-      "ticker": "ORCPF",
-      "title": "ORACLE PWR PLC SHS (United Kingdom)",
-      "published": "2026-09-02T09:32:27.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker ORCPF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "ORCPF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333822",
-      "cik": "",
-      "ticker": "RNVEF",
-      "title": "RENERVE LTD ORDINARY FULLY PAID (Australia)",
-      "published": "2026-09-02T09:32:09.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker RNVEF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "RNVEF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333819",
-      "cik": "",
-      "ticker": "SECYF",
-      "title": "SECURE WASTE INFRASTRUCTURE CORP Common Shares",
-      "published": "2026-09-02T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker SECYF → —",
-      "detail": "Acquisition/Merger/Amalgamation",
-      "marketAction": {
-        "action": "Acquisition/Merger/Amalgamation",
-        "oldSymbol": "SECYF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
     }
   ],
   "coverage": {
-    "total": 112,
-    "registration": 2,
-    "financial": 4,
+    "total": 101,
+    "registration": 1,
+    "financial": 2,
     "material": 30
   },
   "sourceStatus": [
