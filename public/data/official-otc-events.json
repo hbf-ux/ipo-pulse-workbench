@@ -1,6 +1,69 @@
 {
-  "fetchedAt": "2026-09-10T03:30:45.998Z",
+  "fetchedAt": "2026-09-10T08:24:15.127Z",
   "items": [
+    {
+      "id": "finra-334381",
+      "cik": "",
+      "ticker": "SWRD",
+      "title": "Stewards, Inc. Common Stock",
+      "published": "2026-09-10T01:46:35.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Market Center Change Listed on NASDAQ · Ticker SWRD → —",
+      "detail": "Market Center Change Listed on NASDAQ",
+      "marketAction": {
+        "action": "Market Center Change Listed on NASDAQ",
+        "oldSymbol": "SWRD",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-334370",
+      "cik": "",
+      "ticker": "IDTIF",
+      "title": "IDENTITII LTD SHS NEW (Australia)",
+      "published": "2026-09-10T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker IDTID → IDTIF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "IDTID",
+        "newSymbol": "IDTIF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-334375",
+      "cik": "",
+      "ticker": "BJURD",
+      "title": "BONJOUR HOLDINGS LTD ORD SHS HK$0.01 (Cayman Islands)",
+      "published": "2026-09-10T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker BJURF → BJURD · Reverse split 1:30",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "BJURF",
+        "newSymbol": "BJURD",
+        "reverseSplitRate": "1:30",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-334374",
       "cik": "",
@@ -1920,7 +1983,7 @@
     }
   ],
   "coverage": {
-    "total": 101,
+    "total": 104,
     "registration": 1,
     "financial": 2,
     "material": 30
