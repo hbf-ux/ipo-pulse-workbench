@@ -1,6 +1,90 @@
 {
-  "fetchedAt": "2026-09-11T03:28:49.835Z",
+  "fetchedAt": "2026-09-11T08:16:04.882Z",
   "items": [
+    {
+      "id": "finra-334480",
+      "cik": "",
+      "ticker": "LILWF",
+      "title": "LILIUM N V Warrant Exp 09/14/2026",
+      "published": "2026-09-11T02:01:26.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Matured/Expired · Ticker LILWF → —",
+      "detail": "Matured/Expired",
+      "marketAction": {
+        "action": "Matured/Expired",
+        "oldSymbol": "LILWF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-334434",
+      "cik": "",
+      "ticker": "DHLGY",
+      "title": "DHL AG SPONSORED ADR American Depositary Receipts - Sponsored",
+      "published": "2026-09-11T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name Change · Ticker DHLGY → DHLGY",
+      "detail": "Name Change",
+      "marketAction": {
+        "action": "Name Change",
+        "oldSymbol": "DHLGY",
+        "newSymbol": "DHLGY",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-334369",
+      "cik": "",
+      "ticker": "LCGMD",
+      "title": "LION COPPER CORP COM (Canada)",
+      "published": "2026-09-11T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker LCGMF → LCGMD · Reverse split 1:27",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "LCGMF",
+        "newSymbol": "LCGMD",
+        "reverseSplitRate": "1:27",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-334455",
+      "cik": "",
+      "ticker": "DTMXF",
+      "title": "QUANTA AI INC Common Shares",
+      "published": "2026-09-11T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker DTMXF → DTMXF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "DTMXF",
+        "newSymbol": "DTMXF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-334453",
       "cik": "",
@@ -2091,7 +2175,7 @@
     }
   ],
   "coverage": {
-    "total": 112,
+    "total": 116,
     "registration": 6,
     "financial": 6,
     "material": 28
