@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T23:47:58.033Z",
+  "fetchedAt": "2026-09-11T03:28:49.835Z",
   "items": [
     {
       "id": "finra-334453",
@@ -875,47 +875,32 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000158176026000161",
-      "cik": "1581760",
-      "ticker": "LIFX",
-      "title": "Life360, Inc.",
+      "id": "sec-000095015726000999",
+      "cik": "750004",
+      "ticker": "LNWO",
+      "title": "Light & Wonder, Inc.",
       "published": "2026-09-10T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1581760/000158176026000161/0001581760-26-000161-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/750004/000095015726000999/0000950157-26-000999-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-10 AccNo: 0001581760-26-000161 Size: 8 KB",
+      "companyIntro": "Filed: 2026-09-10 AccNo: 0000950157-26-000999 Size: 7 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
     {
-      "id": "sec-000158176026000159",
-      "cik": "1581760",
-      "ticker": "LIFX",
-      "title": "Life360, Inc.",
+      "id": "sec-000149315226042260",
+      "cik": "930245",
+      "ticker": "AASP",
+      "title": "Agassi Sports Entertainment Corp.",
       "published": "2026-09-10T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1581760/000158176026000159/0001581760-26-000159-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/930245/000149315226042260/0001493152-26-042260-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-10 AccNo: 0001581760-26-000159 Size: 5 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000158176026000157",
-      "cik": "1581760",
-      "ticker": "LIFX",
-      "title": "Life360, Inc.",
-      "published": "2026-09-10T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1581760/000158176026000157/0001581760-26-000157-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-10 AccNo: 0001581760-26-000157 Size: 8 KB",
+      "companyIntro": "Filed: 2026-09-10 AccNo: 0001493152-26-042260 Size: 5 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1748,21 +1733,6 @@
       }
     },
     {
-      "id": "sec-000147793226005450",
-      "cik": "1440799",
-      "ticker": "MMEX",
-      "title": "MMEX Resources Corp",
-      "published": "2026-09-08T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1440799/000147793226005450/0001477932-26-005450-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-08 AccNo: 0001477932-26-005450 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-334024",
       "cik": "",
       "ticker": "JFILD",
@@ -2118,306 +2088,12 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "finra-333977",
-      "cik": "",
-      "ticker": "ROBIF",
-      "title": "ROBINSON ENERGY LIMITED COM (Canada)",
-      "published": "2026-09-03T14:07:35.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker CBVTF → ROBIF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "CBVTF",
-        "newSymbol": "ROBIF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333976",
-      "cik": "",
-      "ticker": "EKWIF",
-      "title": "EVERKIND WELLNESS INC COM",
-      "published": "2026-09-03T14:05:50.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker EKWIF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "EKWIF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333975",
-      "cik": "",
-      "ticker": "SBIBF",
-      "title": "SBI SHINSEI BK LTD Common Stock",
-      "published": "2026-09-03T13:49:46.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker SBIBF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "SBIBF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333974",
-      "cik": "",
-      "ticker": "PHCAF",
-      "title": "PHOENIX METALS CORP COM CL A",
-      "published": "2026-09-03T13:38:39.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker PHCAF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "PHCAF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333972",
-      "cik": "",
-      "ticker": "TEGLF",
-      "title": "TRIANGLE ENERGYGLOBAL LTD Ordinary Shares (Australia)",
-      "published": "2026-09-03T12:17:12.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "CUSIP Suspended · Ticker TEGLF → —",
-      "detail": "CUSIP Suspended",
-      "marketAction": {
-        "action": "CUSIP Suspended",
-        "oldSymbol": "TEGLF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333971",
-      "cik": "",
-      "ticker": "NVLGF",
-      "title": "NOVOLOG PHARM UP 1966 LTD SHARE (Israel)",
-      "published": "2026-09-03T11:55:25.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker NVLGF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "NVLGF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333963",
-      "cik": "",
-      "ticker": "PSYGF",
-      "title": "GoldCoast Resource Corp. Common Shares",
-      "published": "2026-09-03T10:36:25.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker PSYGD → PSYGF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "PSYGD",
-        "newSymbol": "PSYGF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333956",
-      "cik": "",
-      "ticker": "PRCWF",
-      "title": "Sofgen Pharma S.A Warrants",
-      "published": "2026-09-03T09:51:01.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name Change · Ticker PRCWF → PRCWF",
-      "detail": "Name Change",
-      "marketAction": {
-        "action": "Name Change",
-        "oldSymbol": "PRCWF",
-        "newSymbol": "PRCWF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333954",
-      "cik": "",
-      "ticker": "PROCF",
-      "title": "Sofgen Pharma S.A Ordinary Shares",
-      "published": "2026-09-03T09:47:52.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name Change · Ticker PROCF → PROCF",
-      "detail": "Name Change",
-      "marketAction": {
-        "action": "Name Change",
-        "oldSymbol": "PROCF",
-        "newSymbol": "PROCF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333953",
-      "cik": "",
-      "ticker": "NOERF",
-      "title": "NORMA GROUP SE ANDIENUNGSRRECHTES Rights 09/10/2026",
-      "published": "2026-09-03T09:14:46.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker NOERF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "NOERF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333952",
-      "cik": "",
-      "ticker": "FULMF",
-      "title": "FULCRUM METALS PLC ORD GBP0.01",
-      "published": "2026-09-03T08:42:53.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker FULMF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "FULMF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333855",
-      "cik": "",
-      "ticker": "RLGDF",
-      "title": "RED LAKE GOLD INC COM NO PAR (Canada)",
-      "published": "2026-09-03T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker RLGDD → RLGDF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "RLGDD",
-        "newSymbol": "RLGDF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333854",
-      "cik": "",
-      "ticker": "EXXBF",
-      "title": "AITENDERS TECHNOLOGIES INC COM (Canada)",
-      "published": "2026-09-03T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker EXXBD → EXXBF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "EXXBD",
-        "newSymbol": "EXXBF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-333937",
-      "cik": "",
-      "ticker": "FCLIF",
-      "title": "FCL-X FIRE & SAFETY INC. COM",
-      "published": "2026-09-03T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/CUSIP Change · Ticker FCLIF → FCLIF",
-      "detail": "Name/CUSIP Change",
-      "marketAction": {
-        "action": "Name/CUSIP Change",
-        "oldSymbol": "FCLIF",
-        "newSymbol": "FCLIF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
     }
   ],
   "coverage": {
-    "total": 128,
+    "total": 112,
     "registration": 6,
-    "financial": 7,
+    "financial": 6,
     "material": 28
   },
   "sourceStatus": [
