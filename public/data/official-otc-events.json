@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T15:50:33.393Z",
+  "fetchedAt": "2026-09-12T18:10:18.098Z",
   "items": [
     {
       "id": "finra-334570",
@@ -862,21 +862,6 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-09-11 AccNo: 0001193125-26-388222 Size: 19 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000152276726000175",
-      "cik": "1522767",
-      "ticker": "MRMD",
-      "title": "MARIMED INC.",
-      "published": "2026-09-11T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1522767/000152276726000175/0001522767-26-000175-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-11 AccNo: 0001522767-26-000175 Size: 571 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2178,7 +2163,7 @@
     }
   ],
   "coverage": {
-    "total": 117,
+    "total": 116,
     "registration": 2,
     "financial": 10,
     "material": 32
