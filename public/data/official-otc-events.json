@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T00:03:33.451Z",
+  "fetchedAt": "2026-09-12T04:35:24.850Z",
   "items": [
     {
       "id": "finra-334570",
@@ -1277,21 +1277,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000121390026098484",
-      "cik": "826253",
-      "ticker": "AUSI",
-      "title": "AURA SYSTEMS INC",
-      "published": "2026-09-10T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/826253/000121390026098484/0001213900-26-098484-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-10 AccNo: 0001213900-26-098484 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000168316826007054",
       "cik": "1114859",
       "ticker": "GLOH",
@@ -1644,36 +1629,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000164033426001479",
-      "cik": "1169138",
-      "ticker": "GBUX",
-      "title": "GIVBUX, INC.",
-      "published": "2026-09-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1169138/000164033426001479/0001640334-26-001479-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-09 AccNo: 0001640334-26-001479 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026098221",
-      "cik": "1282980",
-      "ticker": "DROR",
-      "title": "Dror Ortho-Design, Inc.",
-      "published": "2026-09-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1282980/000121390026098221/0001213900-26-098221-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-09 AccNo: 0001213900-26-098221 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-334264",
@@ -2223,9 +2178,9 @@
     }
   ],
   "coverage": {
-    "total": 120,
-    "registration": 3,
-    "financial": 12,
+    "total": 117,
+    "registration": 2,
+    "financial": 10,
     "material": 32
   },
   "sourceStatus": [
