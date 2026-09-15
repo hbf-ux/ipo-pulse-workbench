@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T23:29:49.045Z",
+  "fetchedAt": "2026-09-15T01:50:39.629Z",
   "items": [
     {
       "id": "finra-334692",
@@ -1472,47 +1472,17 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000162828026061944",
-      "cik": "2007191",
-      "ticker": "TLPPF",
-      "title": "Telix Pharmaceuticals Ltd",
+      "id": "sec-000180136526000006",
+      "cik": "1318482",
+      "ticker": "KDOZF",
+      "title": "KIDOZ INC.",
       "published": "2026-09-14T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2007191/000162828026061944/0001628280-26-061944-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/1318482/000180136526000006/0001801365-26-000006-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-14 AccNo: 0001628280-26-061944 Size: 5 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226042631",
-      "cik": "2064124",
-      "ticker": "FGRS",
-      "title": "Figure Technology Solutions, Inc.",
-      "published": "2026-09-14T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2064124/000149315226042631/0001493152-26-042631-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-14 AccNo: 0001493152-26-042631 Size: 7 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226042630",
-      "cik": "2064124",
-      "ticker": "FGRS",
-      "title": "Figure Technology Solutions, Inc.",
-      "published": "2026-09-14T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2064124/000149315226042630/0001493152-26-042630-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-14 AccNo: 0001493152-26-042630 Size: 7 KB",
+      "companyIntro": "Filed: 2026-09-14 AccNo: 0001801365-26-000006 Size: 11 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3249,7 +3219,7 @@
     }
   ],
   "coverage": {
-    "total": 178,
+    "total": 176,
     "registration": 7,
     "financial": 24,
     "material": 44
