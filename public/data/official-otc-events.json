@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T22:41:07.393Z",
+  "fetchedAt": "2026-09-17T00:53:53.171Z",
   "items": [
     {
       "id": "finra-334910",
@@ -944,6 +944,51 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000155485526002009",
+      "cik": "1865631",
+      "ticker": "NXNVW",
+      "title": "NEXTNAV INC.",
+      "published": "2026-09-16T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1865631/000155485526002009/0001554855-26-002009-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-16 AccNo: 0001554855-26-002009 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000155485526002008",
+      "cik": "1865631",
+      "ticker": "NXNVW",
+      "title": "NEXTNAV INC.",
+      "published": "2026-09-16T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1865631/000155485526002008/0001554855-26-002008-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-16 AccNo: 0001554855-26-002008 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000155485526002007",
+      "cik": "1865631",
+      "ticker": "NXNVW",
+      "title": "NEXTNAV INC.",
+      "published": "2026-09-16T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1865631/000155485526002007/0001554855-26-002007-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-16 AccNo: 0001554855-26-002007 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "finra-334822",
       "cik": "",
       "ticker": "WEDXF",
@@ -1669,21 +1714,6 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-09-15 AccNo: 0001356914-26-000016 Size: 872 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526391652",
-      "cik": "2036060",
-      "ticker": "SBMW",
-      "title": "Security Midwest Bancorp, Inc.",
-      "published": "2026-09-15T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2036060/000119312526391652/0001193125-26-391652-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-15 AccNo: 0001193125-26-391652 Size: 760 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2459,21 +2489,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000168316826007111",
-      "cik": "1843714",
-      "ticker": "ZPTAW",
-      "title": "Zapata Quantum, Inc.",
-      "published": "2026-09-14T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1843714/000168316826007111/0001683168-26-007111-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-14 AccNo: 0001683168-26-007111 Size: 377 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-334579",
       "cik": "",
       "ticker": "SPQSD",
@@ -3165,284 +3180,11 @@
         "reverseSplitRate": "1:30",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "finra-334374",
-      "cik": "",
-      "ticker": "AURWD",
-      "title": "AURWEST RESOURCES CORP COM NEW (Canada)",
-      "published": "2026-09-09T15:40:58.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker AURWF → AURWD · Reverse split 1:10",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "AURWF",
-        "newSymbol": "AURWD",
-        "reverseSplitRate": "1:10",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334373",
-      "cik": "",
-      "ticker": "UNCJY",
-      "title": "UNICAJA BANCO S A American Depositary Receipts - Unsponsored",
-      "published": "2026-09-09T15:35:02.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker UNCJY → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "UNCJY",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334372",
-      "cik": "",
-      "ticker": "SBLCF",
-      "title": "IMPAUER TECHNOLOGIES INC COM (Canada)",
-      "published": "2026-09-09T14:46:01.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/CUSIP Change · Ticker SBLCF → SBLCF",
-      "detail": "Name/CUSIP Change",
-      "marketAction": {
-        "action": "Name/CUSIP Change",
-        "oldSymbol": "SBLCF",
-        "newSymbol": "SBLCF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334364",
-      "cik": "",
-      "ticker": "TAPIF",
-      "title": "TAP GLOBAL GROUP PLC ORD GBP0.001 (United Kingdom)",
-      "published": "2026-09-09T12:05:47.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker TAPIF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "TAPIF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334354",
-      "cik": "",
-      "ticker": "MEAOF",
-      "title": "METAOPTICS LTD SGD ORD SHS (Cayman Islands)",
-      "published": "2026-09-09T10:35:46.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name Change · Ticker MEAOF → MEAOF",
-      "detail": "Name Change",
-      "marketAction": {
-        "action": "Name Change",
-        "oldSymbol": "MEAOF",
-        "newSymbol": "MEAOF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334352",
-      "cik": "",
-      "ticker": "NTVRY",
-      "title": "NATIVO RES PLC American Depositary Receipts - Unsponsored",
-      "published": "2026-09-09T09:28:03.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker NTVRY → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "NTVRY",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334351",
-      "cik": "",
-      "ticker": "CYPA",
-      "title": "Cyphaira Corp. Common Stock",
-      "published": "2026-09-09T09:04:51.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/Symbol Change · Ticker GSTK → CYPA",
-      "detail": "Name/Symbol Change",
-      "marketAction": {
-        "action": "Name/Symbol Change",
-        "oldSymbol": "GSTK",
-        "newSymbol": "CYPA",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334350",
-      "cik": "",
-      "ticker": "STWGF",
-      "title": "STOCKWORKS GOLD INC Common Shares",
-      "published": "2026-09-09T09:04:24.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker ROVMF → STWGF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "ROVMF",
-        "newSymbol": "STWGF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334349",
-      "cik": "",
-      "ticker": "YUMM",
-      "title": "Yummies Inc Common Stock",
-      "published": "2026-09-09T08:53:53.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker YUMM → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "YUMM",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334348",
-      "cik": "",
-      "ticker": "MRMRF",
-      "title": "MIRAMAR RESOURCES LTD ORDINARY FULLY PAID (Australia)",
-      "published": "2026-09-09T08:46:32.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker MRMRF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "MRMRF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334316",
-      "cik": "",
-      "ticker": "NOERF",
-      "title": "NORMA GROUP SE ANDIENUNGSRRECHTES Rights 09/10/2026",
-      "published": "2026-09-09T02:01:26.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Matured/Expired · Ticker NOERF → —",
-      "detail": "Matured/Expired",
-      "marketAction": {
-        "action": "Matured/Expired",
-        "oldSymbol": "NOERF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334315",
-      "cik": "",
-      "ticker": "RSMIY",
-      "title": "RESOLUTION MINERALS LTD American Depositary Receipts - Sponsored",
-      "published": "2026-09-09T01:45:51.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Market Center Change Listed on NASDAQ · Ticker RSMIY → —",
-      "detail": "Market Center Change Listed on NASDAQ",
-      "marketAction": {
-        "action": "Market Center Change Listed on NASDAQ",
-        "oldSymbol": "RSMIY",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334264",
-      "cik": "",
-      "ticker": "GURFF",
-      "title": "GLOBAL URANIUM CORP COM (Canada)",
-      "published": "2026-09-09T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker GURFD → GURFF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "GURFD",
-        "newSymbol": "GURFF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
     }
   ],
   "coverage": {
-    "total": 182,
-    "registration": 8,
+    "total": 170,
+    "registration": 6,
     "financial": 22,
     "material": 33
   },
