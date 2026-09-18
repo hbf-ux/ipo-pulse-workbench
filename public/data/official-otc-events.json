@@ -1,6 +1,69 @@
 {
-  "fetchedAt": "2026-09-18T05:14:10.407Z",
+  "fetchedAt": "2026-09-18T09:51:05.314Z",
   "items": [
+    {
+      "id": "finra-335008",
+      "cik": "",
+      "ticker": "CBNWF",
+      "title": "Carbon Streaming Corporation WT New Exp 09/19/2026 (Canada)",
+      "published": "2026-09-18T02:01:37.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Matured/Expired · Ticker CBNWF → —",
+      "detail": "Matured/Expired",
+      "marketAction": {
+        "action": "Matured/Expired",
+        "oldSymbol": "CBNWF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-334946",
+      "cik": "",
+      "ticker": "TKUNF",
+      "title": "TIKUN OLAM CANNBIT PHARM LTD Ordinary Shares",
+      "published": "2026-09-18T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker TKUND → TKUNF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "TKUND",
+        "newSymbol": "TKUNF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-334991",
+      "cik": "",
+      "ticker": "FEXXD",
+      "title": "Fjordland Exploration Inc Ordinary Shares",
+      "published": "2026-09-18T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker FEXXF → FEXXD · Reverse split 1:8",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "FEXXF",
+        "newSymbol": "FEXXD",
+        "reverseSplitRate": "1:8",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-334997",
       "cik": "",
@@ -2817,7 +2880,7 @@
     }
   ],
   "coverage": {
-    "total": 146,
+    "total": 149,
     "registration": 3,
     "financial": 4,
     "material": 30
