@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T22:21:06.219Z",
+  "fetchedAt": "2026-09-18T00:38:47.676Z",
   "items": [
     {
       "id": "finra-334997",
@@ -238,6 +238,21 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-09-17 AccNo: 0001640334-26-001572 Size: 2 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526394541",
+      "cik": "1888654",
+      "ticker": "FEAV",
+      "title": "5E Advanced Materials, Inc.",
+      "published": "2026-09-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1888654/000119312526394541/0001193125-26-394541-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-17 AccNo: 0001193125-26-394541 Size: 41 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -587,6 +602,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000155335026000126",
+      "cik": "930775",
+      "ticker": "ECIA",
+      "title": "ENCISION INC",
+      "published": "2026-09-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/930775/000155335026000126/0001553350-26-000126-index.htm",
+      "source": "SEC EDGAR",
+      "form": "D",
+      "category": "Registration & financing",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-17 AccNo: 0001553350-26-000126 Size: 6 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000121390026100957",
       "cik": "1845149",
       "ticker": "CBRGF",
@@ -598,6 +628,36 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-09-17 AccNo: 0001213900-26-100957 Size: 938 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000155485526002018",
+      "cik": "1865631",
+      "ticker": "NXNVW",
+      "title": "NEXTNAV INC.",
+      "published": "2026-09-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1865631/000155485526002018/0001554855-26-002018-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-17 AccNo: 0001554855-26-002018 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026101081",
+      "cik": "1439124",
+      "ticker": "AXICY",
+      "title": "AXIA Energia S.A.",
+      "published": "2026-09-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1439124/000121390026101081/0001213900-26-101081-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-17 AccNo: 0001213900-26-101081 Size: 26 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1757,6 +1817,66 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000147793226005627",
+      "cik": "1729637",
+      "ticker": "KARX",
+      "title": "Karbon-X Corp.",
+      "published": "2026-09-15T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1729637/000147793226005627/0001477932-26-005627-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-15 AccNo: 0001477932-26-005627 Size: 8 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000168316826007174",
+      "cik": "1434601",
+      "ticker": "TMGI",
+      "title": "Transglobal Management Group, Inc.",
+      "published": "2026-09-15T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1434601/000168316826007174/0001683168-26-007174-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-15 AccNo: 0001683168-26-007174 Size: 5 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000168316826007169",
+      "cik": "1985554",
+      "ticker": "LDXC",
+      "title": "Londax Corp.",
+      "published": "2026-09-15T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1985554/000168316826007169/0001683168-26-007169-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-15 AccNo: 0001683168-26-007169 Size: 4 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000182912626010112",
+      "cik": "787496",
+      "ticker": "LGVT",
+      "title": "Longevity Diversified Holdings, Inc.",
+      "published": "2026-09-15T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/787496/000182912626010112/0001829126-26-010112-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-K",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-15 AccNo: 0001829126-26-010112 Size: 2 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000135691426000016",
       "cik": "1356914",
       "ticker": "ECPL",
@@ -2709,327 +2829,12 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "finra-334453",
-      "cik": "",
-      "ticker": "TOPPY",
-      "title": "TOPPAN HOLDINGS INC American Depositary Receipts - Sponsored",
-      "published": "2026-09-10T14:51:31.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Forward Split · Ticker TOPPY → TOPPY · Forward split 2:1",
-      "detail": "Forward Split",
-      "marketAction": {
-        "action": "Forward Split",
-        "oldSymbol": "TOPPY",
-        "newSymbol": "TOPPY",
-        "reverseSplitRate": "",
-        "forwardSplitRate": "2:1"
-      }
-    },
-    {
-      "id": "finra-334452",
-      "cik": "",
-      "ticker": "TONPF",
-      "title": "TOPPAN HOLDINGS INC Common Stock",
-      "published": "2026-09-10T14:48:33.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Forward Split · Ticker TONPF → TONPF · Forward split 2:1",
-      "detail": "Forward Split",
-      "marketAction": {
-        "action": "Forward Split",
-        "oldSymbol": "TONPF",
-        "newSymbol": "TONPF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": "2:1"
-      }
-    },
-    {
-      "id": "finra-334451",
-      "cik": "",
-      "ticker": "NRBP",
-      "title": "Neorich Biopharma Tech Co., Limited Common Stock",
-      "published": "2026-09-10T13:54:57.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker PHBID → NRBP",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "PHBID",
-        "newSymbol": "NRBP",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334450",
-      "cik": "",
-      "ticker": "SCVE",
-      "title": "Sound Cave Technology Inc. Common Stock",
-      "published": "2026-09-10T13:01:49.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker SCVE → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "SCVE",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334447",
-      "cik": "",
-      "ticker": "PGBCY",
-      "title": "PegBio Co., Ltd American Depositary Receipts - Unsponsored",
-      "published": "2026-09-10T12:42:06.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker PGBCY → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "PGBCY",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334442",
-      "cik": "",
-      "ticker": "EQACF",
-      "title": "DISA LTD Ordinary Shares (Singapore)",
-      "published": "2026-09-10T12:10:25.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker EQACF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "EQACF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334441",
-      "cik": "",
-      "ticker": "CNGMY",
-      "title": "CNGR Advanced Material Co., Ltd. American Depositary Receipts - Unsponsored",
-      "published": "2026-09-10T12:06:35.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker CNGMY → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "CNGMY",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334439",
-      "cik": "",
-      "ticker": "MBHPF",
-      "title": "MASCHINENFABRIK BERTHOLD HERMLE AG VORZUGSAKTIEN O ST O N",
-      "published": "2026-09-10T11:38:21.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reinstatement · Ticker MBHPF → —",
-      "detail": "Reinstatement",
-      "marketAction": {
-        "action": "Reinstatement",
-        "oldSymbol": "MBHPF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334438",
-      "cik": "",
-      "ticker": "VOYHF",
-      "title": "VOYAH AUTOMOTIVE TECHNOLOGY CO LTD REGISTERED SHARES H 07489",
-      "published": "2026-09-10T11:28:54.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker VOYHF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "VOYHF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334437",
-      "cik": "",
-      "ticker": "PRCGF",
-      "title": "PRECORE GOLD CORP COM",
-      "published": "2026-09-10T11:18:40.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker PRCGF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "PRCGF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334436",
-      "cik": "",
-      "ticker": "CYUFF",
-      "title": "China Yurun Food Group Limited Ordinary Shares",
-      "published": "2026-09-10T11:08:31.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reinstatement · Ticker CYUFF → —",
-      "detail": "Reinstatement",
-      "marketAction": {
-        "action": "Reinstatement",
-        "oldSymbol": "CYUFF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334415",
-      "cik": "",
-      "ticker": "GBGDD",
-      "title": "Global Gold Corporation Common Stock",
-      "published": "2026-09-10T08:18:38.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker GBGD → GBGDD · Reverse split 1:1000",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "GBGD",
-        "newSymbol": "GBGDD",
-        "reverseSplitRate": "1:1000",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334381",
-      "cik": "",
-      "ticker": "SWRD",
-      "title": "Stewards, Inc. Common Stock",
-      "published": "2026-09-10T01:46:35.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Market Center Change Listed on NASDAQ · Ticker SWRD → —",
-      "detail": "Market Center Change Listed on NASDAQ",
-      "marketAction": {
-        "action": "Market Center Change Listed on NASDAQ",
-        "oldSymbol": "SWRD",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334370",
-      "cik": "",
-      "ticker": "IDTIF",
-      "title": "IDENTITII LTD SHS NEW (Australia)",
-      "published": "2026-09-10T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker IDTID → IDTIF",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "IDTID",
-        "newSymbol": "IDTIF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-334375",
-      "cik": "",
-      "ticker": "BJURD",
-      "title": "BONJOUR HOLDINGS LTD ORD SHS HK$0.01 (Cayman Islands)",
-      "published": "2026-09-10T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker BJURF → BJURD · Reverse split 1:30",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "BJURF",
-        "newSymbol": "BJURD",
-        "reverseSplitRate": "1:30",
-        "forwardSplitRate": ""
-      }
     }
   ],
   "coverage": {
-    "total": 154,
-    "registration": 4,
-    "financial": 6,
+    "total": 147,
+    "registration": 5,
+    "financial": 11,
     "material": 24
   },
   "sourceStatus": [
