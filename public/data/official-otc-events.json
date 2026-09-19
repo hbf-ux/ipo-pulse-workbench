@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T00:32:45.859Z",
+  "fetchedAt": "2026-09-19T05:06:33.687Z",
   "items": [
     {
       "id": "finra-335088",
@@ -584,6 +584,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000149315226043209",
+      "cik": "1324759",
+      "ticker": "HGYN",
+      "title": "HONG YUAN HOLDING GROUP",
+      "published": "2026-09-18T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1324759/000149315226043209/0001493152-26-043209-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-18 AccNo: 0001493152-26-043209 Size: 3 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000106299326005019",
       "cik": "1346917",
       "ticker": "GNTOF",
@@ -944,6 +959,81 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000121390026101591",
+      "cik": "1918080",
+      "ticker": "DBHL",
+      "title": "Deep Isolation Nuclear, Inc.",
+      "published": "2026-09-18T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026101591/0001213900-26-101591-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-18 AccNo: 0001213900-26-101591 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026101589",
+      "cik": "1918080",
+      "ticker": "DBHL",
+      "title": "Deep Isolation Nuclear, Inc.",
+      "published": "2026-09-18T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026101589/0001213900-26-101589-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-18 AccNo: 0001213900-26-101589 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026101588",
+      "cik": "1918080",
+      "ticker": "DBHL",
+      "title": "Deep Isolation Nuclear, Inc.",
+      "published": "2026-09-18T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026101588/0001213900-26-101588-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-18 AccNo: 0001213900-26-101588 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026101586",
+      "cik": "1918080",
+      "ticker": "DBHL",
+      "title": "Deep Isolation Nuclear, Inc.",
+      "published": "2026-09-18T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026101586/0001213900-26-101586-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-18 AccNo: 0001213900-26-101586 Size: 6 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026101584",
+      "cik": "1918080",
+      "ticker": "DBHL",
+      "title": "Deep Isolation Nuclear, Inc.",
+      "published": "2026-09-18T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026101584/0001213900-26-101584-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-18 AccNo: 0001213900-26-101584 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "finra-334946",
       "cik": "",
       "ticker": "TKUNF",
@@ -1196,6 +1286,36 @@
       }
     },
     {
+      "id": "sec-000147793226005663",
+      "cik": "1035422",
+      "ticker": "CTTH",
+      "title": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+      "published": "2026-09-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1035422/000147793226005663/0001477932-26-005663-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-17 AccNo: 0001477932-26-005663 Size: 1 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000164033426001572",
+      "cik": "1697884",
+      "ticker": "VSBC",
+      "title": "VITASPRING BIOMEDICAL CO. LTD.",
+      "published": "2026-09-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1697884/000164033426001572/0001640334-26-001572-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-17 AccNo: 0001640334-26-001572 Size: 2 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000119312526394541",
       "cik": "1888654",
       "ticker": "FEAV",
@@ -1222,6 +1342,21 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-09-17 AccNo: 0001213900-26-101042 Size: 21 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026100957",
+      "cik": "1845149",
+      "ticker": "CBRGF",
+      "title": "Chain Bridge I",
+      "published": "2026-09-17T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1845149/000121390026100957/0001213900-26-100957-index.htm",
+      "source": "SEC EDGAR",
+      "form": "PRE 14A",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-09-17 AccNo: 0001213900-26-100957 Size: 938 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1665,21 +1800,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000164033426001557",
-      "cik": "1018735",
-      "ticker": "NYMXF",
-      "title": "NYMOX PHARMACEUTICAL CORP",
-      "published": "2026-09-16T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1018735/000164033426001557/0001640334-26-001557-index.htm",
-      "source": "SEC EDGAR",
-      "form": "20-F/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-16 AccNo: 0001640334-26-001557 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-334822",
@@ -2859,9 +2979,9 @@
     }
   ],
   "coverage": {
-    "total": 146,
+    "total": 154,
     "registration": 2,
-    "financial": 2,
+    "financial": 4,
     "material": 31
   },
   "sourceStatus": [
