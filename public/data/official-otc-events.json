@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-10-02T01:24:54.743Z",
+  "fetchedAt": "2026-10-02T07:21:01.481Z",
   "items": [
+    {
+      "id": "finra-335817",
+      "cik": "",
+      "ticker": "EVRSF",
+      "title": "ANTIMONY RESOURCES LTD SHS (Australia)",
+      "published": "2026-10-02T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker EVRSD → EVRSF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "EVRSD",
+        "newSymbol": "EVRSF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-335816",
+      "cik": "",
+      "ticker": "CPTLF",
+      "title": "CAPITAL B ORD NEW (France)",
+      "published": "2026-10-02T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker CPTLD → CPTLF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "CPTLD",
+        "newSymbol": "CPTLF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-335832",
       "cik": "",
@@ -1736,21 +1778,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000119983526000359",
-      "cik": "1442492",
-      "ticker": "LRDC",
-      "title": "Laredo Oil, Inc.",
-      "published": "2026-09-30T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1442492/000119983526000359/0001199835-26-000359-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-30 AccNo: 0001199835-26-000359 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000121390026105181",
       "cik": "1949257",
       "ticker": "RDPTF",
@@ -2178,126 +2205,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000149315226044816",
-      "cik": "2034288",
-      "ticker": "RMGL",
-      "title": "Rocky Mountains Group Ltd",
-      "published": "2026-09-29T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2034288/000149315226044816/0001493152-26-044816-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-29 AccNo: 0001493152-26-044816 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000165495426008640",
-      "cik": "1374567",
-      "ticker": "LUVU",
-      "title": "Luvu Brands, Inc.",
-      "published": "2026-09-29T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1374567/000165495426008640/0001654954-26-008640-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-29 AccNo: 0001654954-26-008640 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000107997326001301",
-      "cik": "875729",
-      "ticker": "BNET",
-      "title": "BION ENVIRONMENTAL TECHNOLOGIES INC",
-      "published": "2026-09-29T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/875729/000107997326001301/0001079973-26-001301-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-29 AccNo: 0001079973-26-001301 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000164033426001603",
-      "cik": "1018735",
-      "ticker": "NYMXF",
-      "title": "NYMOX PHARMACEUTICAL CORP",
-      "published": "2026-09-29T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1018735/000164033426001603/0001640334-26-001603-index.htm",
-      "source": "SEC EDGAR",
-      "form": "20-F/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-29 AccNo: 0001640334-26-001603 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026104509",
-      "cik": "1173313",
-      "ticker": "ECOC",
-      "title": "ABVC BIOPHARMA, INC.",
-      "published": "2026-09-29T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1173313/000121390026104509/0001213900-26-104509-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-29 AccNo: 0001213900-26-104509 Size: 240 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000174879026000025",
-      "cik": "1748790",
-      "ticker": "AMCCF",
-      "title": "Amcor plc",
-      "published": "2026-09-29T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000025/0001748790-26-000025-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-29 AccNo: 0001748790-26-000025 Size: 24 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026104740",
-      "cik": "1456189",
-      "ticker": "LEAT",
-      "title": "Leatt Corp",
-      "published": "2026-09-29T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1456189/000121390026104740/0001213900-26-104740-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-29 AccNo: 0001213900-26-104740 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526407735",
-      "cik": "1786318",
-      "ticker": "IBATF",
-      "title": "INTERNATIONAL BATTERY METALS LTD.",
-      "published": "2026-09-29T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1786318/000119312526407735/0001193125-26-407735-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-29 AccNo: 0001193125-26-407735 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-335474",
@@ -3120,9 +3027,9 @@
     }
   ],
   "coverage": {
-    "total": 167,
-    "registration": 8,
-    "financial": 10,
+    "total": 160,
+    "registration": 6,
+    "financial": 5,
     "material": 41
   },
   "sourceStatus": [
