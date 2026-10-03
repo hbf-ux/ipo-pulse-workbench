@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T01:57:49.274Z",
+  "fetchedAt": "2026-10-03T07:56:34.146Z",
   "items": [
     {
       "id": "finra-335921",
@@ -2195,66 +2195,6 @@
       }
     },
     {
-      "id": "sec-000172255626000036",
-      "cik": "1722556",
-      "ticker": "BGFR",
-      "title": "BestGofer Inc.",
-      "published": "2026-09-30T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1722556/000172255626000036/0001722556-26-000036-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-30 AccNo: 0001722556-26-000036 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026105343",
-      "cik": "1892316",
-      "ticker": "LDDD",
-      "title": "Longduoduo Co Ltd",
-      "published": "2026-09-30T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1892316/000121390026105343/0001213900-26-105343-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-30 AccNo: 0001213900-26-105343 Size: 5 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026105181",
-      "cik": "1949257",
-      "ticker": "RDPTF",
-      "title": "Radiopharm Theranostics Ltd",
-      "published": "2026-09-30T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1949257/000121390026105181/0001213900-26-105181-index.htm",
-      "source": "SEC EDGAR",
-      "form": "20-F",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-30 AccNo: 0001213900-26-105181 Size: 12 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226045136",
-      "cik": "1803977",
-      "ticker": "LIMX",
-      "title": "Limitless X Holdings Inc.",
-      "published": "2026-09-30T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1803977/000149315226045136/0001493152-26-045136-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A/A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-09-30 AccNo: 0001493152-26-045136 Size: 8 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-334904",
       "cik": "",
       "ticker": "INTAF",
@@ -3222,9 +3162,9 @@
     }
   ],
   "coverage": {
-    "total": 171,
-    "registration": 6,
-    "financial": 6,
+    "total": 167,
+    "registration": 5,
+    "financial": 3,
     "material": 44
   },
   "sourceStatus": [
