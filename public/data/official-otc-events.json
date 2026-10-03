@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-02T23:09:19.586Z",
+  "fetchedAt": "2026-10-03T01:57:49.274Z",
   "items": [
     {
       "id": "finra-335921",
@@ -1075,6 +1075,81 @@
       "category": "Registration & financing",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-10-02 AccNo: 0001493152-26-045479 Size: 4 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926113437",
+      "cik": "1867102",
+      "ticker": "EVTWF",
+      "title": "Vertical Aerospace Ltd.",
+      "published": "2026-10-02T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1867102/000110465926113437/0001104659-26-113437-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-10-02 AccNo: 0001104659-26-113437 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526412861",
+      "cik": "13156",
+      "ticker": "GLXZ",
+      "title": "Galaxy Gaming, Inc.",
+      "published": "2026-10-02T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/13156/000119312526412861/0001193125-26-412861-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-10-02 AccNo: 0001193125-26-412861 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526412856",
+      "cik": "13156",
+      "ticker": "GLXZ",
+      "title": "Galaxy Gaming, Inc.",
+      "published": "2026-10-02T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/13156/000119312526412856/0001193125-26-412856-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-10-02 AccNo: 0001193125-26-412856 Size: 4 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000119312526412847",
+      "cik": "13156",
+      "ticker": "GLXZ",
+      "title": "Galaxy Gaming, Inc.",
+      "published": "2026-10-02T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/13156/000119312526412847/0001193125-26-412847-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-10-02 AccNo: 0001193125-26-412847 Size: 4 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000110465926113429",
+      "cik": "1011509",
+      "ticker": "AUMN",
+      "title": "Golden Minerals Co",
+      "published": "2026-10-02T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1011509/000110465926113429/0001104659-26-113429-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-10-02 AccNo: 0001104659-26-113429 Size: 5 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -3144,262 +3219,10 @@
         "reverseSplitRate": "",
         "forwardSplitRate": "2:1"
       }
-    },
-    {
-      "id": "finra-335478",
-      "cik": "",
-      "ticker": "FSBMF",
-      "title": "FUSE BATTERY METALS INC Common Shares",
-      "published": "2026-09-25T16:23:51.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reinstatement · Ticker FSBMF → —",
-      "detail": "Reinstatement",
-      "marketAction": {
-        "action": "Reinstatement",
-        "oldSymbol": "FSBMF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335476",
-      "cik": "",
-      "ticker": "GRCTF",
-      "title": "GREENCOAT UK WIND PLC Ordinary Shares",
-      "published": "2026-09-25T16:15:34.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker GRCTF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "GRCTF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335475",
-      "cik": "",
-      "ticker": "MSEUF",
-      "title": "LYXOR INTL ASSET MANAGEMENT AM EU ST 50 II UC ETF DH C USD Exchange Traded Fund",
-      "published": "2026-09-25T16:10:33.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker MSEUF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "MSEUF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335465",
-      "cik": "",
-      "ticker": "NPSGF",
-      "title": "Nippon Sheet Glass Ordinary Shares",
-      "published": "2026-09-25T12:30:31.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker NPSGF → —",
-      "detail": "Acquisition/Merger/Amalgamation",
-      "marketAction": {
-        "action": "Acquisition/Merger/Amalgamation",
-        "oldSymbol": "NPSGF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335464",
-      "cik": "",
-      "ticker": "SLXMY",
-      "title": "SILEX MICROSYSTEMS AB American Depositary Receipts - Unsponsored",
-      "published": "2026-09-25T12:29:02.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker SLXMY → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "SLXMY",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335461",
-      "cik": "",
-      "ticker": "GRUI",
-      "title": "Grupo Resilient International Inc. Common Stock",
-      "published": "2026-09-25T11:57:45.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker GRUI → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "GRUI",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335450",
-      "cik": "",
-      "ticker": "DXPRP",
-      "title": "DYNEX CAP INC PFD SER D 9.375%",
-      "published": "2026-09-25T10:47:31.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker DXPRV → DXPRP",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "DXPRV",
-        "newSymbol": "DXPRP",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335442",
-      "cik": "",
-      "ticker": "NTETF",
-      "title": "Nikkei 225 Exchange Traded Fund Tokyo Units (Japan)",
-      "published": "2026-09-25T10:08:34.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Forward Split · Ticker NTETF → NTETF · Forward split 100:1",
-      "detail": "Forward Split",
-      "marketAction": {
-        "action": "Forward Split",
-        "oldSymbol": "NTETF",
-        "newSymbol": "NTETF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": "100:1"
-      }
-    },
-    {
-      "id": "finra-335404",
-      "cik": "",
-      "ticker": "CGRHF",
-      "title": "CENTURY GROUP INTL HLDGS LTD SHS TEMP TRADING BOARD LOT 250 (Cayman Islands)",
-      "published": "2026-09-25T02:01:40.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Matured/Expired · Ticker CGRHF → —",
-      "detail": "Matured/Expired",
-      "marketAction": {
-        "action": "Matured/Expired",
-        "oldSymbol": "CGRHF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335343",
-      "cik": "",
-      "ticker": "GLTK",
-      "title": "GLOBALTECH CORP COM",
-      "published": "2026-09-25T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker GLTKD → GLTK",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "GLTKD",
-        "newSymbol": "GLTK",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335377",
-      "cik": "",
-      "ticker": "TOMXF",
-      "title": "Trinity Silver Corp. Common Shares",
-      "published": "2026-09-25T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/CUSIP Change · Ticker TOMXF → TOMXF",
-      "detail": "Name/CUSIP Change",
-      "marketAction": {
-        "action": "Name/CUSIP Change",
-        "oldSymbol": "TOMXF",
-        "newSymbol": "TOMXF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335378",
-      "cik": "",
-      "ticker": "ABEPD",
-      "title": "Vision Lithium Inc Ordinary Shares",
-      "published": "2026-09-25T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker ABEPF → ABEPD · Reverse split 1:15",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "ABEPF",
-        "newSymbol": "ABEPD",
-        "reverseSplitRate": "1:15",
-        "forwardSplitRate": ""
-      }
     }
   ],
   "coverage": {
-    "total": 178,
+    "total": 171,
     "registration": 6,
     "financial": 6,
     "material": 44
