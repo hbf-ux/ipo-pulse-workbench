@@ -1,6 +1,69 @@
 {
-  "fetchedAt": "2026-10-05T00:29:43.268Z",
+  "fetchedAt": "2026-10-05T06:07:58.660Z",
   "items": [
+    {
+      "id": "finra-335881",
+      "cik": "",
+      "ticker": "RMRYD",
+      "title": "ARMORY MNG CORP Common Shares",
+      "published": "2026-10-05T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker RMRYF → RMRYD · Reverse split 1:5",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "RMRYF",
+        "newSymbol": "RMRYD",
+        "reverseSplitRate": "1:5",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-335907",
+      "cik": "",
+      "ticker": "GNRGF",
+      "title": "General Strategic Metals Inc. Com",
+      "published": "2026-10-05T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker GNRGF → GNRGF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "GNRGF",
+        "newSymbol": "GNRGF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-335914",
+      "cik": "",
+      "ticker": "EPFCF",
+      "title": "Global Receivables Management Inc. Com",
+      "published": "2026-10-05T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker EPFCF → EPFCF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "EPFCF",
+        "newSymbol": "EPFCF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-335921",
       "cik": "",
@@ -3162,7 +3225,7 @@
     }
   ],
   "coverage": {
-    "total": 167,
+    "total": 170,
     "registration": 5,
     "financial": 3,
     "material": 44
