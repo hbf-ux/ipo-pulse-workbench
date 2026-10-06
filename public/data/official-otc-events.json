@@ -1,6 +1,111 @@
 {
-  "fetchedAt": "2026-10-06T01:55:34.166Z",
+  "fetchedAt": "2026-10-06T08:42:14.004Z",
   "items": [
+    {
+      "id": "finra-335998",
+      "cik": "",
+      "ticker": "RVNGF",
+      "title": "REVENIO GROUP OYJ RIGHTS",
+      "published": "2026-10-06T02:01:34.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Matured/Expired · Ticker RVNGF → —",
+      "detail": "Matured/Expired",
+      "marketAction": {
+        "action": "Matured/Expired",
+        "oldSymbol": "RVNGF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-335935",
+      "cik": "",
+      "ticker": "AURWF",
+      "title": "AURWEST RESOURCES CORP COM NEW (Canada)",
+      "published": "2026-10-06T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker AURWD → AURWF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "AURWD",
+        "newSymbol": "AURWF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-335815",
+      "cik": "",
+      "ticker": "ARXCY",
+      "title": "ARC Resources Ltd. CDA ADR - Unsponsored (Canada)",
+      "published": "2026-10-06T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "ADR/GDR Program Terminated · Ticker ARXCY → —",
+      "detail": "ADR/GDR Program Terminated",
+      "marketAction": {
+        "action": "ADR/GDR Program Terminated",
+        "oldSymbol": "ARXCY",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-335906",
+      "cik": "",
+      "ticker": "KGLDF",
+      "title": "King Global Critical Minerals Inc. Com",
+      "published": "2026-10-06T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker KGLDF → KGLDF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "KGLDF",
+        "newSymbol": "KGLDF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-335966",
+      "cik": "",
+      "ticker": "PCIMD",
+      "title": "PACIFIC IMPERIAL MINES INC COM NEW (Canada)",
+      "published": "2026-10-06T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker PCIMF → PCIMD · Reverse split 1:10",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "PCIMF",
+        "newSymbol": "PCIMD",
+        "reverseSplitRate": "1:10",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-335972",
       "cik": "",
@@ -1715,96 +1820,6 @@
       }
     },
     {
-      "id": "sec-000147793226005953",
-      "cik": "55234",
-      "ticker": "GAMG",
-      "title": "Global Asset Management Group, Inc.",
-      "published": "2026-10-01T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/55234/000147793226005953/0001477932-26-005953-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-01 AccNo: 0001477932-26-005953 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226045331",
-      "cik": "1465470",
-      "ticker": "SHMP",
-      "title": "NaturalShrimp Inc",
-      "published": "2026-10-01T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1465470/000149315226045331/0001493152-26-045331-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-01 AccNo: 0001493152-26-045331 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000143774926031727",
-      "cik": "1883984",
-      "ticker": "ADIS",
-      "title": "Aedis Energy Inc.",
-      "published": "2026-10-01T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1883984/000143774926031727/0001437749-26-031727-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-01 AccNo: 0001437749-26-031727 Size: 423 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000094381926000080",
-      "cik": "943819",
-      "ticker": "RSMDF",
-      "title": "RESMED INC",
-      "published": "2026-10-01T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000080/0000943819-26-000080-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-01 AccNo: 0000943819-26-000080 Size: 20 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000118518526004498",
-      "cik": "1619312",
-      "ticker": "LTSV",
-      "title": "Lightstone Value Plus REIT IV, Inc.",
-      "published": "2026-10-01T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1619312/000118518526004498/0001185185-26-004498-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-01 AccNo: 0001185185-26-004498 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000182912626010651",
-      "cik": "1859035",
-      "ticker": "MCAGU",
-      "title": "Mountain Crest Acquisition Corp. V",
-      "published": "2026-10-01T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1859035/000182912626010651/0001829126-26-010651-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-01 AccNo: 0001829126-26-010651 Size: 267 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-335467",
       "cik": "",
       "ticker": "BNPJY",
@@ -2919,9 +2934,9 @@
     }
   ],
   "coverage": {
-    "total": 154,
-    "registration": 9,
-    "financial": 4,
+    "total": 153,
+    "registration": 7,
+    "financial": 1,
     "material": 35
   },
   "sourceStatus": [
