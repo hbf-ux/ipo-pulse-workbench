@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T00:09:27.687Z",
+  "fetchedAt": "2026-10-07T06:00:51.438Z",
   "items": [
     {
       "id": "finra-336103",
@@ -923,47 +923,32 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000162828026065269",
-      "cik": "1512673",
-      "ticker": "BSQKZ",
-      "title": "Block, Inc.",
+      "id": "sec-000168316826007672",
+      "cik": "1109262",
+      "ticker": "BSCL",
+      "title": "BILI Social International, Inc.",
       "published": "2026-10-06T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026065269/0001628280-26-065269-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/1109262/000168316826007672/0001683168-26-007672-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-06 AccNo: 0001628280-26-065269 Size: 7 KB",
+      "companyIntro": "Filed: 2026-10-06 AccNo: 0001683168-26-007672 Size: 5 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
     {
-      "id": "sec-000143774926032249",
-      "cik": "1091596",
-      "ticker": "AURX",
-      "title": "Nuo Therapeutics, Inc.",
+      "id": "sec-000168316826007671",
+      "cik": "1109262",
+      "ticker": "BSCL",
+      "title": "BILI Social International, Inc.",
       "published": "2026-10-06T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1091596/000143774926032249/0001437749-26-032249-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/1109262/000168316826007671/0001683168-26-007671-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-06 AccNo: 0001437749-26-032249 Size: 8 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026107316",
-      "cik": "1439124",
-      "ticker": "AXICY",
-      "title": "AXIA Energia S.A.",
-      "published": "2026-10-06T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1439124/000121390026107316/0001213900-26-107316-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-06 AccNo: 0001213900-26-107316 Size: 21 KB",
+      "companyIntro": "Filed: 2026-10-06 AccNo: 0001683168-26-007671 Size: 5 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1803,51 +1788,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000162828026064355",
-      "cik": "1023512",
-      "ticker": "DRDGF",
-      "title": "DRDGOLD LTD",
-      "published": "2026-10-02T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1023512/000162828026064355/0001628280-26-064355-index.htm",
-      "source": "SEC EDGAR",
-      "form": "20-F",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-02 AccNo: 0001628280-26-064355 Size: 114 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026106331",
-      "cik": "1845149",
-      "ticker": "CBRGF",
-      "title": "Chain Bridge I",
-      "published": "2026-10-02T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1845149/000121390026106331/0001213900-26-106331-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-02 AccNo: 0001213900-26-106331 Size: 5 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226045479",
-      "cik": "1004724",
-      "ticker": "RHEPZ",
-      "title": "REGIONAL HEALTH PROPERTIES, INC",
-      "published": "2026-10-02T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1004724/000149315226045479/0001493152-26-045479-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-02 AccNo: 0001493152-26-045479 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-335817",
@@ -2859,9 +2799,9 @@
     }
   ],
   "coverage": {
-    "total": 148,
-    "registration": 4,
-    "financial": 2,
+    "total": 144,
+    "registration": 2,
+    "financial": 1,
     "material": 33
   },
   "sourceStatus": [
