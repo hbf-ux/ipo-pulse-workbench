@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-10-09T02:30:12.372Z",
+  "fetchedAt": "2026-10-09T09:38:48.659Z",
   "items": [
+    {
+      "id": "finra-336262",
+      "cik": "",
+      "ticker": "GDPCW",
+      "title": "GOODRICH PETE CORP UCC REPLACEMENT WT EXP Warrant 10/12/2026",
+      "published": "2026-10-09T02:01:37.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Matured/Expired · Ticker GDPCW → —",
+      "detail": "Matured/Expired",
+      "marketAction": {
+        "action": "Matured/Expired",
+        "oldSymbol": "GDPCW",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-336228",
       "cik": "",
@@ -2856,7 +2877,7 @@
     }
   ],
   "coverage": {
-    "total": 153,
+    "total": 154,
     "registration": 7,
     "financial": 5,
     "material": 35
