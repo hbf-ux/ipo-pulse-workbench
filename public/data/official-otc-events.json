@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T01:07:42.462Z",
+  "fetchedAt": "2026-10-10T07:08:17.904Z",
   "items": [
     {
       "id": "finra-336333",
@@ -700,21 +700,6 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-10-09 AccNo: 0001062993-26-005273 Size: 23 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000110465926115113",
-      "cik": "1163653",
-      "ticker": "NRSCF",
-      "title": "NOMURA HOLDINGS INC",
-      "published": "2026-10-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1163653/000110465926115113/0001104659-26-115113-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-09 AccNo: 0001104659-26-115113 Size: 658 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1548,21 +1533,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000168316826007689",
-      "cik": "1949864",
-      "ticker": "MGNC",
-      "title": "Mag Magna Corp",
-      "published": "2026-10-07T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1949864/000168316826007689/0001683168-26-007689-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-07 AccNo: 0001683168-26-007689 Size: 13 MB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-336070",
@@ -2469,9 +2439,9 @@
     }
   ],
   "coverage": {
-    "total": 130,
-    "registration": 6,
-    "financial": 9,
+    "total": 128,
+    "registration": 5,
+    "financial": 8,
     "material": 27
   },
   "sourceStatus": [
