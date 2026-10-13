@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-10-13T00:15:48.048Z",
+  "fetchedAt": "2026-10-13T06:58:51.812Z",
   "items": [
+    {
+      "id": "finra-336332",
+      "cik": "",
+      "ticker": "GARWF",
+      "title": "GRG RESOURCES CORP COM (Canada)",
+      "published": "2026-10-13T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker GARWF → GARWF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "GARWF",
+        "newSymbol": "GARWF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-336214",
+      "cik": "",
+      "ticker": "BKTPD",
+      "title": "Cruz Mining Corp. Com",
+      "published": "2026-10-13T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker BKTPF → BKTPD · Reverse split 1:10",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "BKTPF",
+        "newSymbol": "BKTPD",
+        "reverseSplitRate": "1:10",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-336443",
       "cik": "",
@@ -2439,7 +2481,7 @@
     }
   ],
   "coverage": {
-    "total": 128,
+    "total": 130,
     "registration": 5,
     "financial": 8,
     "material": 27
