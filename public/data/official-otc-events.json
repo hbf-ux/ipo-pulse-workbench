@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-10-12T17:55:19.771Z",
+  "fetchedAt": "2026-10-13T00:15:48.048Z",
   "items": [
+    {
+      "id": "finra-336443",
+      "cik": "",
+      "ticker": "MLRYY",
+      "title": "VK CO LTD Global Depositary Receipts - Sponsored",
+      "published": "2026-10-12T14:47:34.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "CUSIP Suspended · Ticker MLRYY → —",
+      "detail": "CUSIP Suspended",
+      "marketAction": {
+        "action": "CUSIP Suspended",
+        "oldSymbol": "MLRYY",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-336441",
       "cik": "",
@@ -2415,346 +2436,10 @@
         "reverseSplitRate": "1:10",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "finra-335972",
-      "cik": "",
-      "ticker": "DLMKF",
-      "title": "Dutch Lady Milk Industries BHD SHS (Malaysia)",
-      "published": "2026-10-05T18:20:20.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker DLMKF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "DLMKF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335971",
-      "cik": "",
-      "ticker": "VMCIF",
-      "title": "VICTORIAS MILLING CO INC Ordinary Shares (Philippines)",
-      "published": "2026-10-05T18:20:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker VMCIF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "VMCIF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335970",
-      "cik": "",
-      "ticker": "PALHF",
-      "title": "PAL HOLDINGS INC Ordinary Shares (Philippines)",
-      "published": "2026-10-05T18:19:44.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker PALHF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "PALHF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335969",
-      "cik": "",
-      "ticker": "HNTLF",
-      "title": "HENDERSON INTERNATIONAL INCOME TRUST PLC SHS GBP (United Kingdom)",
-      "published": "2026-10-05T18:19:27.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker HNTLF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "HNTLF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335968",
-      "cik": "",
-      "ticker": "ADVVF",
-      "title": "ADVICENNE SA ORD (France)",
-      "published": "2026-10-05T18:19:03.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker ADVVF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "ADVVF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335967",
-      "cik": "",
-      "ticker": "LESLQ",
-      "title": "LESLIES INC Common Stock",
-      "published": "2026-10-05T16:24:27.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Market Center Change Delisted from NASDAQ · Ticker LESLQ → —",
-      "detail": "Market Center Change Delisted from NASDAQ",
-      "marketAction": {
-        "action": "Market Center Change Delisted from NASDAQ",
-        "oldSymbol": "LESLQ",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335957",
-      "cik": "",
-      "ticker": "JCYCF",
-      "title": "JARDINE MATHESON SOUTHEAST ASIA LTD SHS (Singapore)",
-      "published": "2026-10-05T14:02:40.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name Change · Ticker JCYCF → JCYCF",
-      "detail": "Name Change",
-      "marketAction": {
-        "action": "Name Change",
-        "oldSymbol": "JCYCF",
-        "newSymbol": "JCYCF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335950",
-      "cik": "",
-      "ticker": "TOSNS",
-      "title": "OTHER SIDE NDE TRI-CHANNEL DROP LLC REV SHARING UNIT",
-      "published": "2026-10-05T12:40:27.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker TOSNS → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "TOSNS",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335945",
-      "cik": "",
-      "ticker": "NEWDF",
-      "title": "GENESIS GOLDFIELDS CORP COM (Canada)",
-      "published": "2026-10-05T11:51:16.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/CUSIP Change · Ticker NEWDF → NEWDF",
-      "detail": "Name/CUSIP Change",
-      "marketAction": {
-        "action": "Name/CUSIP Change",
-        "oldSymbol": "NEWDF",
-        "newSymbol": "NEWDF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335941",
-      "cik": "",
-      "ticker": "DBRHP",
-      "title": "DIGITALBRIDGE GROUP INC 7.125% PFD SER H",
-      "published": "2026-10-05T11:08:48.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Market Center Change Delisted from NYSE · Ticker DBRHP → —",
-      "detail": "Market Center Change Delisted from NYSE",
-      "marketAction": {
-        "action": "Market Center Change Delisted from NYSE",
-        "oldSymbol": "DBRHP",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335940",
-      "cik": "",
-      "ticker": "DBRJP",
-      "title": "DIGITALBRIDGE GROUP INC CUM RED PERP PFD SER J 7.125%",
-      "published": "2026-10-05T11:07:21.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Market Center Change Delisted from NYSE · Ticker DBRJP → —",
-      "detail": "Market Center Change Delisted from NYSE",
-      "marketAction": {
-        "action": "Market Center Change Delisted from NYSE",
-        "oldSymbol": "DBRJP",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335939",
-      "cik": "",
-      "ticker": "DBRIP",
-      "title": "DIGITALBRIDGE GROUP INC PERP PFD SER I 7.15%",
-      "published": "2026-10-05T11:05:21.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Market Center Change Delisted from NYSE · Ticker DBRIP → —",
-      "detail": "Market Center Change Delisted from NYSE",
-      "marketAction": {
-        "action": "Market Center Change Delisted from NYSE",
-        "oldSymbol": "DBRIP",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335937",
-      "cik": "",
-      "ticker": "RVNGF",
-      "title": "REVENIO GROUP OYJ RIGHTS",
-      "published": "2026-10-05T10:31:12.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker RVNGF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "RVNGF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335881",
-      "cik": "",
-      "ticker": "RMRYD",
-      "title": "ARMORY MNG CORP Common Shares",
-      "published": "2026-10-05T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker RMRYF → RMRYD · Reverse split 1:5",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "RMRYF",
-        "newSymbol": "RMRYD",
-        "reverseSplitRate": "1:5",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335907",
-      "cik": "",
-      "ticker": "GNRGF",
-      "title": "General Strategic Metals Inc. Com",
-      "published": "2026-10-05T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/CUSIP Change · Ticker GNRGF → GNRGF",
-      "detail": "Name/CUSIP Change",
-      "marketAction": {
-        "action": "Name/CUSIP Change",
-        "oldSymbol": "GNRGF",
-        "newSymbol": "GNRGF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-335914",
-      "cik": "",
-      "ticker": "EPFCF",
-      "title": "Global Receivables Management Inc. Com",
-      "published": "2026-10-05T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/CUSIP Change · Ticker EPFCF → EPFCF",
-      "detail": "Name/CUSIP Change",
-      "marketAction": {
-        "action": "Name/CUSIP Change",
-        "oldSymbol": "EPFCF",
-        "newSymbol": "EPFCF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
     }
   ],
   "coverage": {
-    "total": 143,
+    "total": 128,
     "registration": 5,
     "financial": 8,
     "material": 27
