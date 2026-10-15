@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T00:31:59.489Z",
+  "fetchedAt": "2026-10-15T05:15:25.411Z",
   "items": [
     {
       "id": "finra-336590",
@@ -2228,96 +2228,6 @@
       }
     },
     {
-      "id": "sec-000194024326000024",
-      "cik": "1940243",
-      "ticker": "GSMT",
-      "title": "Global-Smart.Tech Inc.",
-      "published": "2026-10-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1940243/000194024326000024/0001940243-26-000024-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-09 AccNo: 0001940243-26-000024 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226046405",
-      "cik": "1994373",
-      "ticker": "HNIT",
-      "title": "Huineng Technology Corp",
-      "published": "2026-10-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1994373/000149315226046405/0001493152-26-046405-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-09 AccNo: 0001493152-26-046405 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000164033426001664",
-      "cik": "1023298",
-      "ticker": "ALPE",
-      "title": "alpha-En Corp",
-      "published": "2026-10-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1023298/000164033426001664/0001640334-26-001664-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-09 AccNo: 0001640334-26-001664 Size: 8 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000107997326001337",
-      "cik": "1121795",
-      "ticker": "GHST",
-      "title": "GHST World Inc.",
-      "published": "2026-10-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1121795/000107997326001337/0001079973-26-001337-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-09 AccNo: 0001079973-26-001337 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000107997326001334",
-      "cik": "1616156",
-      "ticker": "WEWA",
-      "title": "WEWARDS, INC.",
-      "published": "2026-10-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1616156/000107997326001334/0001079973-26-001334-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-09 AccNo: 0001079973-26-001334 Size: 484 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526419215",
-      "cik": "1786318",
-      "ticker": "IBATF",
-      "title": "INTERNATIONAL BATTERY METALS LTD.",
-      "published": "2026-10-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1786318/000119312526419215/0001193125-26-419215-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-09 AccNo: 0001193125-26-419215 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-336228",
       "cik": "",
       "ticker": "NVNWF",
@@ -2655,9 +2565,9 @@
     }
   ],
   "coverage": {
-    "total": 146,
-    "registration": 3,
-    "financial": 31,
+    "total": 140,
+    "registration": 2,
+    "financial": 26,
     "material": 31
   },
   "sourceStatus": [
