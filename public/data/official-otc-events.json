@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T21:32:29.560Z",
+  "fetchedAt": "2026-10-16T23:54:11.840Z",
   "items": [
     {
       "id": "finra-336751",
@@ -691,81 +691,6 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-10-16 AccNo: 0001819142-26-000051 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000095010326015737",
-      "cik": "1000275",
-      "ticker": "RYLBF",
-      "title": "ROYAL BANK OF CANADA",
-      "published": "2026-10-16T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326015737/0000950103-26-015737-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-16 AccNo: 0000950103-26-015737 Size: 57 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000095010326015736",
-      "cik": "312070",
-      "ticker": "JJETF",
-      "title": "BARCLAYS BANK PLC",
-      "published": "2026-10-16T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/312070/000095010326015736/0000950103-26-015736-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-16 AccNo: 0000950103-26-015736 Size: 289 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000095010326015735",
-      "cik": "312070",
-      "ticker": "JJETF",
-      "title": "BARCLAYS BANK PLC",
-      "published": "2026-10-16T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/312070/000095010326015735/0000950103-26-015735-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-16 AccNo: 0000950103-26-015735 Size: 281 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426031717",
-      "cik": "312070",
-      "ticker": "JJETF",
-      "title": "BARCLAYS BANK PLC",
-      "published": "2026-10-16T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/312070/000191870426031717/0001918704-26-031717-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-16 AccNo: 0001918704-26-031717 Size: 587 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000191870426031716",
-      "cik": "312070",
-      "ticker": "JJETF",
-      "title": "BARCLAYS BANK PLC",
-      "published": "2026-10-16T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/312070/000191870426031716/0001918704-26-031716-index.htm",
-      "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-16 AccNo: 0001918704-26-031716 Size: 622 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2850,8 +2775,8 @@
     }
   ],
   "coverage": {
-    "total": 153,
-    "registration": 8,
+    "total": 148,
+    "registration": 3,
     "financial": 24,
     "material": 27
   },
