@@ -1,6 +1,69 @@
 {
-  "fetchedAt": "2026-10-16T05:03:40.510Z",
+  "fetchedAt": "2026-10-16T09:50:33.090Z",
   "items": [
+    {
+      "id": "finra-336569",
+      "cik": "",
+      "ticker": "KYSEY",
+      "title": "Kyushu Electric Power Unsponsored ADR (Japan)",
+      "published": "2026-10-16T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "ADR/GDR Program Terminated · Ticker KYSEY → —",
+      "detail": "ADR/GDR Program Terminated",
+      "marketAction": {
+        "action": "ADR/GDR Program Terminated",
+        "oldSymbol": "KYSEY",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-336694",
+      "cik": "",
+      "ticker": "BERCF",
+      "title": "Longview Capital (No. 1) Inc. Com",
+      "published": "2026-10-16T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker BERCF → BERCF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "BERCF",
+        "newSymbol": "BERCF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-336696",
+      "cik": "",
+      "ticker": "WLBMD",
+      "title": "Sunday Lake Gold Corp. Com",
+      "published": "2026-10-16T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker WLBMF → WLBMD · Reverse split 1:20",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "WLBMF",
+        "newSymbol": "WLBMD",
+        "reverseSplitRate": "1:20",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-336700",
       "cik": "",
@@ -2529,7 +2592,7 @@
     }
   ],
   "coverage": {
-    "total": 138,
+    "total": 141,
     "registration": 2,
     "financial": 21,
     "material": 32
