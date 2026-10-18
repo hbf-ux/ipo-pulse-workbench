@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T18:59:52.395Z",
+  "fetchedAt": "2026-10-18T21:24:57.179Z",
   "items": [
     {
       "id": "finra-336751",
@@ -323,7 +323,7 @@
       "id": "sec-000121390026110225",
       "cik": "1999261",
       "ticker": "STWI",
-      "title": "StageWise Strategies Corp.",
+      "title": "TEG OVERSEAS, INC.",
       "published": "2026-10-16T00:00:00Z",
       "link": "https://www.sec.gov/Archives/edgar/data/1999261/000121390026110225/0001213900-26-110225-index.htm",
       "source": "SEC EDGAR",
@@ -1178,7 +1178,7 @@
       "id": "sec-000168316826007862",
       "cik": "1985554",
       "ticker": "LDXC",
-      "title": "Londax Corp.",
+      "title": "ALPHA DIGITAL VOLTZ INC.",
       "published": "2026-10-15T00:00:00Z",
       "link": "https://www.sec.gov/Archives/edgar/data/1985554/000168316826007862/0001683168-26-007862-index.htm",
       "source": "SEC EDGAR",
