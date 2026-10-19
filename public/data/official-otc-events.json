@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-10-19T01:44:27.468Z",
+  "fetchedAt": "2026-10-19T06:56:34.165Z",
   "items": [
+    {
+      "id": "finra-336199",
+      "cik": "",
+      "ticker": "AETN",
+      "title": "Aeternum Resources Inc. Common Stock",
+      "published": "2026-10-19T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker AETND → AETN",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "AETND",
+        "newSymbol": "AETN",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-336751",
       "cik": "",
@@ -2403,7 +2424,7 @@
     }
   ],
   "coverage": {
-    "total": 128,
+    "total": 129,
     "registration": 2,
     "financial": 14,
     "material": 27
