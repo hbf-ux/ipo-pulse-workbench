@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-10-20T02:08:36.739Z",
+  "fetchedAt": "2026-10-20T07:35:15.930Z",
   "items": [
+    {
+      "id": "finra-336829",
+      "cik": "",
+      "ticker": "TLHC",
+      "title": "The Longevity Health Company Inc Common Stock",
+      "published": "2026-10-20T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/Symbol Change · Ticker FMBV → TLHC",
+      "detail": "Name/Symbol Change",
+      "marketAction": {
+        "action": "Name/Symbol Change",
+        "oldSymbol": "FMBV",
+        "newSymbol": "TLHC",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-336821",
       "cik": "",
@@ -2418,7 +2439,7 @@
     }
   ],
   "coverage": {
-    "total": 127,
+    "total": 128,
     "registration": 5,
     "financial": 2,
     "material": 31
