@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T00:09:07.791Z",
+  "fetchedAt": "2026-10-21T04:48:41.831Z",
   "items": [
     {
       "id": "finra-336920",
@@ -740,6 +740,36 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000207709626000288",
+      "cik": "50292",
+      "ticker": "IEHC",
+      "title": "IEH Corp",
+      "published": "2026-10-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/50292/000207709626000288/0002077096-26-000288-index.htm",
+      "source": "SEC EDGAR",
+      "form": "PRE 14A",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-10-20 AccNo: 0002077096-26-000288 Size: 8 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000116628826000002",
+      "cik": "1175680",
+      "ticker": "CYDY",
+      "title": "CytoDyn Inc.",
+      "published": "2026-10-20T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1175680/000116628826000002/0001166288-26-000002-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-10-20 AccNo: 0001166288-26-000002 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000143774926033037",
       "cik": "72444",
       "ticker": "VXRT",
@@ -751,21 +781,6 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-10-20 AccNo: 0001437749-26-033037 Size: 23 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000147237526000222",
-      "cik": "930245",
-      "ticker": "AASP",
-      "title": "Agassi Sports Entertainment Corp.",
-      "published": "2026-10-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/930245/000147237526000222/0001472375-26-000222-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-20 AccNo: 0001472375-26-000222 Size: 16 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1610,51 +1625,6 @@
       }
     },
     {
-      "id": "sec-000165495426008984",
-      "cik": "709005",
-      "ticker": "NROM",
-      "title": "NOBLE ROMANS INC",
-      "published": "2026-10-16T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/709005/000165495426008984/0001654954-26-008984-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-16 AccNo: 0001654954-26-008984 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000147793226006284",
-      "cik": "1230524",
-      "ticker": "LEEN",
-      "title": "Leopard Energy, Inc.",
-      "published": "2026-10-16T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1230524/000147793226006284/0001477932-26-006284-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-16 AccNo: 0001477932-26-006284 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000181914226000051",
-      "cik": "1819142",
-      "ticker": "SESCW",
-      "title": "SES AI Corp",
-      "published": "2026-10-16T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1819142/000181914226000051/0001819142-26-000051-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-16 AccNo: 0001819142-26-000051 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-336569",
       "cik": "",
       "ticker": "KYSEY",
@@ -2475,9 +2445,9 @@
     }
   ],
   "coverage": {
-    "total": 130,
+    "total": 128,
     "registration": 3,
-    "financial": 9,
+    "financial": 7,
     "material": 27
   },
   "sourceStatus": [
