@@ -1,6 +1,90 @@
 {
-  "fetchedAt": "2026-10-21T04:48:41.831Z",
+  "fetchedAt": "2026-10-21T09:51:56.899Z",
   "items": [
+    {
+      "id": "finra-336923",
+      "cik": "",
+      "ticker": "CSSLQ",
+      "title": "CHICKEN SOUP FOR THE SOUL ENTMT INC Warrant 10/22/2026",
+      "published": "2026-10-21T02:01:12.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Matured/Expired · Ticker CSSLQ → —",
+      "detail": "Matured/Expired",
+      "marketAction": {
+        "action": "Matured/Expired",
+        "oldSymbol": "CSSLQ",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-336922",
+      "cik": "",
+      "ticker": "IIPBP",
+      "title": "INNOVATIVE INDL PPTYS INC PFD SER B Preferred Stock",
+      "published": "2026-10-21T01:45:21.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Market Center Change Listed on NYSE · Ticker IIPBP → —",
+      "detail": "Market Center Change Listed on NYSE",
+      "marketAction": {
+        "action": "Market Center Change Listed on NYSE",
+        "oldSymbol": "IIPBP",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-336901",
+      "cik": "",
+      "ticker": "VSTUF",
+      "title": "CYNCA NORDIC AB SHARE AK (Sweden)",
+      "published": "2026-10-21T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker VSTUD → VSTUF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "VSTUD",
+        "newSymbol": "VSTUF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-336911",
+      "cik": "",
+      "ticker": "FRSAF",
+      "title": "FIRST AU LTD Ordinary Shares",
+      "published": "2026-10-21T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker FRSAD → FRSAF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "FRSAD",
+        "newSymbol": "FRSAF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-336920",
       "cik": "",
@@ -2445,7 +2529,7 @@
     }
   ],
   "coverage": {
-    "total": 128,
+    "total": 132,
     "registration": 3,
     "financial": 7,
     "material": 27
