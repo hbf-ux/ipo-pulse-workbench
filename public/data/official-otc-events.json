@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T00:49:14.796Z",
+  "fetchedAt": "2026-10-22T05:48:52.817Z",
   "items": [
     {
       "id": "finra-336981",
@@ -905,21 +905,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000162828026066758",
-      "cik": "2001557",
-      "ticker": "INVLW",
-      "title": "Innventure, Inc.",
-      "published": "2026-10-21T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2001557/000162828026066758/0001628280-26-066758-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-21 AccNo: 0001628280-26-066758 Size: 5 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-336901",
       "cik": "",
       "ticker": "VSTUF",
@@ -1321,21 +1306,6 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-10-20 AccNo: 0001575872-26-000711 Size: 9 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226047641",
-      "cik": "1645155",
-      "ticker": "WBSR",
-      "title": "Webstar Technology Group Inc.",
-      "published": "2026-10-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1645155/000149315226047641/0001493152-26-047641-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K/A",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-20 AccNo: 0001493152-26-047641 Size: 7 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1794,66 +1764,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000168316826007943",
-      "cik": "1083468",
-      "ticker": "EARI",
-      "title": "ENTERTAINMENT ARTS RESEARCH, INC.",
-      "published": "2026-10-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1083468/000168316826007943/0001683168-26-007943-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A/A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-19 AccNo: 0001683168-26-007943 Size: 851 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026110606",
-      "cik": "1825452",
-      "ticker": "ONFOP",
-      "title": "Onfolio Holdings, Inc",
-      "published": "2026-10-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1825452/000121390026110606/0001213900-26-110606-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-19 AccNo: 0001213900-26-110606 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000143774926032868",
-      "cik": "880242",
-      "ticker": "BLGO",
-      "title": "BIOLARGO, INC.",
-      "published": "2026-10-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/880242/000143774926032868/0001437749-26-032868-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-19 AccNo: 0001437749-26-032868 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000162828026066198",
-      "cik": "1997652",
-      "ticker": "TBNRL",
-      "title": "Tamboran Resources Corp",
-      "published": "2026-10-19T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1997652/000162828026066198/0001628280-26-066198-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-19 AccNo: 0001628280-26-066198 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-336199",
@@ -2529,9 +2439,9 @@
     }
   ],
   "coverage": {
-    "total": 136,
-    "registration": 4,
-    "financial": 12,
+    "total": 130,
+    "registration": 1,
+    "financial": 11,
     "material": 36
   },
   "sourceStatus": [
