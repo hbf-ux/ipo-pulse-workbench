@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T01:31:39.695Z",
+  "fetchedAt": "2026-10-23T06:29:46.376Z",
   "items": [
     {
       "id": "finra-337020",
@@ -980,6 +980,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000149315226048157",
+      "cik": "1549145",
+      "ticker": "BIOF",
+      "title": "BLUE BIOFUELS, INC.",
+      "published": "2026-10-22T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1549145/000149315226048157/0001493152-26-048157-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-10-22 AccNo: 0001493152-26-048157 Size: 4 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000106299326005508",
       "cik": "1339688",
       "ticker": "LCGMF",
@@ -1760,51 +1775,6 @@
       }
     },
     {
-      "id": "sec-000149315226047796",
-      "cik": "1503658",
-      "ticker": "WNHK",
-      "title": "Winning Catering Group, Inc.",
-      "published": "2026-10-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1503658/000149315226047796/0001493152-26-047796-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-20 AccNo: 0001493152-26-047796 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000147793226006355",
-      "cik": "1729637",
-      "ticker": "KARX",
-      "title": "Karbon-X Corp.",
-      "published": "2026-10-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1729637/000147793226006355/0001477932-26-006355-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-20 AccNo: 0001477932-26-006355 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000207709626000288",
-      "cik": "50292",
-      "ticker": "IEHC",
-      "title": "IEH Corp",
-      "published": "2026-10-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/50292/000207709626000288/0002077096-26-000288-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-20 AccNo: 0002077096-26-000288 Size: 8 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-336829",
       "cik": "",
       "ticker": "TLHC",
@@ -2246,6 +2216,21 @@
       }
     },
     {
+      "id": "sec-000162828026066198",
+      "cik": "1997652",
+      "ticker": "TBNRL",
+      "title": "Tamboran Resources Corp",
+      "published": "2026-10-19T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1997652/000162828026066198/0001628280-26-066198-index.htm",
+      "source": "SEC EDGAR",
+      "form": "PRE 14A",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-10-19 AccNo: 0001628280-26-066198 Size: 2 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "finra-336199",
       "cik": "",
       "ticker": "AETN",
@@ -2540,6 +2525,21 @@
       }
     },
     {
+      "id": "sec-000181914226000051",
+      "cik": "1819142",
+      "ticker": "SESCW",
+      "title": "SES AI Corp",
+      "published": "2026-10-16T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1819142/000181914226000051/0001819142-26-000051-index.htm",
+      "source": "SEC EDGAR",
+      "form": "PRE 14A",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-10-16 AccNo: 0001819142-26-000051 Size: 2 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "finra-336569",
       "cik": "",
       "ticker": "KYSEY",
@@ -2606,7 +2606,7 @@
   "coverage": {
     "total": 139,
     "registration": 3,
-    "financial": 9,
+    "financial": 7,
     "material": 36
   },
   "sourceStatus": [
