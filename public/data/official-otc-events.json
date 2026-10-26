@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-10-26T01:00:55.670Z",
+  "fetchedAt": "2026-10-26T06:14:50.607Z",
   "items": [
+    {
+      "id": "finra-337019",
+      "cik": "",
+      "ticker": "CYGGF",
+      "title": "CYGNUS METALS LTD NEW ORD SHS (Australia)",
+      "published": "2026-10-26T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker CYGGF → —",
+      "detail": "Acquisition/Merger/Amalgamation",
+      "marketAction": {
+        "action": "Acquisition/Merger/Amalgamation",
+        "oldSymbol": "CYGGF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337076",
+      "cik": "",
+      "ticker": "GORDF",
+      "title": "GORDON MINING GROUP INC COM (Canada)",
+      "published": "2026-10-26T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker GSPFD → GORDF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "GSPFD",
+        "newSymbol": "GORDF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337083",
       "cik": "",
@@ -2268,7 +2310,7 @@
     }
   ],
   "coverage": {
-    "total": 119,
+    "total": 121,
     "registration": 2,
     "financial": 5,
     "material": 28
