@@ -1,6 +1,111 @@
 {
-  "fetchedAt": "2026-10-27T02:19:35.385Z",
+  "fetchedAt": "2026-10-27T08:14:44.347Z",
   "items": [
+    {
+      "id": "finra-337120",
+      "cik": "",
+      "ticker": "BTLWF",
+      "title": "BTS GROUP HOLDINGS PUBLIC COMPANY LTD Warrant 10/27/2026",
+      "published": "2026-10-27T02:01:14.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Matured/Expired · Ticker BTLWF → —",
+      "detail": "Matured/Expired",
+      "marketAction": {
+        "action": "Matured/Expired",
+        "oldSymbol": "BTLWF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337096",
+      "cik": "",
+      "ticker": "VBAMF",
+      "title": "AVENTIS ENERGY INC COM NEW (Canada)",
+      "published": "2026-10-27T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker VBAMD → VBAMF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "VBAMD",
+        "newSymbol": "VBAMF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337101",
+      "cik": "",
+      "ticker": "WCMLD",
+      "title": "WHITE CLIFF MINERALS LTD Ordinary Shares (Australia)",
+      "published": "2026-10-27T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker WCMLF → WCMLD · Reverse split 1:20",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "WCMLF",
+        "newSymbol": "WCMLD",
+        "reverseSplitRate": "1:20",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337113",
+      "cik": "",
+      "ticker": "RROTF",
+      "title": "Roots Corporation Ordinary Shares (Canada)",
+      "published": "2026-10-27T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker RROTF → —",
+      "detail": "Acquisition/Merger/Amalgamation",
+      "marketAction": {
+        "action": "Acquisition/Merger/Amalgamation",
+        "oldSymbol": "RROTF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337115",
+      "cik": "",
+      "ticker": "MDTK",
+      "title": "MEDO Technologies, Inc. Common Stock",
+      "published": "2026-10-27T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker BRRND → MDTK",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "BRRND",
+        "newSymbol": "MDTK",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337102",
       "cik": "",
@@ -2394,7 +2499,7 @@
     }
   ],
   "coverage": {
-    "total": 131,
+    "total": 136,
     "registration": 7,
     "financial": 5,
     "material": 40
