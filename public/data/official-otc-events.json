@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-10-28T02:21:17.441Z",
+  "fetchedAt": "2026-10-28T08:52:27.446Z",
   "items": [
+    {
+      "id": "finra-337191",
+      "cik": "",
+      "ticker": "CZZLD",
+      "title": "CIZZLE BRANDS CORP Common Shares (Canada)",
+      "published": "2026-10-28T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker CZZLF → CZZLD · Reverse split 1:25",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "CZZLF",
+        "newSymbol": "CZZLD",
+        "reverseSplitRate": "1:25",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337190",
       "cik": "",
@@ -2367,7 +2388,7 @@
     }
   ],
   "coverage": {
-    "total": 124,
+    "total": 125,
     "registration": 7,
     "financial": 4,
     "material": 28
