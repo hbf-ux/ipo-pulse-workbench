@@ -1,6 +1,111 @@
 {
-  "fetchedAt": "2026-10-30T02:47:26.677Z",
+  "fetchedAt": "2026-10-30T09:42:08.785Z",
   "items": [
+    {
+      "id": "finra-337353",
+      "cik": "",
+      "ticker": "AVTNF",
+      "title": "AVATION PLC, LONDON WTS 31 10 26 TO SUB FOR ORD Warrant 10/31/2026",
+      "published": "2026-10-30T02:01:13.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Matured/Expired · Ticker AVTNF → —",
+      "detail": "Matured/Expired",
+      "marketAction": {
+        "action": "Matured/Expired",
+        "oldSymbol": "AVTNF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337351",
+      "cik": "",
+      "ticker": "NORD",
+      "title": "Nordicus Partners Corp. Common Stock",
+      "published": "2026-10-30T01:45:18.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Market Center Change Listed on NASDAQ · Ticker NORD → —",
+      "detail": "Market Center Change Listed on NASDAQ",
+      "marketAction": {
+        "action": "Market Center Change Listed on NASDAQ",
+        "oldSymbol": "NORD",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337352",
+      "cik": "",
+      "ticker": "MTPDL",
+      "title": "META PLATFORMS INC SER A DEPOSITARY SHS REPSTG 1/20 INT SER A MANDATORY CONV (PFD STK)",
+      "published": "2026-10-30T01:45:18.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Market Center Change Listed on NASDAQ · Ticker MTPDL → —",
+      "detail": "Market Center Change Listed on NASDAQ",
+      "marketAction": {
+        "action": "Market Center Change Listed on NASDAQ",
+        "oldSymbol": "MTPDL",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-336090",
+      "cik": "",
+      "ticker": "BKFPF",
+      "title": "BROOKFIELD CORP PREF SHS CL A SER 51 (Canada)",
+      "published": "2026-10-30T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Redemption · Ticker BKFPF → —",
+      "detail": "Redemption",
+      "marketAction": {
+        "action": "Redemption",
+        "oldSymbol": "BKFPF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337318",
+      "cik": "",
+      "ticker": "RMRYF",
+      "title": "ARMORY MINING CORP COM NEW",
+      "published": "2026-10-30T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker RMRYD → RMRYF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "RMRYD",
+        "newSymbol": "RMRYF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337348",
       "cik": "",
@@ -2403,7 +2508,7 @@
     }
   ],
   "coverage": {
-    "total": 128,
+    "total": 133,
     "registration": 5,
     "financial": 8,
     "material": 33
