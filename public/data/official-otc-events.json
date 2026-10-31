@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T00:39:14.348Z",
+  "fetchedAt": "2026-10-31T06:19:16.916Z",
   "items": [
     {
       "id": "finra-337423",
@@ -1238,21 +1238,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000119312526442091",
-      "cik": "13156",
-      "ticker": "GLXZ",
-      "title": "Galaxy Gaming, Inc.",
-      "published": "2026-10-30T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/13156/000119312526442091/0001193125-26-442091-index.htm",
-      "source": "SEC EDGAR",
-      "form": "4",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-30 AccNo: 0001193125-26-442091 Size: 4 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-336090",
       "cik": "",
       "ticker": "BKFPF",
@@ -2043,66 +2028,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000168316826008124",
-      "cik": "1626644",
-      "ticker": "ODYY",
-      "title": "Odyssey Health, Inc.",
-      "published": "2026-10-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1626644/000168316826008124/0001683168-26-008124-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-28 AccNo: 0001683168-26-008124 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226048807",
-      "cik": "1746119",
-      "ticker": "VGES",
-      "title": "Vanguard Green Investment Ltd",
-      "published": "2026-10-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1746119/000149315226048807/0001493152-26-048807-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-28 AccNo: 0001493152-26-048807 Size: 5 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000175392626002017",
-      "cik": "2039079",
-      "ticker": "HAMVF",
-      "title": "Hamco Ventures Ltd",
-      "published": "2026-10-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2039079/000175392626002017/0001753926-26-002017-index.htm",
-      "source": "SEC EDGAR",
-      "form": "20-F",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-28 AccNo: 0001753926-26-002017 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000143774926033764",
-      "cik": "1016504",
-      "ticker": "INBP",
-      "title": "INTEGRATED BIOPHARMA INC",
-      "published": "2026-10-28T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1016504/000143774926033764/0001437749-26-033764-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-28 AccNo: 0001437749-26-033764 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-337191",
@@ -2946,9 +2871,9 @@
     }
   ],
   "coverage": {
-    "total": 161,
-    "registration": 9,
-    "financial": 15,
+    "total": 156,
+    "registration": 8,
+    "financial": 12,
     "material": 46
   },
   "sourceStatus": [
