@@ -1,6 +1,111 @@
 {
-  "fetchedAt": "2026-11-02T00:51:16.071Z",
+  "fetchedAt": "2026-11-02T07:22:00.097Z",
   "items": [
+    {
+      "id": "finra-337413",
+      "cik": "",
+      "ticker": "TORXF",
+      "title": "TOREX RES INC NEW Ordinary Shares",
+      "published": "2026-11-02T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker TORXF → TORXF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "TORXF",
+        "newSymbol": "TORXF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337388",
+      "cik": "",
+      "ticker": "PCIMF",
+      "title": "PACIFIC IMPERIAL MINES INC COM NEW (Canada)",
+      "published": "2026-11-02T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker PCIMD → PCIMF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "PCIMD",
+        "newSymbol": "PCIMF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337263",
+      "cik": "",
+      "ticker": "BZLEY",
+      "title": "BEAZLEY PLC American Depositary Receipts - Unsponsored (United Kingdom)",
+      "published": "2026-11-02T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "ADR/GDR Program Terminated · Ticker BZLEY → —",
+      "detail": "ADR/GDR Program Terminated",
+      "marketAction": {
+        "action": "ADR/GDR Program Terminated",
+        "oldSymbol": "BZLEY",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337075",
+      "cik": "",
+      "ticker": "TUXSD",
+      "title": "Tuxis Corporation Common Stock",
+      "published": "2026-11-02T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split followed by Forward Split/CUSIP Change · Ticker TUXS → TUXSD · Reverse split 1:1000 · Forward split 1000:1",
+      "detail": "Reverse Split followed by Forward Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split followed by Forward Split/CUSIP Change",
+        "oldSymbol": "TUXS",
+        "newSymbol": "TUXSD",
+        "reverseSplitRate": "1:1000",
+        "forwardSplitRate": "1000:1"
+      }
+    },
+    {
+      "id": "finra-337349",
+      "cik": "",
+      "ticker": "CZZLD",
+      "title": "CIZZLE BRANDS CORP Common Shares (Canada)",
+      "published": "2026-11-02T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker CZZLF → CZZLD · Reverse split 1:25",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "CZZLF",
+        "newSymbol": "CZZLD",
+        "reverseSplitRate": "1:25",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337423",
       "cik": "",
@@ -2871,7 +2976,7 @@
     }
   ],
   "coverage": {
-    "total": 156,
+    "total": 161,
     "registration": 8,
     "financial": 12,
     "material": 46
