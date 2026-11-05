@@ -1,6 +1,90 @@
 {
-  "fetchedAt": "2026-11-05T01:49:44.900Z",
+  "fetchedAt": "2026-11-05T09:05:12.222Z",
   "items": [
+    {
+      "id": "finra-337582",
+      "cik": "",
+      "ticker": "BDFNL",
+      "title": "BREAD FINL HLDGS INC DEP SHS REPSTG 1/40TH PERP PFD SER C",
+      "published": "2026-11-05T01:45:19.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Market Center Change Listed on NYSE · Ticker BDFNL → —",
+      "detail": "Market Center Change Listed on NYSE",
+      "marketAction": {
+        "action": "Market Center Change Listed on NYSE",
+        "oldSymbol": "BDFNL",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337064",
+      "cik": "",
+      "ticker": "UKSK",
+      "title": "United KSK Corporation Common Stock",
+      "published": "2026-11-05T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker MVNCD → UKSK",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "MVNCD",
+        "newSymbol": "UKSK",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337531",
+      "cik": "",
+      "ticker": "EMETD",
+      "title": "CANAMERA ENERGY METALS CORP COM (Canada)",
+      "published": "2026-11-05T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker EMETF → EMETD · Reverse split 1:6",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "EMETF",
+        "newSymbol": "EMETD",
+        "reverseSplitRate": "1:6",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337551",
+      "cik": "",
+      "ticker": "HYTLD",
+      "title": "HYTERRA LTD ORDINARY FULLY PAID (Australia)",
+      "published": "2026-11-05T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker HYTLF → HYTLD · Reverse split 1:20",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "HYTLF",
+        "newSymbol": "HYTLD",
+        "reverseSplitRate": "1:20",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337576",
       "cik": "",
@@ -587,6 +671,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000121390026116071",
+      "cik": "1951089",
+      "ticker": "CRTMF",
+      "title": "Critical Metals Corp.",
+      "published": "2026-11-04T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026116071/0001213900-26-116071-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-11-04 AccNo: 0001213900-26-116071 Size: 5 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000114036126042004",
       "cik": "1129137",
       "ticker": "AMXOF",
@@ -802,21 +901,6 @@
       "category": "Financial results",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-11-03 AccNo: 0001437749-26-034681 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000184216726000010",
-      "cik": "1842167",
-      "ticker": "LLPS",
-      "title": "Limitless Projects Inc.",
-      "published": "2026-11-03T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1842167/000184216726000010/0001842167-26-000010-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-03 AccNo: 0001842167-26-000010 Size: 1 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -1296,36 +1380,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000114036126041590",
-      "cik": "1739016",
-      "ticker": "SYAXF",
-      "title": "Elevra Lithium Ltd",
-      "published": "2026-11-02T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126041590/0001140361-26-041590-index.htm",
-      "source": "SEC EDGAR",
-      "form": "20-F",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-02 AccNo: 0001140361-26-041590 Size: 112 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026115017",
-      "cik": "2075109",
-      "ticker": "MTTN",
-      "title": "Matternet, Inc.",
-      "published": "2026-11-02T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/2075109/000121390026115017/0001213900-26-115017-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-02 AccNo: 0001213900-26-115017 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-337413",
@@ -2166,57 +2220,12 @@
         "reverseSplitRate": "1:25",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000149315226048575",
-      "cik": "1803977",
-      "ticker": "LIMX",
-      "title": "Limitless X Holdings Inc.",
-      "published": "2026-10-26T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1803977/000149315226048575/0001493152-26-048575-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A/A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-26 AccNo: 0001493152-26-048575 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000168316826008084",
-      "cik": "1084937",
-      "ticker": "GREH",
-      "title": "Green Rain Energy Holdings Inc.",
-      "published": "2026-10-26T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1084937/000168316826008084/0001683168-26-008084-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A POS",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-26 AccNo: 0001683168-26-008084 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000147793226006446",
-      "cik": "1663038",
-      "ticker": "QGAI",
-      "title": "Quantum Genesis AI Corp.",
-      "published": "2026-10-26T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1663038/000147793226006446/0001477932-26-006446-index.htm",
-      "source": "SEC EDGAR",
-      "form": "1-A/A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-10-26 AccNo: 0001477932-26-006446 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
     }
   ],
   "coverage": {
-    "total": 117,
-    "registration": 10,
-    "financial": 8,
+    "total": 116,
+    "registration": 7,
+    "financial": 6,
     "material": 21
   },
   "sourceStatus": [
