@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T03:02:10.171Z",
+  "fetchedAt": "2026-11-07T10:10:51.269Z",
   "items": [
     {
       "id": "finra-337710",
@@ -1391,36 +1391,6 @@
       }
     },
     {
-      "id": "sec-000121390026115933",
-      "cik": "1805526",
-      "ticker": "DFUKF",
-      "title": "DeFi Development Corp.",
-      "published": "2026-11-04T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026115933/0001213900-26-115933-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-04 AccNo: 0001213900-26-115933 Size: 6 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226049957",
-      "cik": "1853070",
-      "ticker": "SOARW",
-      "title": "SOAR AI, Inc.",
-      "published": "2026-11-04T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226049957/0001493152-26-049957-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-04 AccNo: 0001493152-26-049957 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-337499",
       "cik": "",
       "ticker": "CZZLD",
@@ -2178,8 +2148,8 @@
     }
   ],
   "coverage": {
-    "total": 115,
-    "registration": 3,
+    "total": 113,
+    "registration": 1,
     "financial": 4,
     "material": 33
   },
