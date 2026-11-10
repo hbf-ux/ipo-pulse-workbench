@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-11-10T01:46:21.179Z",
+  "fetchedAt": "2026-11-10T09:22:46.028Z",
   "items": [
+    {
+      "id": "finra-337786",
+      "cik": "",
+      "ticker": "BHLL",
+      "title": "BUNKER HILL SILVER CORP COM PAR $0.000001",
+      "published": "2026-11-10T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name Change · Ticker BHLL → BHLL",
+      "detail": "Name Change",
+      "marketAction": {
+        "action": "Name Change",
+        "oldSymbol": "BHLL",
+        "newSymbol": "BHLL",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337789",
       "cik": "",
@@ -1610,51 +1631,6 @@
       }
     },
     {
-      "id": "sec-000149315226050246",
-      "cik": "1872292",
-      "ticker": "RAKR",
-      "title": "Rainmaker Worldwide Inc.",
-      "published": "2026-11-05T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1872292/000149315226050246/0001493152-26-050246-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-05 AccNo: 0001493152-26-050246 Size: 9 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000187189026000026",
-      "cik": "1871890",
-      "ticker": "GLEI",
-      "title": "Galaxy Enterprises Inc. /WY/",
-      "published": "2026-11-05T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1871890/000187189026000026/0001871890-26-000026-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-05 AccNo: 0001871890-26-000026 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026116372",
-      "cik": "879911",
-      "ticker": "AERGP",
-      "title": "APPLIED ENERGETICS, INC.",
-      "published": "2026-11-05T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/879911/000121390026116372/0001213900-26-116372-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-05 AccNo: 0001213900-26-116372 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-337064",
       "cik": "",
       "ticker": "UKSK",
@@ -2055,9 +2031,9 @@
     }
   ],
   "coverage": {
-    "total": 108,
-    "registration": 4,
-    "financial": 9,
+    "total": 106,
+    "registration": 3,
+    "financial": 7,
     "material": 22
   },
   "sourceStatus": [
