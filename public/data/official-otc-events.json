@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-11-11T02:05:33.460Z",
+  "fetchedAt": "2026-11-11T09:26:41.726Z",
   "items": [
+    {
+      "id": "finra-337015",
+      "cik": "",
+      "ticker": "CPGPY",
+      "title": "CPP Group, PLC American Depositary Receipts - Unsponsored",
+      "published": "2026-11-11T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "ADR/GDR Program Terminated · Ticker CPGPY → —",
+      "detail": "ADR/GDR Program Terminated",
+      "marketAction": {
+        "action": "ADR/GDR Program Terminated",
+        "oldSymbol": "CPGPY",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337879",
+      "cik": "",
+      "ticker": "GGLXF",
+      "title": "GGL Resources Corporation Ordinary Shares",
+      "published": "2026-11-11T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker GGLXD → GGLXF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "GGLXD",
+        "newSymbol": "GGLXF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337895",
       "cik": "",
@@ -910,6 +952,66 @@
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-11-10 AccNo: 0001213900-26-118062 Size: 3 MB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026118235",
+      "cik": "1951089",
+      "ticker": "CRTMF",
+      "title": "Critical Metals Corp.",
+      "published": "2026-11-10T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026118235/0001213900-26-118235-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-11-10 AccNo: 0001213900-26-118235 Size: 6 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026118234",
+      "cik": "1951089",
+      "ticker": "CRTMF",
+      "title": "Critical Metals Corp.",
+      "published": "2026-11-10T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026118234/0001213900-26-118234-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-11-10 AccNo: 0001213900-26-118234 Size: 23 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026118233",
+      "cik": "1951089",
+      "ticker": "CRTMF",
+      "title": "Critical Metals Corp.",
+      "published": "2026-11-10T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026118233/0001213900-26-118233-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-11-10 AccNo: 0001213900-26-118233 Size: 19 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000121390026118232",
+      "cik": "1951089",
+      "ticker": "CRTMF",
+      "title": "Critical Metals Corp.",
+      "published": "2026-11-10T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026118232/0001213900-26-118232-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-11-10 AccNo: 0001213900-26-118232 Size: 23 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2319,7 +2421,7 @@
     }
   ],
   "coverage": {
-    "total": 124,
+    "total": 130,
     "registration": 5,
     "financial": 11,
     "material": 29
