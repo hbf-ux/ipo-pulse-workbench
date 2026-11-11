@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T22:24:04.020Z",
+  "fetchedAt": "2026-11-11T02:05:33.460Z",
   "items": [
     {
       "id": "finra-337895",
@@ -254,6 +254,21 @@
       }
     },
     {
+      "id": "sec-000143774926036236",
+      "cik": "1107280",
+      "ticker": "OVTZ",
+      "title": "OCULUS INC.",
+      "published": "2026-11-10T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1107280/000143774926036236/0001437749-26-036236-index.htm",
+      "source": "SEC EDGAR",
+      "form": "8-K",
+      "category": "Material disclosure",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-11-10 AccNo: 0001437749-26-036236 Size: 299 KB Item 5.07: Submission of Matters to a Vote of Security Holders Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "Item 5.07",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000121390026118118",
       "cik": "1141284",
       "ticker": "ASNS",
@@ -355,6 +370,21 @@
       "category": "Material disclosure",
       "industry": "Official SEC filing",
       "companyIntro": "Filed: 2026-11-10 AccNo: 0001493152-26-050983 Size: 1 MB Item 9.01: Financial Statements and Exhibits",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
+      "id": "sec-000164033426001769",
+      "cik": "895464",
+      "ticker": "YBGJ",
+      "title": "Yubo International Biotech Ltd",
+      "published": "2026-11-10T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/895464/000164033426001769/0001640334-26-001769-index.htm",
+      "source": "SEC EDGAR",
+      "form": "10-Q",
+      "category": "Financial results",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-11-10 AccNo: 0001640334-26-001769 Size: 5 MB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -884,17 +914,17 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000191870426035322",
-      "cik": "70858",
-      "ticker": "BACRP",
-      "title": "BANK OF AMERICA CORP /DE/",
+      "id": "sec-000089534526000481",
+      "cik": "912892",
+      "ticker": "GRPFF",
+      "title": "GRUPO TELEVISA, S.A.B.",
       "published": "2026-11-10T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035322/0001918704-26-035322-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000481/0000895345-26-000481-index.htm",
       "source": "SEC EDGAR",
-      "form": "424B2",
-      "category": "Registration & financing",
+      "form": "4",
+      "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-10 AccNo: 0001918704-26-035322 Size: 502 KB",
+      "companyIntro": "Filed: 2026-11-10 AccNo: 0000895345-26-000481 Size: 6 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2286,202 +2316,13 @@
         "reverseSplitRate": "16:17",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "finra-337533",
-      "cik": "",
-      "ticker": "GCDTF",
-      "title": "Green Circle Decarbonize Technology Limited Ordinary Shares",
-      "published": "2026-11-03T17:14:23.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Market Center Change Delisted from AMEX · Ticker GCDTF → —",
-      "detail": "Market Center Change Delisted from AMEX",
-      "marketAction": {
-        "action": "Market Center Change Delisted from AMEX",
-        "oldSymbol": "GCDTF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337527",
-      "cik": "",
-      "ticker": "EMVDF",
-      "title": "EMVISION MED DEVICES LTD ORDINARY FULLY PAID (Australia)",
-      "published": "2026-11-03T12:24:08.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker EMVDF → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "EMVDF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337526",
-      "cik": "",
-      "ticker": "MKSMS",
-      "title": "MASTERWORKS VAULT 2 LLC INT SER 307",
-      "published": "2026-11-03T12:23:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker MKSMS → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "MKSMS",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337525",
-      "cik": "",
-      "ticker": "DMSI",
-      "title": "Dermisonics, Inc. Common Stock",
-      "published": "2026-11-03T12:22:32.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker DMSI → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "DMSI",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337524",
-      "cik": "",
-      "ticker": "BKPA",
-      "title": "BROOKFIELD CORP PREF SHS CL A SER 4 (Canada)",
-      "published": "2026-11-03T12:22:02.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Inactive Security · Ticker BKPA → —",
-      "detail": "Inactive Security",
-      "marketAction": {
-        "action": "Inactive Security",
-        "oldSymbol": "BKPA",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337523",
-      "cik": "",
-      "ticker": "MGLLF",
-      "title": "BARRENJOEY GROUP LTD Ordinary Shares",
-      "published": "2026-11-03T12:18:23.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/CUSIP Change · Ticker MGLLF → MGLLF",
-      "detail": "Name/CUSIP Change",
-      "marketAction": {
-        "action": "Name/CUSIP Change",
-        "oldSymbol": "MGLLF",
-        "newSymbol": "MGLLF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337519",
-      "cik": "",
-      "ticker": "AKMLF",
-      "title": "HIGHLAND METALS LTD SHS (Australia)",
-      "published": "2026-11-03T10:37:11.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/CUSIP Change · Ticker AKMLF → AKMLF",
-      "detail": "Name/CUSIP Change",
-      "marketAction": {
-        "action": "Name/CUSIP Change",
-        "oldSymbol": "AKMLF",
-        "newSymbol": "AKMLF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337320",
-      "cik": "",
-      "ticker": "RAASY",
-      "title": "CLOOPEN GROUP HLDG LTD American Depositary Receipts - Sponsored",
-      "published": "2026-11-03T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "ADR/GDR Program Terminated · Ticker RAASY → —",
-      "detail": "ADR/GDR Program Terminated",
-      "marketAction": {
-        "action": "ADR/GDR Program Terminated",
-        "oldSymbol": "RAASY",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337496",
-      "cik": "",
-      "ticker": "LRCDF",
-      "title": "Laurentian Bank Canada Que Ordinary Shares (Canada)",
-      "published": "2026-11-03T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker LRCDF → —",
-      "detail": "Acquisition/Merger/Amalgamation",
-      "marketAction": {
-        "action": "Acquisition/Merger/Amalgamation",
-        "oldSymbol": "LRCDF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
     }
   ],
   "coverage": {
-    "total": 131,
-    "registration": 6,
-    "financial": 10,
-    "material": 28
+    "total": 124,
+    "registration": 5,
+    "financial": 11,
+    "material": 29
   },
   "sourceStatus": [
     {
