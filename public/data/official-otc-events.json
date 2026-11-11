@@ -1,6 +1,153 @@
 {
-  "fetchedAt": "2026-11-11T09:26:41.726Z",
+  "fetchedAt": "2026-11-11T17:22:57.688Z",
   "items": [
+    {
+      "id": "finra-337919",
+      "cik": "",
+      "ticker": "PCTZF",
+      "title": "BRAVERN VENTURES LTD COM (Canada)",
+      "published": "2026-11-11T11:54:05.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Inactive Security · Ticker PCTZF → —",
+      "detail": "Inactive Security",
+      "marketAction": {
+        "action": "Inactive Security",
+        "oldSymbol": "PCTZF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337918",
+      "cik": "",
+      "ticker": "PMGY",
+      "title": "Premergy, Inc. Common Stock",
+      "published": "2026-11-11T11:45:37.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/Symbol Change · Ticker IHAI → PMGY",
+      "detail": "Name/Symbol Change",
+      "marketAction": {
+        "action": "Name/Symbol Change",
+        "oldSymbol": "IHAI",
+        "newSymbol": "PMGY",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337916",
+      "cik": "",
+      "ticker": "KYCCF",
+      "title": "Keyence Corp Ordinary Shares",
+      "published": "2026-11-11T11:03:22.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Forward Split · Ticker KYCCF → KYCCF · Forward split 5:1",
+      "detail": "Forward Split",
+      "marketAction": {
+        "action": "Forward Split",
+        "oldSymbol": "KYCCF",
+        "newSymbol": "KYCCF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": "5:1"
+      }
+    },
+    {
+      "id": "finra-337915",
+      "cik": "",
+      "ticker": "RITRD",
+      "title": "REITAR LOGTECH HLDGS LTD Ordinary Shares",
+      "published": "2026-11-11T10:08:33.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker RITRF → RITRD · Reverse split 1:250",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "RITRF",
+        "newSymbol": "RITRD",
+        "reverseSplitRate": "1:250",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337914",
+      "cik": "",
+      "ticker": "IGTAW",
+      "title": "INCEPTION GROWTH ACQUISITION LTD Warrant",
+      "published": "2026-11-11T10:01:19.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Matured/Expired · Ticker IGTAW → —",
+      "detail": "Matured/Expired",
+      "marketAction": {
+        "action": "Matured/Expired",
+        "oldSymbol": "IGTAW",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337913",
+      "cik": "",
+      "ticker": "EMTSF",
+      "title": "EMETALS LTD ORDINARY SHS",
+      "published": "2026-11-11T09:54:06.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Addition · Ticker EMTSF → —",
+      "detail": "Addition",
+      "marketAction": {
+        "action": "Addition",
+        "oldSymbol": "EMTSF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337912",
+      "cik": "",
+      "ticker": "AMSLF",
+      "title": "AUSTRALIAN MINES LTD SHS NEW 10/2026",
+      "published": "2026-11-11T08:47:26.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker AMSLD → AMSLF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "AMSLD",
+        "newSymbol": "AMSLF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337015",
       "cik": "",
@@ -2421,7 +2568,7 @@
     }
   ],
   "coverage": {
-    "total": 130,
+    "total": 137,
     "registration": 5,
     "financial": 11,
     "material": 29
