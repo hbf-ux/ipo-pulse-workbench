@@ -1,6 +1,132 @@
 {
-  "fetchedAt": "2026-11-11T17:22:57.688Z",
+  "fetchedAt": "2026-11-11T23:37:18.676Z",
   "items": [
+    {
+      "id": "finra-337940",
+      "cik": "",
+      "ticker": "KNRXF",
+      "title": "KNOREX LTD. USD CL A ORD SHS",
+      "published": "2026-11-11T17:19:07.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Market Center Change Delisted from NYSE · Ticker KNRXF → —",
+      "detail": "Market Center Change Delisted from NYSE",
+      "marketAction": {
+        "action": "Market Center Change Delisted from NYSE",
+        "oldSymbol": "KNRXF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337939",
+      "cik": "",
+      "ticker": "NXXT",
+      "title": "NextNRG, Inc. Common Stock",
+      "published": "2026-11-11T16:08:21.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Market Center Change Delisted from NASDAQ · Ticker NXXT → —",
+      "detail": "Market Center Change Delisted from NASDAQ",
+      "marketAction": {
+        "action": "Market Center Change Delisted from NASDAQ",
+        "oldSymbol": "NXXT",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337938",
+      "cik": "",
+      "ticker": "RITRD",
+      "title": "REITAR LOGTECH HLDGS LTD Ordinary Shares",
+      "published": "2026-11-11T15:57:16.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker RITRF → RITRD · Reverse split 1:250",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "RITRF",
+        "newSymbol": "RITRD",
+        "reverseSplitRate": "1:250",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337934",
+      "cik": "",
+      "ticker": "APLR",
+      "title": "Amplara Corporation Com",
+      "published": "2026-11-11T15:26:03.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Addition · Ticker APLR → —",
+      "detail": "Addition",
+      "marketAction": {
+        "action": "Addition",
+        "oldSymbol": "APLR",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337932",
+      "cik": "",
+      "ticker": "APLRF",
+      "title": "Amplara Corporation Com",
+      "published": "2026-11-11T15:24:31.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Other · Ticker APLRF → —",
+      "detail": "Other",
+      "marketAction": {
+        "action": "Other",
+        "oldSymbol": "APLRF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-337930",
+      "cik": "",
+      "ticker": "APLRF",
+      "title": "Amplara Corporation Com",
+      "published": "2026-11-11T15:21:10.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Addition · Ticker APLRF → —",
+      "detail": "Addition",
+      "marketAction": {
+        "action": "Addition",
+        "oldSymbol": "APLRF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337919",
       "cik": "",
@@ -2568,7 +2694,7 @@
     }
   ],
   "coverage": {
-    "total": 137,
+    "total": 143,
     "registration": 5,
     "financial": 11,
     "material": 29
