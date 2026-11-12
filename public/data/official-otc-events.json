@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T23:37:18.676Z",
+  "fetchedAt": "2026-11-12T04:17:54.962Z",
   "items": [
     {
       "id": "finra-337940",
@@ -2544,157 +2544,10 @@
         "reverseSplitRate": "1:20",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "finra-337576",
-      "cik": "",
-      "ticker": "EWGFF",
-      "title": "AGRION INTL LTD Ordinary Shares",
-      "published": "2026-11-04T16:59:03.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Name/CUSIP Change · Ticker EWGFF → EWGFF",
-      "detail": "Name/CUSIP Change",
-      "marketAction": {
-        "action": "Name/CUSIP Change",
-        "oldSymbol": "EWGFF",
-        "newSymbol": "EWGFF",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337575",
-      "cik": "",
-      "ticker": "LOBKV",
-      "title": "LIVE OAK BANCSHARES INC DEP SHS REPSTG 1/40TH INT NON CUM PERP PFD SER B %",
-      "published": "2026-11-04T16:20:21.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker LOBKV → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "LOBKV",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337574",
-      "cik": "",
-      "ticker": "CZZLF",
-      "title": "CIZZLE BRANDS CORP Common Shares (Canada)",
-      "published": "2026-11-04T16:15:11.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker CZZLF → — · Reverse split 1:25",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "CZZLF",
-        "newSymbol": "",
-        "reverseSplitRate": "1:25",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337567",
-      "cik": "",
-      "ticker": "RVREF",
-      "title": "REVEILLE RES PLC ORD GBP0.01",
-      "published": "2026-11-04T14:36:46.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Addition · Ticker RVREF → —",
-      "detail": "Addition",
-      "marketAction": {
-        "action": "Addition",
-        "oldSymbol": "RVREF",
-        "newSymbol": "",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337555",
-      "cik": "",
-      "ticker": "AVTC",
-      "title": "AVENTUS CAPITAL INC COM",
-      "published": "2026-11-04T11:28:53.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Symbol Change · Ticker WEDX → AVTC",
-      "detail": "Symbol Change",
-      "marketAction": {
-        "action": "Symbol Change",
-        "oldSymbol": "WEDX",
-        "newSymbol": "AVTC",
-        "reverseSplitRate": "",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337499",
-      "cik": "",
-      "ticker": "CZZLD",
-      "title": "CIZZLE BRANDS CORP Common Shares (Canada)",
-      "published": "2026-11-04T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker CZZLF → CZZLD · Reverse split 1:25",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "CZZLF",
-        "newSymbol": "CZZLD",
-        "reverseSplitRate": "1:25",
-        "forwardSplitRate": ""
-      }
-    },
-    {
-      "id": "finra-337520",
-      "cik": "",
-      "ticker": "AOTUD",
-      "title": "PRECINCT PROPERTIES NEW ZEALAND LTD SHS NEW",
-      "published": "2026-11-04T00:00:00.0Z",
-      "link": "https://otce.finra.org/otce/dailyList",
-      "source": "FINRA OTC Daily List",
-      "form": "FINRA Daily List",
-      "category": "Market action",
-      "industry": "OTC market action",
-      "companyIntro": "Reverse Split/CUSIP Change · Ticker AOTUF → AOTUD · Reverse split 16:17",
-      "detail": "Reverse Split/CUSIP Change",
-      "marketAction": {
-        "action": "Reverse Split/CUSIP Change",
-        "oldSymbol": "AOTUF",
-        "newSymbol": "AOTUD",
-        "reverseSplitRate": "16:17",
-        "forwardSplitRate": ""
-      }
     }
   ],
   "coverage": {
-    "total": 143,
+    "total": 136,
     "registration": 5,
     "financial": 11,
     "material": 29
