@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-11-13T01:42:40.203Z",
+  "fetchedAt": "2026-11-13T08:47:42.713Z",
   "items": [
+    {
+      "id": "finra-337917",
+      "cik": "",
+      "ticker": "FDXTF",
+      "title": "Marlin Health Inc. Common Shares",
+      "published": "2026-11-13T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Name/CUSIP Change · Ticker FDXTF → FDXTF",
+      "detail": "Name/CUSIP Change",
+      "marketAction": {
+        "action": "Name/CUSIP Change",
+        "oldSymbol": "FDXTF",
+        "newSymbol": "FDXTF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-337980",
       "cik": "",
@@ -935,17 +956,17 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000092189526003045",
-      "cik": "1786318",
-      "ticker": "IBATF",
-      "title": "INTERNATIONAL BATTERY METALS LTD.",
+      "id": "sec-000110465926126429",
+      "cik": "1123452",
+      "ticker": "ASRMF",
+      "title": "SOUTHEAST AIRPORT GROUP",
       "published": "2026-11-12T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1786318/000092189526003045/0000921895-26-003045-index.htm",
+      "link": "https://www.sec.gov/Archives/edgar/data/1123452/000110465926126429/0001104659-26-126429-index.htm",
       "source": "SEC EDGAR",
       "form": "4",
       "category": "Ownership & governance",
       "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-12 AccNo: 0000921895-26-003045 Size: 14 KB",
+      "companyIntro": "Filed: 2026-11-12 AccNo: 0001104659-26-126429 Size: 8 KB",
       "eventCue": "",
       "chinaConnection": ""
     },
@@ -2003,51 +2024,6 @@
       }
     },
     {
-      "id": "sec-000149315226050741",
-      "cik": "1449349",
-      "ticker": "RDGL",
-      "title": "VIVOS INC",
-      "published": "2026-11-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1449349/000149315226050741/0001493152-26-050741-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-09 AccNo: 0001493152-26-050741 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000143774926035893",
-      "cik": "1742927",
-      "ticker": "RVPH",
-      "title": "REVIVA PHARMACEUTICALS HOLDINGS, INC.",
-      "published": "2026-11-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1742927/000143774926035893/0001437749-26-035893-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-09 AccNo: 0001437749-26-035893 Size: 2 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000110465926124593",
-      "cik": "1831359",
-      "ticker": "JWSWF",
-      "title": "Jaws Mustang Acquisition Corp",
-      "published": "2026-11-09T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1831359/000110465926124593/0001104659-26-124593-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-09 AccNo: 0001104659-26-124593 Size: 569 KB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-337682",
       "cik": "",
       "ticker": "BKTPF",
@@ -2469,8 +2445,8 @@
     }
   ],
   "coverage": {
-    "total": 136,
-    "registration": 5,
+    "total": 134,
+    "registration": 3,
     "financial": 23,
     "material": 34
   },
