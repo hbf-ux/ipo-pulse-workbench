@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T02:38:40.294Z",
+  "fetchedAt": "2026-11-14T09:26:16.950Z",
   "items": [
     {
       "id": "finra-338192",
@@ -1325,6 +1325,21 @@
       "chinaConnection": ""
     },
     {
+      "id": "sec-000119380526001470",
+      "cik": "1799191",
+      "ticker": "DFPH",
+      "title": "Starling Oncology, Inc.",
+      "published": "2026-11-13T00:00:00Z",
+      "link": "https://www.sec.gov/Archives/edgar/data/1799191/000119380526001470/0001193805-26-001470-index.htm",
+      "source": "SEC EDGAR",
+      "form": "4/A",
+      "category": "Ownership & governance",
+      "industry": "Official SEC filing",
+      "companyIntro": "Filed: 2026-11-13 AccNo: 0001193805-26-001470 Size: 6 KB",
+      "eventCue": "",
+      "chinaConnection": ""
+    },
+    {
       "id": "sec-000149315226051904",
       "cik": "1588014",
       "ticker": "ADMQ",
@@ -2057,51 +2072,6 @@
       }
     },
     {
-      "id": "sec-000199592026000017",
-      "cik": "1995920",
-      "ticker": "ESMR",
-      "title": "E-Smart Corp.",
-      "published": "2026-11-10T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1995920/000199592026000017/0001995920-26-000017-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-K",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-10 AccNo: 0001995920-26-000017 Size: 1 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026118008",
-      "cik": "845385",
-      "ticker": "PIAC",
-      "title": "PRINCETON CAPITAL CORP",
-      "published": "2026-11-10T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/845385/000121390026118008/0001213900-26-118008-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-10 AccNo: 0001213900-26-118008 Size: 9 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000121390026118062",
-      "cik": "1859807",
-      "ticker": "NVACW",
-      "title": "Profusa, Inc.",
-      "published": "2026-11-10T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026118062/0001213900-26-118062-index.htm",
-      "source": "SEC EDGAR",
-      "form": "PRE 14A",
-      "category": "Ownership & governance",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-10 AccNo: 0001213900-26-118062 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "finra-337786",
       "cik": "",
       "ticker": "BHLL",
@@ -2586,9 +2556,9 @@
     }
   ],
   "coverage": {
-    "total": 141,
-    "registration": 3,
-    "financial": 24,
+    "total": 139,
+    "registration": 2,
+    "financial": 23,
     "material": 34
   },
   "sourceStatus": [
