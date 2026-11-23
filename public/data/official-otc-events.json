@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-11-23T01:44:40.755Z",
+  "fetchedAt": "2026-11-23T09:51:47.000Z",
   "items": [
+    {
+      "id": "finra-338382",
+      "cik": "",
+      "ticker": "ANDMD",
+      "title": "Andromeda Metals Ltd Ordinary Shares (Australia)",
+      "published": "2026-11-23T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Reverse Split/CUSIP Change · Ticker ANDMF → ANDMD · Reverse split 1:10",
+      "detail": "Reverse Split/CUSIP Change",
+      "marketAction": {
+        "action": "Reverse Split/CUSIP Change",
+        "oldSymbol": "ANDMF",
+        "newSymbol": "ANDMD",
+        "reverseSplitRate": "1:10",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-338632",
       "cik": "",
@@ -2604,7 +2625,7 @@
     }
   ],
   "coverage": {
-    "total": 141,
+    "total": 142,
     "registration": 2,
     "financial": 22,
     "material": 33
