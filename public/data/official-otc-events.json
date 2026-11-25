@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-11-25T01:25:26.003Z",
+  "fetchedAt": "2026-11-25T10:13:50.653Z",
   "items": [
+    {
+      "id": "finra-338775",
+      "cik": "",
+      "ticker": "MHIVF",
+      "title": "Invesque Inc. Common Shares",
+      "published": "2026-11-25T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Acquisition/Merger/Amalgamation · Ticker MHIVF → —",
+      "detail": "Acquisition/Merger/Amalgamation",
+      "marketAction": {
+        "action": "Acquisition/Merger/Amalgamation",
+        "oldSymbol": "MHIVF",
+        "newSymbol": "",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
+    {
+      "id": "finra-338753",
+      "cik": "",
+      "ticker": "CCCUF",
+      "title": "CRITICAL COPPER MINING CORP COM",
+      "published": "2026-11-25T00:00:00.0Z",
+      "link": "https://otce.finra.org/otce/dailyList",
+      "source": "FINRA OTC Daily List",
+      "form": "FINRA Daily List",
+      "category": "Market action",
+      "industry": "OTC market action",
+      "companyIntro": "Symbol Change · Ticker CLGCD → CCCUF",
+      "detail": "Symbol Change",
+      "marketAction": {
+        "action": "Symbol Change",
+        "oldSymbol": "CLGCD",
+        "newSymbol": "CCCUF",
+        "reverseSplitRate": "",
+        "forwardSplitRate": ""
+      }
+    },
     {
       "id": "finra-338777",
       "cik": "",
@@ -1652,21 +1694,6 @@
       "chinaConnection": ""
     },
     {
-      "id": "sec-000149315226053596",
-      "cik": "1672571",
-      "ticker": "AAQL",
-      "title": "Antiaging Quantum Living Inc.",
-      "published": "2026-11-23T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1672571/000149315226053596/0001493152-26-053596-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-23 AccNo: 0001493152-26-053596 Size: 5 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
       "id": "sec-000149315226053720",
       "cik": "1751707",
       "ticker": "OZVN",
@@ -2046,111 +2073,6 @@
         "reverseSplitRate": "",
         "forwardSplitRate": ""
       }
-    },
-    {
-      "id": "sec-000149315226053576",
-      "cik": "1437517",
-      "ticker": "CLOQ",
-      "title": "CYBERLOQ TECHNOLOGIES, INC.",
-      "published": "2026-11-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1437517/000149315226053576/0001493152-26-053576-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-20 AccNo: 0001493152-26-053576 Size: 5 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000175392626002217",
-      "cik": "1318268",
-      "ticker": "MDEX",
-      "title": "Madison Technologies Inc.",
-      "published": "2026-11-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1318268/000175392626002217/0001753926-26-002217-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-20 AccNo: 0001753926-26-002217 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000152013826000513",
-      "cik": "1840102",
-      "ticker": "SPTY",
-      "title": "SPECIFICITY, INC.",
-      "published": "2026-11-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1840102/000152013826000513/0001520138-26-000513-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-20 AccNo: 0001520138-26-000513 Size: 4 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000149315226053564",
-      "cik": "1308027",
-      "ticker": "VYST",
-      "title": "Vystar Corp",
-      "published": "2026-11-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1308027/000149315226053564/0001493152-26-053564-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-20 AccNo: 0001493152-26-053564 Size: 7 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000119312526470502",
-      "cik": "1355790",
-      "ticker": "ISCO",
-      "title": "International Stem Cell CORP",
-      "published": "2026-11-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1355790/000119312526470502/0001193125-26-470502-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-20 AccNo: 0001193125-26-470502 Size: 13 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000109690626001861",
-      "cik": "1360442",
-      "ticker": "DOGP",
-      "title": "Dogecoin Cash, Inc.",
-      "published": "2026-11-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1360442/000109690626001861/0001096906-26-001861-index.htm",
-      "source": "SEC EDGAR",
-      "form": "10-Q",
-      "category": "Financial results",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-20 AccNo: 0001096906-26-001861 Size: 3 MB",
-      "eventCue": "",
-      "chinaConnection": ""
-    },
-    {
-      "id": "sec-000110465926130552",
-      "cik": "1831359",
-      "ticker": "JWSWF",
-      "title": "Jaws Mustang Acquisition Corp",
-      "published": "2026-11-20T00:00:00Z",
-      "link": "https://www.sec.gov/Archives/edgar/data/1831359/000110465926130552/0001104659-26-130552-index.htm",
-      "source": "SEC EDGAR",
-      "form": "DEF 14A",
-      "category": "Registration & financing",
-      "industry": "Official SEC filing",
-      "companyIntro": "Filed: 2026-11-20 AccNo: 0001104659-26-130552 Size: 564 KB",
-      "eventCue": "",
-      "chinaConnection": ""
     },
     {
       "id": "finra-338474",
@@ -3099,9 +3021,9 @@
     }
   ],
   "coverage": {
-    "total": 172,
-    "registration": 4,
-    "financial": 50,
+    "total": 166,
+    "registration": 3,
+    "financial": 43,
     "material": 32
   },
   "sourceStatus": [
